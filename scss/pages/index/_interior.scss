@@ -1,0 +1,30 @@
+@import "../../settings/_settings.scss";
+
+.interior_gallery {
+	padding-top: em(55);
+	background: url('/img/interior_gallery/interior_gallery.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	overflow: hidden;
+	display: block;
+	width: 100%;
+	max-height: 750px;
+	text-align: center;
+
+	.row {
+		padding-top: em(400);
+	}
+
+	h3 {
+		@include span-columns(9 of 16);
+		@include shift(3.5);
+		margin-top: 0;
+	}
+}
+
+.interior_gallery:after {
+	content: "";
+	display: block;
+	padding-bottom: 50%;
+}

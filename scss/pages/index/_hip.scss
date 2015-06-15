@@ -1,0 +1,23 @@
+@import "../../settings/_settings.scss";
+
+.hip-banner {
+	text-align: center;
+	background: #F4F2F2;
+
+	.row {
+		padding-top: em(16);
+		margin-bottom: em(60);
+	}
+
+	h3 {
+		color: #333;
+		text-shadow: none;
+		margin-bottom: rem(32);
+	}
+
+	a.button {
+		span {
+			font-family: $header-font-family;
+		}
+	}
+}

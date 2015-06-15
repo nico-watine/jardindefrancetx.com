@@ -1,0 +1,32 @@
+@import "../../settings/_settings.scss";
+
+.garden {
+	padding-top: em(55);
+	background: url('/img/garden/garden.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	overflow: hidden;
+	display: block;
+	width: 100%;
+	max-height: 710px;
+	text-align: right;
+	border-bottom: em(10) solid #F4F2F2;
+	border-top: em(10) solid $dark-blue;
+
+	h3 {
+		margin-top: 0;
+		margin-bottom: em(30);
+	}
+
+	a.button {
+		font-size: $h5-size;
+		text-shadow: none;
+	}
+}
+
+.garden:after {
+	content: "";
+	display: block;
+	padding-bottom: 50%;
+}

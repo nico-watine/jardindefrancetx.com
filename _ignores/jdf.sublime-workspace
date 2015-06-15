@@ -1,0 +1,1272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rgba",
+				"rgba	rgba()"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"comp",
+				"components/"
+			],
+			[
+				"init",
+				"inherit"
+			],
+			[
+				"off",
+				"offY"
+			],
+			[
+				"ie",
+				"_ie.scss"
+			],
+			[
+				"ind",
+				"index/"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"za",
+				"_zaraza.scss"
+			],
+			[
+				"dm",
+				"_dmesa.scss"
+			],
+			[
+				"sca",
+				"_scale.scss"
+			],
+			[
+				"trans",
+				"_transition.scss"
+			],
+			[
+				"cont",
+				"_contact.scss"
+			],
+			[
+				"bou",
+				"_bounceInDown.scss"
+			],
+			[
+				"por",
+				"_portfolio.scss"
+			],
+			[
+				"_ind",
+				"_index-new.scss"
+			],
+			[
+				"jq",
+				"_jquery.fancybox-buttons.scss"
+			],
+			[
+				"fan",
+				"_jquery.fancybox.scss"
+			],
+			[
+				"n",
+				"normalize.scss"
+			],
+			[
+				"fon",
+				"_fonts.sass"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"tha",
+				"_thanks.scss"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"ab",
+				"_about.scss"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"include",
+				"include	@include"
+			],
+			[
+				"b",
+				"blogs.gif	w:855 h:400"
+			],
+			[
+				"f",
+				"fastclick-load.js"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"c",
+				"contact-template/"
+			],
+			[
+				"p",
+				"twitter.png	w:70 h:70"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"borr",
+				"border-right"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "styh",
+		"selected_items":
+		[
+			[
+				"styh",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"bros",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com"
+	],
+	"file_history":
+	[
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index/components/_typography.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index/pages/index/_header.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/components/_typography.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index/pages/index/_index.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index/pages/index/_body.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/about-us.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/blocks/_header.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/about-us/_header.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index/pages/index/_footer.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.snc.local/_posts/2015-04-18-houston-uncovered-post.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.snc.local/scss/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.snc.local/_posts/2015-03-30-jardin-de-france-tag-examples.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/blog.snc.local/_drafts/rebranding-jardin-de-france.md",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/Dev/scss/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/Dev/js/src/scripts.js",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/Dev/scss/blocks/_body.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/Dev/scss/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/Dev/humans.txt",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/Dev/_ignores/google-tracking-id.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/Dev/css/style.css",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/2/scss/style.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/2/assets/neat_old/settings/_visual-grid.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/2/assets/neat/settings/_visual-grid.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/2/scss/blocks/_footer.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/2/assets/neat_old/settings/_grid.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/about-us.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/portfolio/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/what-we-do.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style-ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/assets/neat/_grid-settings.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index/pages/index/_index.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index/pages/index/_ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/pages/about-us/_ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/pages/portfolio/_header.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/pages/portfolio/_ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/contact.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/pages/contact/_ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/pages/contact/_main.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/blocks/_ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/components/_ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/humans.txt",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index-ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/pages/portfolio/_body.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/pages/services/_main.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/pages/services/_ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/components/_utility-classes.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/blocks/_footer.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/page/services/_ie.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index/pages/index/_footer.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index/pages/index/_body.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index/pages/index/_header.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index/components/_utility-classes.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index/components/_resets.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/css/index-ie.css",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/style/components/_resets.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/scss/index/components/_typography.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/js/src/index-ie8.js",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/DEV/js/src/rem.js",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/about-us.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/portfolio/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/what-we-do.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/contact.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/scss/index/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/scss/style/blocks/_nav.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/scss/style.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/scss/style/pages/portfolio/_main.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/scss/style/pages/portfolio/_portfolio.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/assets/neat/_grid-settings.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/scss/style/blocks/_header.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/css/style.css",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/scss/index/components/_typography.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/STAGING/SNC.com/1/scss/style/components/_buttons.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/_ignores/pages/portfolio/_portfolio.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio/zaraza-design/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio/dmesa-home/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/portfolio/style.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/thanks.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/neat/settings/_visual-grid.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/blocks/_nav.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/components/_buttons.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/contact.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/_contact.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/what-we-do.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/thanks.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/what-we-do/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/components/_typography.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/settings/_development.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/portfolio/_zaraza.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/how-we-do-it/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/blocks/_footer.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/blocks/_body.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/index(old).html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/_about-us.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/blocks/_header.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/portfolio/_featured.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/portfolio/_portfolio.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/_index.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/_thanks.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/css/index.css",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/neat/_grid-settings.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/bower_components/semantic-ui/tasks/install.js",
+		"/Users/nico/SNC Projects/Quattro Stig/Site Resources/Fonts/a-beat/font.css",
+		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nico/SNC Projects/Houston Oculofacial/Site Folder/_ignores/HOF.sublime-workspace",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio/the-deck-on-fountainview/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/git/2.3/README.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/services/_how.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/portfolio/_dmesa.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/snippets.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/git/2.1/README.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/git/2.2/README.md",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/bower_components/picturefill/index.html",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/config.rb",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/css/style.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p",
+			"0px 0px em(4) em(1) #333 inset",
+			"div",
+			"print-work",
+			"active",
+			"text-sha",
+			"center",
+			"h5",
+			"p",
+			"initial",
+			"222",
+			"em(3)",
+			"100",
+			"static",
+			"555",
+			"2",
+			"12",
+			"em(1000)",
+			"button-container",
+			"one-half",
+			"logo",
+			"1px",
+			"logo",
+			"background-position: center center;",
+			"1600",
+			"logo",
+			"true",
+			"false",
+			"true",
+			"false",
+			"true",
+			"false",
+			"true",
+			"false",
+			"$six",
+			"link",
+			"false",
+			"true",
+			"false",
+			"h3",
+			"true",
+			"false",
+			"h1",
+			"eee",
+			"222222",
+			"fff",
+			"true",
+			"false",
+			"desktop",
+			"<picture",
+			"false",
+			"2px",
+			".scale",
+			"h3",
+			"2px",
+			"1px",
+			"000000",
+			"ffffff",
+			"2px",
+			"h4",
+			"top",
+			"transform",
+			"translate",
+			"@media screen and (min-width: 725px) {",
+			"min-w",
+			"true",
+			"6px",
+			".jpg",
+			"one-half",
+			"cod",
+			"logo",
+			"clo",
+			"cecece",
+			"52",
+			"active",
+			"$small",
+			"vertical",
+			"3px",
+			"small-12 medium-10 large-9 small-centered columns",
+			"osw",
+			"question",
+			"services",
+			"nav-sq",
+			"footer-w",
+			"typography",
+			"font-family",
+			"img",
+			"http://img.studioncreations.com",
+			"font-weight",
+			"typo",
+			"desi",
+			"-link",
+			"how we do it",
+			"200px",
+			"100%",
+			"200px",
+			"nav-squares",
+			"nav-ti",
+			"strong",
+			"radius",
+			"eee",
+			"ubuntu",
+			"button",
+			"url",
+			"motorcycle",
+			"1st-post-ever",
+			"post-videobg/",
+			"url",
+			"vendor/",
+			"url('/img/fancybox/",
+			"url('",
+			"url",
+			"/img/daily-pics/",
+			"blog/",
+			"7-sep-2014",
+			"4-sep-2014",
+			".html",
+			"under",
+			"css",
+			"\";\n",
+			"font-f",
+			"ubuntu",
+			"/js/",
+			"/img/portfolio",
+			"excerpt",
+			"/contact.html",
+			"/contact/index.html",
+			"width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@media screen and (min-width: 850px) {",
+			"$mobile-menu",
+			"",
+			"posts/video-bg/",
+			"",
+			"url('../img/fancybox/",
+			"url('/img/fancybox/",
+			"",
+			"http://img.studioncreations.com/js/",
+			"http://img.studioncreations.com/img/portfolio",
+			"/contact",
+			"/contact.html",
+			"",
+			"<br>",
+			"",
+			".",
+			"#dmesa-hover",
+			"max-device-width",
+			"min-device-width",
+			"services-header",
+			"page-header",
+			"css"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jdf.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inty",
+				"scss/index/components/_typography.scss"
+			],
+			[
+				"stty",
+				"scss/style/components/_typography.scss"
+			],
+			[
+				"fon",
+				"scss/style/components/_fonts.scss"
+			],
+			[
+				"inna",
+				"scss/index/pages/index/_nav.scss"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"inse",
+				"scss/index/settings/_settings.scss"
+			],
+			[
+				"inin",
+				"scss/index/pages/index/_index.scss"
+			],
+			[
+				"ty",
+				"scss/style/components/_typography.scss"
+			],
+			[
+				"inhe",
+				"scss/index/pages/index/_header.scss"
+			],
+			[
+				"set",
+				"scss/index/settings/_settings.scss"
+			],
+			[
+				"inhea",
+				"scss/index/pages/index/_header.scss"
+			],
+			[
+				"inbo",
+				"scss/index/pages/index/_body.scss"
+			],
+			[
+				"ins",
+				"scss/index.scss"
+			],
+			[
+				"infont",
+				"scss/index/components/_fonts.scss"
+			],
+			[
+				"indfon",
+				"scss/index/components/_fonts.scss"
+			],
+			[
+				"styfon",
+				"scss/style/components/_fonts.scss"
+			],
+			[
+				"font",
+				"scss/index/components/_fonts.scss"
+			],
+			[
+				"typ",
+				"scss/style/components/_typography.scss"
+			],
+			[
+				"hea",
+				"scss/style/blocks/_header.scss"
+			],
+			[
+				"abou",
+				"about-us.html"
+			],
+			[
+				"abouhea",
+				"scss/style/pages/about-us/_header.scss"
+			],
+			[
+				"stblohea",
+				"scss/style/blocks/_header.scss"
+			],
+			[
+				"infon",
+				"scss/index/components/_fonts.scss"
+			],
+			[
+				"infoo",
+				"scss/index/pages/index/_footer.scss"
+			],
+			[
+				"inf",
+				"scss/index/components/_fonts.scss"
+			],
+			[
+				"ininfo",
+				"scss/index/pages/index/_footer.scss"
+			],
+			[
+				"ininhea",
+				"scss/index/pages/index/_header.scss"
+			],
+			[
+				"inins",
+				"scss/index/pages/index/_index.scss"
+			],
+			[
+				"fonts",
+				"scss/index/components/_fonts.scss"
+			],
+			[
+				"bod",
+				"scss/blocks/_body.scss"
+			],
+			[
+				"sty",
+				"scss/style.scss"
+			],
+			[
+				"na",
+				"scss/blocks/_nav.scss"
+			],
+			[
+				"blogrs",
+				"scss/pages/_blog-roll.scss"
+			],
+			[
+				"stys",
+				"scss/style.scss"
+			],
+			[
+				"inma",
+				"scss/pages/index/_main.scss"
+			],
+			[
+				"m",
+				"scss/pages/index/_main.scss"
+			],
+			[
+				"ut",
+				"scss/components/_utility-classes.scss"
+			],
+			[
+				"ma",
+				"scss/pages/index/_main.scss"
+			],
+			[
+				"but",
+				"scss/components/_buttons.scss"
+			],
+			[
+				"rese",
+				"scss/components/_resets.scss"
+			],
+			[
+				"scip",
+				"js/src/scripts.js"
+			],
+			[
+				"sc",
+				"js/src/scripts.js"
+			],
+			[
+				"scij",
+				"js/src/scripts.js"
+			],
+			[
+				"hum",
+				"humans.txt"
+			],
+			[
+				"styc",
+				"css/style.css"
+			],
+			[
+				"fo",
+				"scss/blocks/_footer.scss"
+			],
+			[
+				"foo",
+				"scss/blocks/_footer.scss"
+			],
+			[
+				"thas",
+				"scss/thanks.scss"
+			],
+			[
+				"inds",
+				"scss/index/pages/index/_index.scss"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"th",
+				"thanks.html"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"por",
+				"portfolio/index.html"
+			],
+			[
+				"wh",
+				"what-we-do.html"
+			],
+			[
+				"gris",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"indindi",
+				"scss/index/pages/index/_index.scss"
+			],
+			[
+				"styi",
+				"scss/style-ie.scss"
+			],
+			[
+				"wha",
+				"what-we-do.html"
+			],
+			[
+				"compie",
+				"scss/style/components/_ie.scss"
+			],
+			[
+				"conma",
+				"scss/style/pages/contact/_main.scss"
+			],
+			[
+				"conies",
+				"scss/style/pages/contact/_ie.scss"
+			],
+			[
+				"porie",
+				"scss/style/pages/portfolio/_ie.scss"
+			],
+			[
+				"porhea",
+				"scss/style/pages/portfolio/_header.scss"
+			],
+			[
+				"porma",
+				"scss/style/pages/portfolio/_main.scss"
+			],
+			[
+				"contmai",
+				"scss/style/pages/contact/_main.scss"
+			],
+			[
+				"cont",
+				"contact.html"
+			],
+			[
+				"contaiesc",
+				"scss/style/pages/contact/_ie.scss"
+			],
+			[
+				"inies",
+				"scss/index-ie.scss"
+			],
+			[
+				"ie",
+				"scss/style/pages/portfolio/_ie.scss"
+			],
+			[
+				"indindie",
+				"scss/index/pages/index/_ie.scss"
+			],
+			[
+				"styies",
+				"scss/style-ie.scss"
+			],
+			[
+				"grids",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"indhea",
+				"scss/index/pages/index/_header.scss"
+			],
+			[
+				"indiec",
+				"css/index-ie.css"
+			],
+			[
+				"inie",
+				"scss/index/pages/index/_ie.scss"
+			],
+			[
+				"indut",
+				"scss/index/components/_utility-classes.scss"
+			],
+			[
+				"indexiescs",
+				"scss/index/pages/index/_ie.scss"
+			],
+			[
+				"indscs",
+				"scss/index/pages/index/_index.scss"
+			],
+			[
+				"iesc",
+				"scss/index/pages/index/_ie.scss"
+			],
+			[
+				"rest",
+				"scss/index/components/_resets.scss"
+			],
+			[
+				"resets",
+				"scss/style/components/_resets.scss"
+			],
+			[
+				"grid",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"gri",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"inpain",
+				"scss/index/pages/index/_index.scss"
+			],
+			[
+				"indi",
+				"scss/index-ie.scss"
+			],
+			[
+				"ab",
+				"about-us.html"
+			],
+			[
+				"pors",
+				"scss/style/pages/portfolio/_portfolio.scss"
+			],
+			[
+				"styportmai",
+				"scss/style/pages/portfolio/_main.scss"
+			],
+			[
+				"sthea",
+				"scss/style/blocks/_header.scss"
+			],
+			[
+				"nav",
+				"scss/style/blocks/_nav.scss"
+			],
+			[
+				"stc",
+				"css/style.css"
+			],
+			[
+				"pori",
+				"portfolio/index.html"
+			],
+			[
+				"tha",
+				"thanks.html"
+			],
+			[
+				"porin",
+				"portfolio/index.html"
+			],
+			[
+				"conts",
+				"scss/pages/_contact.scss"
+			],
+			[
+				"ths",
+				"scss/thanks.scss"
+			],
+			[
+				"inde",
+				"css/index.css"
+			],
+			[
+				"thanks",
+				"scss/pages/_thanks.scss"
+			],
+			[
+				"t",
+				"scss/thanks.scss"
+			],
+			[
+				"thans",
+				"scss/thanks.scss"
+			],
+			[
+				"thanh",
+				"thanks.html"
+			],
+			[
+				"thah",
+				"thanks.html"
+			],
+			[
+				"",
+				"scss/thanks.scss"
+			],
+			[
+				"thank",
+				"scss/pages/_thanks.scss"
+			],
+			[
+				"fea",
+				"scss/pages/portfolio/_featured.scss"
+			],
+			[
+				"za",
+				"portfolio/zaraza-design/index.html"
+			],
+			[
+				"dmesah",
+				"portfolio/dmesa-home/index.html"
+			],
+			[
+				"servin",
+				"services/index.html"
+			],
+			[
+				"porh",
+				"portfolio/index.html"
+			],
+			[
+				"how",
+				"services/how-we-do-it/index.html"
+			],
+			[
+				"abosc",
+				"scss/pages/_about-us.scss"
+			],
+			[
+				"contsc",
+				"scss/pages/_contact.scss"
+			],
+			[
+				"indo",
+				"index(old).html"
+			],
+			[
+				"vis",
+				"assets/neat/settings/_visual-grid.scss"
+			],
+			[
+				"pos",
+				"scss/pages/portfolio/_portfolio.scss"
+			],
+			[
+				"poin",
+				"portfolio/the-deck-on-fountainview/index.html"
+			],
+			[
+				"inh",
+				"index.html"
+			],
+			[
+				"vi",
+				"assets/neat/settings/_visual-grid.scss"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"zain",
+				"portfolio/zaraza-design/index.html"
+			],
+			[
+				"zas",
+				"scss/pages/portfolio/_zaraza.scss"
+			],
+			[
+				"dev",
+				"scss/settings/_development.scss"
+			],
+			[
+				"dmein",
+				"portfolio/dmesa-home/index.html"
+			],
+			[
+				"de",
+				"scss/settings/_development.scss"
+			],
+			[
+				"prfo",
+				"scss/pages/portfolio/_portfolio.scss"
+			],
+			[
+				"dme",
+				"scss/pages/portfolio/_dmesa.scss"
+			],
+			[
+				"dmei",
+				"portfolio/dmesa-home/index.html"
+			],
+			[
+				"dmesin",
+				"portfolio/dmesa-home/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"j",
+				"~/SNC Projects/Jardin de France/Site Folder/STAGING/DEVELOPMENT/_ignores/jdf.sublime-project"
+			],
+			[
+				"n",
+				"~/Web Development/New Project Boilerplate/Site Folder/STAGING/DEVELOPMENT/_ignores/new-site-dev.sublime-project"
+			],
+			[
+				"",
+				"~/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/2/_ignores/hu.sublime-workspace"
+			],
+			[
+				"h",
+				"~/SNC Projects/Houston Uncovered/Site Folder/STAGING/HU.com/1/_ignores/hu.sublime-project"
+			],
+			[
+				"gr",
+				"~/SNC Projects/GreencareTX/Site Folder/greencaretx.com/_ignores/greencaretx.sublime-project"
+			],
+			[
+				"sna",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com:about-us/_ignores/snc-about.sublime-project"
+			],
+			[
+				"ho",
+				"~/SNC Projects/houstonuncovered.com/Site Folder/houstonuncovered.com/_ignores/houston-uncovered.sublime-project"
+			],
+			[
+				"sni",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com:index/_ignores/snc-index.sublime-project"
+			],
+			[
+				"b",
+				"~/SNC Projects/Studio N Creations/Site Folder/blog.snc.local/_ignores/blog-snc.sublime-project"
+			],
+			[
+				"bl",
+				"~/SNC Projects/Studio N Creations/Site Folder/blog.snc.local/_ignores/blog-snc.sublime-project"
+			],
+			[
+				"gc",
+				"~/SNC Projects/GreencareTX/Site Folder/greencaretx.com/_ignores/greencaretx.sublime-project"
+			],
+			[
+				"l",
+				"~/SNC Projects/Lisa Esposito/Site Folder/lisaesposito.com/_ignores/lisa.sublime-project"
+			],
+			[
+				"g",
+				"~/SNC Projects/GreencareTX/Site Folder/greencaretx.com/_ignores/greencaretx.sublime-project"
+			],
+			[
+				"s",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+			],
+			[
+				"sn",
+				"~/SNC Projects/Studio N Creations/Site Folder/Under Development/_ignores/snc-new.sublime-project"
+			],
+			[
+				"d",
+				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
+			],
+			[
+				"sncn",
+				"~/SNC Projects/Studio N Creations/Site Folder/Under Development/_ignores/snc-new.sublime-project"
+			],
+			[
+				"z",
+				"~/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/development/htdocs/_ignores/zaraza.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

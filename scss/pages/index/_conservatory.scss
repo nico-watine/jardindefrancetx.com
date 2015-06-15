@@ -1,0 +1,31 @@
+@import "../../settings/_settings.scss";
+
+.conservatory {
+	padding-top: em(55);
+	background: url('/img/conservatory/conservatory.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	overflow: hidden;
+	display: block;
+	width: 100%;
+	max-height: 710px;
+	text-align: center;
+
+	.row {
+		padding-top: em(420);
+	}
+
+	h3 {
+		margin-top: 0;
+		margin-bottom: em(30);
+		@include span-columns(10 of 16);
+		@include shift(3);
+	}
+}
+
+.conservatory:after {
+	content: "";
+	display: block;
+	padding-bottom: 50%;
+}

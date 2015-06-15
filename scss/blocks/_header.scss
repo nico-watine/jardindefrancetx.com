@@ -1,0 +1,42 @@
+@import "../settings/_settings.scss";
+
+header {
+	background: #697B99;
+	box-shadow: 0px em(2) em(2) 0px rgba(0,0,0,0.20), 0px em(6) em(10) 0px rgba(0,0,0,0.30);
+	height: em(55);
+	width: 100%;
+	position: fixed;
+	z-index: 10;
+}
+
+.logo {
+	@include span-columns(4 of 16);
+
+	a {
+		text-decoration: none;
+	}
+
+	img {
+		max-width: em(65);
+		height: auto;
+		float: left;
+		z-index: 55;
+	}
+
+	h1 {
+		text-shadow: 0px rem(6) rem(10) rgba(0,0,0,0.30);
+		margin: 0;
+		top: 0;
+		left: 28px;
+		z-index: 55;
+	}
+}
+
+
+
+
+
+
+
+
+
