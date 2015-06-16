@@ -133,11 +133,11 @@ html { -moz-box-sizing: border-box; box-sizing: border-box; }
   src: url("/fonts/parisienne/parisienne.eot?#iefix") format("embedded-opentype"), url("/fonts/parisienne/parisienne.woff") format("woff"), url("/fonts/parisienne/parisienne.ttf") format("truetype"), url("/fonts/parisienne/parisienne.svg#1d22900623fa53f8ea3f4e9e03fd0e84") format("svg");
   /* Legacy iOS */
   font-style: normal; font-weight: 400; }
-@font-face { font-family: 'Muller Light'; src: url("/fonts/muller/light/muller.eot");
+@font-face { font-family: 'Muller Regular'; src: url("/fonts/muller/regular/muller.eot");
   /* IE9 Compat Modes */
-  src: url("/fonts/muller/light/muller.eot?#iefix") format("embedded-opentype"), url("/fonts/muller/light/muller.woff") format("woff"), url("/fonts/muller/light/muller.ttf") format("truetype"), url("/fonts/muller/light/muller.svg#390de13ad8f6d0e9535e43224e60e2c0") format("svg");
+  src: url("/fonts/muller/regular/muller.eot?#iefix") format("embedded-opentype"), url("/fonts/muller/regular/muller.woff") format("woff"), url("/fonts/muller/regular/muller.ttf") format("truetype"), url("/fonts/muller/regular/muller.svg#7b841d44195ea2cd4740c78fd79d7da8") format("svg");
   /* Legacy iOS */
-  font-style: normal; font-weight: 200; }
+  font-style: normal; font-weight: 400; }
 @font-face { font-family: 'nav'; src: url("/fonts/nav/nav.eot");
   /* IE9 Compat Modes */
   src: url("/fonts/nav/nav.eot?#iefix") format("embedded-opentype"), url("/fonts/nav/nav.woff") format("woff"), url("/fonts/nav/nav.ttf") format("truetype"), url("/fonts/nav/nav.svg#1da3456e837ae6ef244abd56d21c2bc6") format("svg");
@@ -147,7 +147,7 @@ html { font-size: 1em; }
 
 html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; -moz-osx-font-smoothing: grayscale; }
 
-body { color: #fff; font-weight: 400; font-family: "Muller Light", sans-serif; line-height: 1.4; }
+body { color: #fff; font-weight: 400; font-family: "Muller Regular", sans-serif; line-height: 1.4; }
 
 p { margin-bottom: 1.3em; }
 

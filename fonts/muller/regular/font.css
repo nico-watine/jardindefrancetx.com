@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Muller Regular';
+  src: url('Muller Regular.eot'); /* IE9 Compat Modes */
+  src: url('Muller Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Muller Regular.woff') format('woff'), /* Modern Browsers */
+       url('Muller Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Muller Regular.svg#7b841d44195ea2cd4740c78fd79d7da8') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
