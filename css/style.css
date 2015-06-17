@@ -184,6 +184,7 @@ h6 { font-size: 0.75em; }
   h4 { font-size: 1em; }
   h5 { font-size: 0.75em; }
   h6 { font-size: 0.75em; } }
+@media screen and (max-width: 31.25em) { h1.title { font-size: 3.125rem; } }
 html, body { margin: 0; padding: 0; height: 100%; }
 
 audio, canvas, img, video { vertical-align: middle; }
@@ -213,8 +214,6 @@ a.button:hover, button:hover { color: #000; background: #FFFE90; box-shadow: 0px
 .padding { padding: 0 1em; }
 
 body { background: #F4F2F2; }
-
-section h1.title { font-size: 3.875em; }
 
 header { background: #697B99; box-shadow: 0px 0.125em 0.125em 0px rgba(0, 0, 0, 0.2), 0px 0.375em 0.625em 0px rgba(0, 0, 0, 0.3); height: 3.4375em; width: 100%; position: fixed; z-index: 10; }
 

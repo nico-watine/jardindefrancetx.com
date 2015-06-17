@@ -130,3 +130,8 @@ h6 {
 	}
 }
 
+@include media($small) {
+	h1.title {
+		font-size: rem(50);
+	}
+}
