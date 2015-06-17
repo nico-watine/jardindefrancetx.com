@@ -289,10 +289,16 @@ video#bgvid { position: fixed; left: 0; top: 0; min-width: 100%; min-height: 100
 .splash h1 { margin-bottom: 1rem; }
 .splash h3 { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-left: 12.71973%; margin-top: 0; margin-bottom: 1.875em; }
 .splash h3:last-child { margin-right: 0; }
-.splash a.button { font-family: "Parisienne", sans-serif; font-size: 1.777em; }
+.splash a.button { font-family: "Parisienne", sans-serif; font-size: 1.777em; margin-bottom: 1.875rem; }
 
 h3.slogan { font-size: 1.375rem; margin-bottom: 2.125rem; }
 
+@media screen and (max-width: 31.25em) { .splash .row { padding-top: 6.25em; }
+  .splash h3 { float: left; display: block; margin-right: 3.57866%; width: 87.05267%; margin-left: 6.47367%; }
+  .splash h3:last-child { margin-right: 0; } }
+@media screen and (max-width: 23.75em) { .splash h1 { font-size: 2.625rem; }
+  .splash h3 { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-left: 0%; }
+  .splash h3:last-child { margin-right: 0; } }
 .garden { padding-top: 3.4375em; background: url("/img/garden/garden.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 50%; overflow: hidden; display: block; width: 100%; max-height: 710px; text-align: right; border-bottom: 0.625em solid #F4F2F2; border-top: 0.625em solid #697B99; }
 .garden h3 { margin-top: 0; margin-bottom: 1.875em; }
 .garden a.button { font-size: 1em; text-shadow: none; }
