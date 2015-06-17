@@ -351,6 +351,8 @@ h3.slogan { font-size: 1.375rem; margin-bottom: 2.125rem; }
 
 .profile-pic#nicolas { text-align: left; }
 
+@media screen and (max-width: 46.875em) { .about { height: auto; }
+  .profile-pic { padding: 0 0.625em; } }
 .location { background: url("/img/location/location.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 50%; overflow: hidden; display: block; width: 100%; max-height: 800px; text-align: center; text-align: left; }
 .location h4 { margin: 0 auto; float: left; display: block; margin-right: 1.75788%; width: 36.40133%; }
 .location h4:last-child { margin-right: 0; }

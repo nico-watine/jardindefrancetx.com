@@ -33,3 +33,13 @@
 .profile-pic#nicolas {
 	text-align: left;
 }
+
+@include media($medium) {
+	.about {
+		height: auto;
+	}
+
+	.profile-pic {
+		padding: 0 em(10);
+	}
+}
