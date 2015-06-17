@@ -29,3 +29,20 @@
 	display: block;
 	padding-bottom: 50%;
 }
+
+@include media($medium) {
+	.conservatory {
+		h3 {
+			@include span-columns(14 of 16);
+			@include shift(1 of 16);
+		}
+	}
+}
+
+@include media($small) {
+	.conservatory {
+		.row {
+			padding-top: em(200);
+		}
+	}	
+}

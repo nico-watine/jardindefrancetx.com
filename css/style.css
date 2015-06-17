@@ -184,6 +184,7 @@ h6 { font-size: 0.75em; }
   h4 { font-size: 1em; }
   h5 { font-size: 0.75em; }
   h6 { font-size: 0.75em; } }
+@media screen and (max-width: 31.25em) { h1.title { font-size: 3.125rem; } }
 html, body { margin: 0; padding: 0; height: 100%; }
 
 audio, canvas, img, video { vertical-align: middle; }
@@ -213,8 +214,6 @@ a.button:hover, button:hover { color: #000; background: #FFFE90; box-shadow: 0px
 .padding { padding: 0 1em; }
 
 body { background: #F4F2F2; }
-
-section h1.title { font-size: 3.875em; }
 
 header { background: #697B99; box-shadow: 0px 0.125em 0.125em 0px rgba(0, 0, 0, 0.2), 0px 0.375em 0.625em 0px rgba(0, 0, 0, 0.3); height: 3.4375em; width: 100%; position: fixed; z-index: 10; }
 
@@ -276,13 +275,13 @@ header { background: #697B99; box-shadow: 0px 0.125em 0.125em 0px rgba(0, 0, 0, 
   .nav-collapse:last-child { margin-right: 0; }
   .nav-collapse a { padding: 0 0.625em; font-size: 1.125rem; } }
 @media screen and (min-width: 831px) { .nav-collapse a { padding: 0 0.625em; font-size: 1.0625rem; } }
+@media screen and (max-width: 890px) { .logo h1 { font-size: 2.5rem; } }
 @media screen and (max-width: 62.5em) { .logo { float: left; display: block; margin-right: 1.75788%; width: -1.75788%; }
   .logo:last-child { margin-right: 0; }
   .logo img { position: absolute; left: 0.3125em; }
   .logo h1 { position: absolute; top: 0.3125rem; left: 1.25rem; }
   .nav-collapse { float: left; display: block; margin-right: 1.75788%; width: 100%; }
   .nav-collapse:last-child { margin-right: 0; } }
-@media screen and (max-width: 51.875em) { .logo h1 { font-size: 2.5rem; } }
 video#bgvid { position: fixed; left: 0; top: 0; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -100; background: url("/img/splash/poster.jpg") no-repeat; background-size: cover; }
 
 .splash { padding-top: 3.4375em; text-align: center; min-height: 100%; }
@@ -290,16 +289,29 @@ video#bgvid { position: fixed; left: 0; top: 0; min-width: 100%; min-height: 100
 .splash h1 { margin-bottom: 1rem; }
 .splash h3 { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-left: 12.71973%; margin-top: 0; margin-bottom: 1.875em; }
 .splash h3:last-child { margin-right: 0; }
-.splash a.button { font-family: "Parisienne", sans-serif; font-size: 1.777em; }
+.splash a.button { font-family: "Parisienne", sans-serif; font-size: 1.777em; margin-bottom: 1.875rem; }
 
 h3.slogan { font-size: 1.375rem; margin-bottom: 2.125rem; }
 
+@media screen and (max-width: 31.25em) { .splash .row { padding-top: 6.25em; }
+  .splash h3 { float: left; display: block; margin-right: 3.57866%; width: 87.05267%; margin-left: 6.47367%; }
+  .splash h3:last-child { margin-right: 0; } }
+@media screen and (max-width: 23.75em) { .splash h1 { font-size: 2.625rem; }
+  .splash h3 { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-left: 0%; }
+  .splash h3:last-child { margin-right: 0; } }
 .garden { padding-top: 3.4375em; background: url("/img/garden/garden.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 50%; overflow: hidden; display: block; width: 100%; max-height: 710px; text-align: right; border-bottom: 0.625em solid #F4F2F2; border-top: 0.625em solid #697B99; }
-.garden h3 { margin-top: 0; margin-bottom: 1.875em; }
+.garden h3 { margin-top: 0; margin-bottom: 1.875em; float: left; display: block; margin-right: 1.75788%; width: 55.48093%; margin-left: 44.51907%; }
+.garden h3:last-child { margin-right: 0; }
+.garden h3 span { display: inline-block; }
 .garden a.button { font-size: 1em; text-shadow: none; }
 
 .garden:after { content: ""; display: block; padding-bottom: 50%; }
 
+@media screen and (max-width: 890px) { .garden h3 { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-left: 25.43947%; }
+  .garden h3:last-child { margin-right: 0; } }
+@media screen and (max-width: 31.25em) { .garden { text-align: center; }
+  .garden h3 { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-left: 0%; }
+  .garden h3:last-child { margin-right: 0; } }
 .conservatory { padding-top: 3.4375em; background: url("/img/conservatory/conservatory.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 50%; overflow: hidden; display: block; width: 100%; max-height: 710px; text-align: center; }
 .conservatory .row { padding-top: 26.25em; }
 .conservatory h3 { margin-top: 0; margin-bottom: 1.875em; float: left; display: block; margin-right: 1.75788%; width: 61.8408%; margin-left: 19.0796%; }
@@ -307,9 +319,13 @@ h3.slogan { font-size: 1.375rem; margin-bottom: 2.125rem; }
 
 .conservatory:after { content: ""; display: block; padding-bottom: 50%; }
 
+@media screen and (max-width: 46.875em) { .conservatory h3 { float: left; display: block; margin-right: 1.75788%; width: 87.28027%; margin-left: 6.35987%; }
+  .conservatory h3:last-child { margin-right: 0; } }
+@media screen and (max-width: 31.25em) { .conservatory .row { padding-top: 12.5em; } }
 .hip-banner { text-align: center; background: url("/img/about/bg.jpg"); }
 .hip-banner .row { padding-top: 1em; margin-bottom: 3.75em; }
 .hip-banner h3 { color: #333; text-shadow: none; margin-bottom: 2rem; }
+.hip-banner h3 span { display: inline-block; }
 .hip-banner a.button span { font-family: "Parisienne", sans-serif; }
 
 .interior_gallery { padding-top: 3.4375em; background: url("/img/interior_gallery/interior_gallery.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 50%; overflow: hidden; display: block; width: 100%; max-height: 750px; text-align: center; }
@@ -319,6 +335,10 @@ h3.slogan { font-size: 1.375rem; margin-bottom: 2.125rem; }
 
 .interior_gallery:after { content: ""; display: block; padding-bottom: 50%; }
 
+@media screen and (max-width: 62.5em) { .interior_gallery h3 { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-left: 12.71973%; }
+  .interior_gallery h3:last-child { margin-right: 0; } }
+@media screen and (max-width: 46.875em) { .interior_gallery h3 { float: left; display: block; margin-right: 2.84259%; width: 100%; margin-left: 0%; }
+  .interior_gallery h3:last-child { margin-right: 0; } }
 .about { width: 100%; height: 500px; text-align: center; background: url("/img/about/bg.jpg"); }
 .about .row#story { padding: 3.4375em 0.625em 0; }
 .about .row#pics { padding: 2.5em 0; }

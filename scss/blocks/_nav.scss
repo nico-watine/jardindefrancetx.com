@@ -219,6 +219,14 @@
 	}
 }
 
+@media screen and (max-width: 890px) {
+	.logo {
+		h1 {
+			font-size: rem(40);
+		}
+	}
+}
+
 @include media($large) {
 	.logo {
 		@include span-columns(0 of 16);
@@ -240,10 +248,3 @@
 	}
 }
 
-@include media($medium-plus) {
-	.logo {
-		h1 {
-			font-size: rem(40);
-		}
-	}
-}

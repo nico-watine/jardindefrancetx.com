@@ -13,6 +13,10 @@
 		color: #333;
 		text-shadow: none;
 		margin-bottom: rem(32);
+
+		span {
+			display: inline-block;
+		}
 	}
 
 	a.button {

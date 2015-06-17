@@ -31,10 +31,36 @@ video#bgvid {
 	a.button {
 		font-family: $header-font-family;
 		font-size: $h3-size;
+		margin-bottom: rem(30);
 	}
 }
 
 h3.slogan {
 	font-size: rem(22);
 	margin-bottom: rem(34);
+}
+
+@include media($small) {
+	.splash {
+		.row {
+			padding-top: em(100);
+		}
+		h3 {
+			@include span-columns(7 of 8);
+			@include shift(0.5);
+		}
+	}
+}
+
+@include media($tiny) {
+	.splash {
+		h1 {
+			font-size: rem(42);
+		}
+
+		h3 {
+			@include span-columns(8 of 8);
+			@include shift(0);
+		}
+	}
 }
