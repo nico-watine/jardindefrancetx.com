@@ -28,3 +28,21 @@
 	display: block;
 	padding-bottom: 50%;
 }
+
+@include media($large) {
+	.interior_gallery {
+		h3 {
+			@include span-columns(12 of 16);
+			@include shift(2 of 16);
+		}
+	}
+}
+
+@include media($medium) {
+	.interior_gallery {
+		h3 {
+			@include span-columns(10 of 10);
+			@include shift(0);
+		}
+	}
+}
