@@ -38,8 +38,21 @@
 	padding-bottom: 50%;
 }
 
+@media screen and (max-width: 890px) {
+	.garden {
+		h3 {
+			@include span-columns(12 of 16);
+			@include shift(4 of 16);
+		}
+	}
+}
 @include media($small) {
 	.garden {
 		text-align: center;
+
+		h3 {
+			@include span-columns(8 of 8);
+			@include shift(0);
+		}
 	}
 }
