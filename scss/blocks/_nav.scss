@@ -200,6 +200,12 @@
 }
 
 @media screen and (min-width: 1002px) {
+	// .logo {
+	// 	h1 {
+	// 		font-size: rem(40);
+	// 	}
+	// }
+
 	.nav-collapse {
 		@include span-columns(12 of 16);
 
@@ -215,6 +221,14 @@
 		a {
 			padding: 0 em(10);
 			font-size: rem(17);
+		}
+	}
+}
+
+@media screen and (max-width: 890px) {
+	.logo {
+		h1 {
+			font-size: rem(40);
 		}
 	}
 }
@@ -240,10 +254,3 @@
 	}
 }
 
-@include media($medium-plus) {
-	.logo {
-		h1 {
-			font-size: rem(40);
-		}
-	}
-}

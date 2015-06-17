@@ -275,13 +275,13 @@ header { background: #697B99; box-shadow: 0px 0.125em 0.125em 0px rgba(0, 0, 0, 
   .nav-collapse:last-child { margin-right: 0; }
   .nav-collapse a { padding: 0 0.625em; font-size: 1.125rem; } }
 @media screen and (min-width: 831px) { .nav-collapse a { padding: 0 0.625em; font-size: 1.0625rem; } }
+@media screen and (max-width: 890px) { .logo h1 { font-size: 2.5rem; } }
 @media screen and (max-width: 62.5em) { .logo { float: left; display: block; margin-right: 1.75788%; width: -1.75788%; }
   .logo:last-child { margin-right: 0; }
   .logo img { position: absolute; left: 0.3125em; }
   .logo h1 { position: absolute; top: 0.3125rem; left: 1.25rem; }
   .nav-collapse { float: left; display: block; margin-right: 1.75788%; width: 100%; }
   .nav-collapse:last-child { margin-right: 0; } }
-@media screen and (max-width: 51.875em) { .logo h1 { font-size: 2.5rem; } }
 video#bgvid { position: fixed; left: 0; top: 0; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -100; background: url("/img/splash/poster.jpg") no-repeat; background-size: cover; }
 
 .splash { padding-top: 3.4375em; text-align: center; min-height: 100%; }
@@ -300,11 +300,14 @@ h3.slogan { font-size: 1.375rem; margin-bottom: 2.125rem; }
   .splash h3 { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-left: 0%; }
   .splash h3:last-child { margin-right: 0; } }
 .garden { padding-top: 3.4375em; background: url("/img/garden/garden.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 50%; overflow: hidden; display: block; width: 100%; max-height: 710px; text-align: right; border-bottom: 0.625em solid #F4F2F2; border-top: 0.625em solid #697B99; }
-.garden h3 { margin-top: 0; margin-bottom: 1.875em; }
+.garden h3 { margin-top: 0; margin-bottom: 1.875em; float: left; display: block; margin-right: 1.75788%; width: 55.48093%; margin-left: 44.51907%; }
+.garden h3:last-child { margin-right: 0; }
+.garden h3 span { display: inline-block; }
 .garden a.button { font-size: 1em; text-shadow: none; }
 
 .garden:after { content: ""; display: block; padding-bottom: 50%; }
 
+@media screen and (max-width: 31.25em) { .garden { text-align: center; } }
 .conservatory { padding-top: 3.4375em; background: url("/img/conservatory/conservatory.jpg"); background-repeat: no-repeat; background-size: cover; background-position: 50%; overflow: hidden; display: block; width: 100%; max-height: 710px; text-align: center; }
 .conservatory .row { padding-top: 26.25em; }
 .conservatory h3 { margin-top: 0; margin-bottom: 1.875em; float: left; display: block; margin-right: 1.75788%; width: 61.8408%; margin-left: 19.0796%; }

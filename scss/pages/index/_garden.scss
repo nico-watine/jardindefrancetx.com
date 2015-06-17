@@ -17,6 +17,13 @@
 	h3 {
 		margin-top: 0;
 		margin-bottom: em(30);
+
+		@include span-columns(9 of 16);
+		@include shift(7);
+
+		span {
+			display: inline-block;
+		}
 	}
 
 	a.button {
@@ -29,4 +36,10 @@
 	content: "";
 	display: block;
 	padding-bottom: 50%;
+}
+
+@include media($small) {
+	.garden {
+		text-align: center;
+	}
 }
