@@ -39,3 +39,10 @@
 	}
 }
 
+@include media($small) {
+	.conservatory {
+		.row {
+			padding-top: em(200);
+		}
+	}	
+}
