@@ -200,12 +200,6 @@
 }
 
 @media screen and (min-width: 1002px) {
-	// .logo {
-	// 	h1 {
-	// 		font-size: rem(40);
-	// 	}
-	// }
-
 	.nav-collapse {
 		@include span-columns(12 of 16);
 
