@@ -25,30 +25,32 @@
 
 <body>
 
-
-<section>
-	<div class="single-item slick-slider slides">
-		<div class="garden-slide slide-1">
+<section id="garden-slides">
+		<div class="section-content">
 			<div class="outer-container">
-				<div class="row padding">
+				<div class="row">
 					<h1 class="title">The Gardens</h1>
-					<h3>Come join us for Wine & Cheese night in The Gardens, every Thursday - <span>6 to 8</span></h3>
-				</div>
-				<div class="row padding">
-					<h4>You can see some of our past events <br>on our <a href="#" class="button">Facebook Page</a></h4>
 				</div>
 			</div>
 		</div>
-		<div class="garden-slide slide-2">
+		<div class="single-item slick-slider slides">
+			<div class="garden-slide slide-1 bottom"></div>
+			<div class="garden-slide slide-2 bottom"></div>
+		</div>
+</section>
+
+<section id="garden-slides">
+	<div class="relative">
+		<div class="section-content">
 			<div class="outer-container">
-				<div class="row padding">
+				<div class="row">
 					<h1 class="title">The Gardens</h1>
-					<h3>Come join us for Wine & Cheese night in The Gardens, every Thursday - <span>6 to 8</span></h3>
-				</div>
-				<div class="row padding">
-					<h4>You can see some of our past events <br>on our <a href="#" class="button">Facebook Page</a></h4>
 				</div>
 			</div>
+		</div>
+		<div class="single-item slick-slider slides">
+			<div class="garden-slide slide-1 bottom"></div>
+			<div class="garden-slide slide-2 bottom"></div>
 		</div>
 	</div>
 </section>
@@ -60,10 +62,8 @@
 <script>
 	$(document).ready(function(){
 	  $('.single-item').slick({
-	    fade: true,
+	  	fade: true,
 	    dots: true,
-	    // autoplay: true,
-	    // pauseOnHover: false,
 	    lazyLoad: 'progressive'
 	  });
 	});

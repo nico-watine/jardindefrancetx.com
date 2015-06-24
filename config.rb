@@ -1,6 +1,7 @@
 require 'compass/import-once/activate'
 # Require any additional compass plugins here.
 add_import_path "assets/neat"
+# add_import_path "assets/bower_components/slick-carousel/slick"
 add_import_path "scss"
 
 # Set this to the root of your project when deployed:
