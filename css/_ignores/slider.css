@@ -433,7 +433,7 @@ html {
 
 /* Slider */
 .slick-loading .slick-list {
-  background: #fff url('/img/slick/ajax-loader.gif?1431502531') center center no-repeat; }
+  background: #fff url('/img/slick/ajax-loader.gif?1435167450') center center no-repeat; }
 
 /* Icons */
 @font-face {
@@ -455,7 +455,7 @@ html {
   cursor: pointer;
   background: transparent;
   color: transparent;
-  top: 50%;
+  top: 85%;
   margin-top: -10px;
   padding: 0;
   border: none;
@@ -559,23 +559,28 @@ html {
 
 .section-content {
   position: absolute;
+  margin-top: 3.4375em;
   height: 100%;
   z-index: 40;
   width: 100%; }
 
-.garden-slide.slide-1 {
-  padding-top: 3.4375em;
-  background: url("/img/garden/garden-1.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50%;
-  overflow: hidden;
-  display: block;
-  width: 100%;
-  height: 710px;
+section.garden-slides {
   text-align: right;
   border-bottom: 0.625em solid #F4F2F2; }
-  .garden-slide.slide-1 h3 {
+  section.garden-slides .slide-1 {
+    background: url("/img/garden/garden-1.jpg"); }
+  section.garden-slides .slide-2 {
+    background: url("/img/garden/garden-2.jpg"); }
+  section.garden-slides .slide-1,
+  section.garden-slides .slide-2 {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    overflow: hidden;
+    display: block;
+    width: 100%;
+    height: 710px; }
+  section.garden-slides h3 {
     margin-top: 0;
     margin-bottom: 1.875em;
     float: left;
@@ -583,48 +588,43 @@ html {
     margin-right: 1.75788%;
     width: 55.48093%;
     margin-left: 44.51907%; }
-    .garden-slide.slide-1 h3:last-child {
+    section.garden-slides h3:last-child {
       margin-right: 0; }
-    .garden-slide.slide-1 h3 span {
+    section.garden-slides h3 span {
       display: inline-block; }
-  .garden-slide.slide-1 a.button {
+  section.garden-slides a.button {
     font-size: 1em;
     text-shadow: none; }
 
-.garden-slide:after {
-  content: "";
-  display: block;
-  padding-bottom: 50%; }
-
-.garden-slide.slide-2 {
-  padding-top: 3.4375em;
-  background: url("/img/garden/garden-2.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50%;
-  overflow: hidden;
-  display: block;
-  width: 100%;
-  height: 710px;
-  text-align: right;
-  border-bottom: 0.625em solid #F4F2F2; }
-  .garden-slide.slide-2 h3 {
-    margin-top: 0;
-    margin-bottom: 1.875em;
+@media screen and (max-width: 890px) {
+  section.garden-slides h3 {
     float: left;
     display: block;
     margin-right: 1.75788%;
-    width: 55.48093%;
-    margin-left: 44.51907%; }
-    .garden-slide.slide-2 h3:last-child {
-      margin-right: 0; }
-    .garden-slide.slide-2 h3 span {
-      display: inline-block; }
-  .garden-slide.slide-2 a.button {
-    font-size: 1em;
-    text-shadow: none; }
-
-.garden-slide:after {
-  content: "";
-  display: block;
-  padding-bottom: 50%; }
+    width: 74.56053%;
+    margin-left: 25.43947%; }
+    section.garden-slides h3:last-child {
+      margin-right: 0; } }
+@media screen and (max-width: 46.875em) {
+  section.garden-slides {
+    background: url("/img/garden/garden-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    overflow: hidden;
+    display: block;
+    width: 100%;
+    height: 710px; }
+    section.garden-slides .section-bg {
+      visibility: hidden; } }
+@media screen and (max-width: 31.25em) {
+  section.garden-slides {
+    text-align: center; }
+    section.garden-slides h3 {
+      float: left;
+      display: block;
+      margin-right: 3.57866%;
+      width: 100%;
+      margin-left: 0%; }
+      section.garden-slides h3:last-child {
+        margin-right: 0; } }

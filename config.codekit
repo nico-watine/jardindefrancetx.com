@@ -47,15 +47,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_ignores\/slider\/test2.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_ignores\/slider\/test2.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/apple-touch-icon-120x120-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1676,6 +1667,39 @@
 		"initialSize": 48154,
 		"inputAbbreviatedPath": "\/img\/about\/patrice.png",
 		"outputAbbreviatedPath": "\/img\/about\/PW.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/conservatory\/conservatory-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 447473,
+		"inputAbbreviatedPath": "\/img\/conservatory\/conservatory-1.jpg",
+		"outputAbbreviatedPath": "\/img\/conservatory\/conservatory-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/conservatory\/conservatory-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335509,
+		"inputAbbreviatedPath": "\/img\/conservatory\/conservatory-2.jpg",
+		"outputAbbreviatedPath": "\/img\/conservatory\/conservatory-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/conservatory\/conservatory-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 340535,
+		"inputAbbreviatedPath": "\/img\/conservatory\/conservatory-3.jpg",
+		"outputAbbreviatedPath": "\/img\/conservatory\/conservatory-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

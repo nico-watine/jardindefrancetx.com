@@ -25,10 +25,8 @@
 
 <body>
 
-
-<section>
-	<div class="single-item slick-slider slides">
-		<div class="garden-slide slide-1">
+<section class="garden-slides" id="garden">
+		<div class="section-content">
 			<div class="outer-container">
 				<div class="row padding">
 					<h1 class="title">The Gardens</h1>
@@ -39,31 +37,21 @@
 				</div>
 			</div>
 		</div>
-		<div class="garden-slide slide-2">
-			<div class="outer-container">
-				<div class="row padding">
-					<h1 class="title">The Gardens</h1>
-					<h3>Come join us for Wine & Cheese night in The Gardens, every Thursday - <span>6 to 8</span></h3>
-				</div>
-				<div class="row padding">
-					<h4>You can see some of our past events <br>on our <a href="#" class="button">Facebook Page</a></h4>
-				</div>
-			</div>
+		<div class="section-bg slick-slider">
+			<div class="slide-1"></div>
+			<div class="slide-2"></div>
 		</div>
-	</div>
 </section>
-
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="/assets/bower_components/slick-carousel/slick/slick.js"></script>
 <script>
 	$(document).ready(function(){
-	  $('.single-item').slick({
-	    fade: true,
-	    dots: true,
-	    // autoplay: true,
-	    // pauseOnHover: false,
+	  $('.section-bg').slick({
+	  	fade: true,
+	    draggable: false,
+	    swipe: false,
 	    lazyLoad: 'progressive'
 	  });
 	});
