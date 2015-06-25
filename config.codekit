@@ -1686,46 +1686,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/conservatory\/conservatory.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 484568,
-		"inputAbbreviatedPath": "\/img\/conservatory\/conservatory.jpg",
-		"outputAbbreviatedPath": "\/img\/conservatory\/conservatory.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/garden\/garden-1.jpg": {
+	"\/img\/gardens\/garden-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 443222,
-		"inputAbbreviatedPath": "\/img\/garden\/garden-1.jpg",
-		"outputAbbreviatedPath": "\/img\/garden\/garden-1.jpg",
+		"inputAbbreviatedPath": "\/img\/gardens\/garden-1.jpg",
+		"outputAbbreviatedPath": "\/img\/gardens\/garden-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/garden\/garden-2.jpg": {
+	"\/img\/gardens\/garden-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 437644,
-		"inputAbbreviatedPath": "\/img\/garden\/garden-2.jpg",
-		"outputAbbreviatedPath": "\/img\/garden\/garden-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/garden\/garden.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 506844,
-		"inputAbbreviatedPath": "\/img\/garden\/garden.jpg",
-		"outputAbbreviatedPath": "\/img\/garden\/garden.jpg",
+		"inputAbbreviatedPath": "\/img\/gardens\/garden-2.jpg",
+		"outputAbbreviatedPath": "\/img\/gardens\/garden-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1734,7 +1712,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 300376,
+		"initialSize": 199259,
 		"inputAbbreviatedPath": "\/img\/interior_gallery\/interior_gallery.jpg",
 		"outputAbbreviatedPath": "\/img\/interior_gallery\/interior_gallery.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1893,6 +1871,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/src\/min\/scripts-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/src\/min\/scripts-min.js",
+		"outputAbbreviatedPath": "\/js\/src\/min\/min\/scripts-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/src\/nav\/fastclick.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -1960,7 +1949,7 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
@@ -2300,6 +2289,38 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/scss\/components\/slider\/_slick-theme.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/components\/slider\/_slick-theme.scss",
+		"outputAbbreviatedPath": "\/css\/_slick-theme.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/components\/slider\/_slick.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/components\/slider\/_slick.scss",
+		"outputAbbreviatedPath": "\/css\/_slick.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/scss\/ie.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -2360,9 +2381,9 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": 0
 		},
 	"\/scss\/pages\/index\/_footer.scss": {
 		"createSourceMap": 0,
@@ -2472,9 +2493,9 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": 0
 		},
 	"\/scss\/pages\/index\/_location.scss": {
 		"createSourceMap": 0,
@@ -2600,9 +2621,9 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": 0
 		},
 	"\/scss\/style.scss": {
 		"createSourceMap": 0,

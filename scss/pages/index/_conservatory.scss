@@ -1,16 +1,29 @@
 @import "../../settings/_settings.scss";
 
 .conservatory {
-	padding-top: em(55);
-	background: url('/img/conservatory/conservatory.jpg');
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: 50%;
-	overflow: hidden;
-	display: block;
-	width: 100%;
-	max-height: 710px;
+	.section-content {
+		position: absolute;
+		z-index: 40;
+		width: 100%;
+		padding-top: em(70);
+	}
+
+	border-top: em(10) solid $body;
 	text-align: center;
+	
+	background: url('/img/conservatory/conservatory-1.jpg') 50%/cover no-repeat;
+
+	.slide-1 {
+		background: url('/img/conservatory/conservatory-1.jpg') 50%/cover no-repeat;
+	}
+
+	.slide-2 {
+		background: url('/img/conservatory/conservatory-2.jpg') 50%/cover no-repeat;
+	}
+
+	.slide-3 {
+		background: url('/img/conservatory/conservatory-3.jpg') 50%/cover no-repeat;
+	}
 
 	.row {
 		padding-top: em(420);
@@ -24,10 +37,14 @@
 	}
 }
 
-.conservatory:after {
-	content: "";
+.conservatory, 
+.conservatory .slide-1,
+.conservatory .slide-2,
+.conservatory .slide-3 {
+	overflow: hidden;
 	display: block;
-	padding-bottom: 50%;
+	width: 100%;
+	height: 710px;
 }
 
 @include media($medium) {
@@ -35,6 +52,11 @@
 		h3 {
 			@include span-columns(14 of 16);
 			@include shift(1 of 16);
+		}
+
+		.section-bg {
+			visibility: hidden;
+			display: none;
 		}
 	}
 }
