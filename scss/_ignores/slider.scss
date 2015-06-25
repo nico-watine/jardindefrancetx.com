@@ -1,0 +1,12 @@
+// NORMALIZE.CSS
+@import "settings/_normalize.scss";
+
+// BOURBON-NEAT FILES
+@import "bourbon";
+@import "grid-settings";
+@import "neat";
+
+@import "../settings/_settings.scss";
+@import "slider/_slick.scss";
+@import "slider/_slick-theme.scss";
+@import "slider/_gardens.scss";
