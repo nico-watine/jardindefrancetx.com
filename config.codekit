@@ -1752,35 +1752,46 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/slick\/dot.png": {
+	"\/img\/slick\/left-arrow-small.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1289,
-		"inputAbbreviatedPath": "\/img\/slick\/dot.png",
-		"outputAbbreviatedPath": "\/img\/slick\/dot.png",
+		"initialSize": 4027,
+		"inputAbbreviatedPath": "\/img\/slick\/left-arrow-small.png",
+		"outputAbbreviatedPath": "\/img\/slick\/left-arrow-small.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/slick\/left.png": {
+	"\/img\/slick\/left-arrow.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1897,
-		"inputAbbreviatedPath": "\/img\/slick\/left.png",
-		"outputAbbreviatedPath": "\/img\/slick\/left.png",
+		"initialSize": 3279,
+		"inputAbbreviatedPath": "\/img\/slick\/left-arrow.png",
+		"outputAbbreviatedPath": "\/img\/slick\/left-arrow.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/slick\/right.png": {
+	"\/img\/slick\/right-arrow-small.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2332,
-		"inputAbbreviatedPath": "\/img\/slick\/right.png",
-		"outputAbbreviatedPath": "\/img\/slick\/right.png",
+		"initialSize": 4027,
+		"inputAbbreviatedPath": "\/img\/slick\/right-arrow-small.png",
+		"outputAbbreviatedPath": "\/img\/slick\/right-arrow-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/slick\/right-arrow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3279,
+		"inputAbbreviatedPath": "\/img\/slick\/right-arrow.png",
+		"outputAbbreviatedPath": "\/img\/slick\/right-arrow.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2679,6 +2690,38 @@
 	],
 "lastSavedByUser": "Nico Watine",
 "manualImportLinks": {
+	"\/js\/src\/scripts.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/js\/src\/nav\/responsive-nav.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/js\/src\/nav\/fastclick.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/js\/src\/nav\/scroll.js",
+			"position": 2,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/js\/src\/nav\/fixed-responsive-nav.js",
+			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/slick-carousel\/slick\/slick.js",
+			"position": 4,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "assets",

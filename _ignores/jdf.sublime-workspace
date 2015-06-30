@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"sli",
+				"_slick-theme.scss"
+			],
+			[
+				"gar",
+				"_gardens2.scss"
+			],
+			[
+				"add",
+				"add_import_path"
+			],
+			[
 				"rgba",
 				"rgba	rgba()"
 			],
@@ -176,34 +192,34 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/.gitignore",
+			"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/index.html",
 			"settings":
 			{
-				"buffer_size": 10,
+				"buffer_size": 5828,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_typography.scss",
+			"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_interior.scss",
 			"settings":
 			{
-				"buffer_size": 1424,
+				"buffer_size": 1008,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/settings/_settings.scss",
+			"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/neat/_grid-settings.scss",
 			"settings":
 			{
-				"buffer_size": 717,
+				"buffer_size": 315,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_fonts.scss",
+			"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_garden.scss",
 			"settings":
 			{
-				"buffer_size": 1643,
+				"buffer_size": 1187,
 				"line_ending": "Unix"
 			}
 		}
@@ -314,12 +330,57 @@
 	"expanded_folders":
 	[
 		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com",
-		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss"
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components/jquery",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components/slick-carousel",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components/slick-carousel/slick",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/js",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/js/src",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/blocks",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components"
 	],
 	"file_history":
 	[
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_conservatory.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/index.html",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_garden.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/style.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/slider/_slick-theme.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/blocks/_body.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/neat/_grid-settings.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/slider/test.html",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/blocks/_nav.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/blocks/_header.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_typography.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/js/src/scripts.js",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/_ignores/slider/_gardens.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/_ignores/slider.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/_ignores/slider/_slick-theme.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/_ignores/slider/_gardens2.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/slider/test2.html",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/_ignores/slider/_slick.scss",
 		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_buttons.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components/slick-carousel/slick/slick-theme.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components/slick-carousel/slick/slick-theme.css",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/config.rb",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components/slick-carousel/slick/slick.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components/slick-carousel/slick/config.rb",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/bower_components/slick-carousel/slick/slick.css",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/js/_ignores/slick-init.js",
 		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/.gitignore",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/slider/scss/slider.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_about.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_interior.scss",
+		"/Users/nico/Downloads/server-configs-apache-2.14.0/CHANGELOG.md",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_hip.scss",
+		"/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_splash.scss",
+		"/Users/nico/SNC Projects/Lemon Peel Facial/lpf.local/wp-config.php",
+		"/Users/nico/Downloads/wp-config-2.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index/components/_typography.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/index/pages/index/_header.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/components/_typography.scss",
@@ -410,46 +471,11 @@
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/neat/settings/_visual-grid.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/blocks/_nav.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/components/_buttons.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/contact.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/_contact.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/what-we-do.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/thanks.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/components/_fonts.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/what-we-do/index.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/settings/_settings.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/components/_typography.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/settings/_development.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/portfolio/_zaraza.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/how-we-do-it/index.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/blocks/_footer.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/blocks/_body.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/index(old).html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/_about-us.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/blocks/_header.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/portfolio/_featured.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/index.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/portfolio/_portfolio.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/_index.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/_thanks.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/css/index.css",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/neat/_grid-settings.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/bower_components/semantic-ui/tasks/install.js",
-		"/Users/nico/SNC Projects/Quattro Stig/Site Resources/Fonts/a-beat/font.css",
-		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/nico/SNC Projects/Houston Oculofacial/Site Folder/_ignores/HOF.sublime-workspace",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio/the-deck-on-fountainview/index.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/git/2.3/README.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/services/_how.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/pages/portfolio/_dmesa.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/snippets.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/git/2.1/README.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/git/2.2/README.md",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/bower_components/picturefill/index.html"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/contact.html"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -464,7 +490,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"Muller Regular",
+			"gardens",
+			"cover ",
+			"section",
+			"F4F2F2",
+			"#F4F2F2",
+			"garden",
+			"section",
+			"garden-slides",
+			"bottom",
+			"garden-slide ",
+			"h2",
+			"45px",
+			"box-sh",
+			"slick-font-url(\"",
 			"p",
 			"0px 0px em(4) em(1) #333 inset",
 			"div",
@@ -578,20 +617,7 @@
 			"url('",
 			"url",
 			"/img/daily-pics/",
-			"blog/",
-			"7-sep-2014",
-			"4-sep-2014",
-			".html",
-			"under",
-			"css",
-			"\";\n",
-			"font-f",
-			"ubuntu",
-			"/js/",
-			"/img/portfolio",
-			"excerpt",
-			"/contact.html",
-			"/contact/index.html"
+			"blog/"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -631,24 +657,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/.gitignore",
+					"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10,
+						"buffer_size": 5828,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10,
-								10
+								3468,
+								3468
 							]
 						],
 						"settings":
@@ -656,67 +682,68 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
 								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1543.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -724,19 +751,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_typography.scss",
+					"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_interior.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1424,
+						"buffer_size": 1008,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								263,
-								263
+								662,
+								662
 							]
 						],
 						"settings":
@@ -744,218 +771,16 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/settings/_settings.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 717,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								142,
-								142
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/components/_fonts.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1643,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								80,
-								80
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -966,6 +791,100 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 376.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/assets/neat/_grid-settings.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -975,18 +894,125 @@
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nico/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/scss/pages/index/_garden.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1047,
+								987
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1041,28 +1067,144 @@
 		"selected_items":
 		[
 			[
+				"gri",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"inter",
+				"scss/pages/index/_interior.scss"
+			],
+			[
+				"int",
+				"scss/pages/index/_interior.scss"
+			],
+			[
+				"cons",
+				"scss/pages/index/_conservatory.scss"
+			],
+			[
+				"gar",
+				"scss/pages/index/_garden.scss"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"slit",
+				"scss/components/slider/_slick-theme.scss"
+			],
+			[
+				"bod",
+				"scss/blocks/_body.scss"
+			],
+			[
 				"set",
 				"scss/settings/_settings.scss"
 			],
 			[
-				"typ",
+				"gard",
+				"scss/pages/index/_garden.scss"
+			],
+			[
+				"tes",
+				"_ignores/slider/test.html"
+			],
+			[
+				"fonts",
+				"scss/components/_fonts.scss"
+			],
+			[
+				"ty",
 				"scss/components/_typography.scss"
 			],
 			[
-				"font",
-				"scss/components/_fonts.scss"
+				"na",
+				"scss/blocks/_nav.scss"
+			],
+			[
+				"ingar",
+				"scss/pages/index/_garden.scss"
+			],
+			[
+				"sli",
+				"scss/_ignores/slider.scss"
+			],
+			[
+				"sc",
+				"js/src/scripts.js"
+			],
+			[
+				"ing",
+				"scss/pages/index/_garden.scss"
+			],
+			[
+				"te",
+				"_ignores/slider/test.html"
+			],
+			[
+				"test",
+				"_ignores/slider/test.html"
+			],
+			[
+				"te2",
+				"_ignores/slider/test2.html"
+			],
+			[
+				"gar2",
+				"scss/_ignores/slider/_gardens2.scss"
+			],
+			[
+				"slid",
+				"scss/_ignores/slider.scss"
+			],
+			[
+				"slids",
+				"scss/_ignores/slider.scss"
+			],
+			[
+				"sliths",
+				"assets/bower_components/slick-carousel/slick/slick-theme.scss"
 			],
 			[
 				"but",
 				"scss/components/_buttons.scss"
 			],
 			[
-				"",
+				"slicksc",
+				"assets/bower_components/slick-carousel/slick/slick.scss"
+			],
+			[
+				"conf",
+				"config.rb"
+			],
+			[
+				"git",
 				".gitignore"
 			],
 			[
 				"giti",
 				".gitignore"
+			],
+			[
+				"abou",
+				"scss/pages/index/_about.scss"
+			],
+			[
+				"hi",
+				"scss/pages/index/_hip.scss"
+			],
+			[
+				"sp",
+				"scss/pages/index/_splash.scss"
+			],
+			[
+				"spls",
+				"scss/pages/index/_splash.scss"
 			],
 			[
 				"inty",
@@ -1081,20 +1223,12 @@
 				"scss/index/pages/index/_nav.scss"
 			],
 			[
-				"in",
-				"index.html"
-			],
-			[
 				"inse",
 				"scss/index/settings/_settings.scss"
 			],
 			[
 				"inin",
 				"scss/index/pages/index/_index.scss"
-			],
-			[
-				"ty",
-				"scss/style/components/_typography.scss"
 			],
 			[
 				"inhe",
@@ -1125,12 +1259,16 @@
 				"scss/style/components/_fonts.scss"
 			],
 			[
-				"hea",
-				"scss/style/blocks/_header.scss"
+				"font",
+				"scss/index/components/_fonts.scss"
 			],
 			[
-				"abou",
-				"about-us.html"
+				"typ",
+				"scss/style/components/_typography.scss"
+			],
+			[
+				"hea",
+				"scss/style/blocks/_header.scss"
 			],
 			[
 				"abouhea",
@@ -1165,20 +1303,8 @@
 				"scss/index/pages/index/_index.scss"
 			],
 			[
-				"fonts",
-				"scss/index/components/_fonts.scss"
-			],
-			[
-				"bod",
-				"scss/blocks/_body.scss"
-			],
-			[
 				"sty",
 				"scss/style.scss"
-			],
-			[
-				"na",
-				"scss/blocks/_nav.scss"
 			],
 			[
 				"blogrs",
@@ -1213,10 +1339,6 @@
 				"js/src/scripts.js"
 			],
 			[
-				"sc",
-				"js/src/scripts.js"
-			],
-			[
 				"scij",
 				"js/src/scripts.js"
 			],
@@ -1243,10 +1365,6 @@
 			[
 				"inds",
 				"scss/index/pages/index/_index.scss"
-			],
-			[
-				"st",
-				"scss/style.scss"
 			],
 			[
 				"th",
@@ -1377,10 +1495,6 @@
 				"assets/neat/_grid-settings.scss"
 			],
 			[
-				"gri",
-				"assets/neat/_grid-settings.scss"
-			],
-			[
 				"inpain",
 				"scss/index/pages/index/_index.scss"
 			],
@@ -1457,100 +1571,12 @@
 				"thanks.html"
 			],
 			[
+				"",
+				"scss/thanks.scss"
+			],
+			[
 				"thank",
 				"scss/pages/_thanks.scss"
-			],
-			[
-				"fea",
-				"scss/pages/portfolio/_featured.scss"
-			],
-			[
-				"za",
-				"portfolio/zaraza-design/index.html"
-			],
-			[
-				"dmesah",
-				"portfolio/dmesa-home/index.html"
-			],
-			[
-				"servin",
-				"services/index.html"
-			],
-			[
-				"porh",
-				"portfolio/index.html"
-			],
-			[
-				"how",
-				"services/how-we-do-it/index.html"
-			],
-			[
-				"abosc",
-				"scss/pages/_about-us.scss"
-			],
-			[
-				"contsc",
-				"scss/pages/_contact.scss"
-			],
-			[
-				"indo",
-				"index(old).html"
-			],
-			[
-				"vis",
-				"assets/neat/settings/_visual-grid.scss"
-			],
-			[
-				"pos",
-				"scss/pages/portfolio/_portfolio.scss"
-			],
-			[
-				"poin",
-				"portfolio/the-deck-on-fountainview/index.html"
-			],
-			[
-				"inh",
-				"index.html"
-			],
-			[
-				"vi",
-				"assets/neat/settings/_visual-grid.scss"
-			],
-			[
-				"ind",
-				"index.html"
-			],
-			[
-				"zain",
-				"portfolio/zaraza-design/index.html"
-			],
-			[
-				"zas",
-				"scss/pages/portfolio/_zaraza.scss"
-			],
-			[
-				"dev",
-				"scss/settings/_development.scss"
-			],
-			[
-				"dmein",
-				"portfolio/dmesa-home/index.html"
-			],
-			[
-				"de",
-				"scss/settings/_development.scss"
-			],
-			[
-				"prfo",
-				"scss/pages/portfolio/_portfolio.scss"
-			],
-			[
-				"dme",
-				"scss/pages/portfolio/_dmesa.scss"
-			],
-			[
-				"dmei",
-				"portfolio/dmesa-home/index.html"
 			]
 		],
 		"width": 0.0
@@ -1558,9 +1584,21 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "sn",
 		"selected_items":
 		[
+			[
+				"sn",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+			],
+			[
+				"s",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
+			],
+			[
+				"bl",
+				"~/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/blog-snc.sublime-project"
+			],
 			[
 				"j",
 				"~/SNC Projects/Jardin de France/Site Folder/STAGING/DEVELOPMENT/_ignores/jdf.sublime-project"
@@ -1598,10 +1636,6 @@
 				"~/SNC Projects/Studio N Creations/Site Folder/blog.snc.local/_ignores/blog-snc.sublime-project"
 			],
 			[
-				"bl",
-				"~/SNC Projects/Studio N Creations/Site Folder/blog.snc.local/_ignores/blog-snc.sublime-project"
-			],
-			[
 				"gc",
 				"~/SNC Projects/GreencareTX/Site Folder/greencaretx.com/_ignores/greencaretx.sublime-project"
 			],
@@ -1612,14 +1646,6 @@
 			[
 				"g",
 				"~/SNC Projects/GreencareTX/Site Folder/greencaretx.com/_ignores/greencaretx.sublime-project"
-			],
-			[
-				"s",
-				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
-			],
-			[
-				"sn",
-				"~/SNC Projects/Studio N Creations/Site Folder/Under Development/_ignores/snc-new.sublime-project"
 			],
 			[
 				"d",
@@ -1653,7 +1679,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 362.0,
+	"side_bar_width": 328.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

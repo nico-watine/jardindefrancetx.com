@@ -17,7 +17,7 @@
 
 
 	.row {
-		padding-top: em(350);
+		padding-top: em(380);
 	}
 
 	h3 {
@@ -54,6 +54,14 @@
 		.section-bg {
 			visibility: hidden;
 			display: none;
+		}
+	}
+}
+
+@include media($tiny) {
+	.interior_gallery {
+		.row {
+			padding-top: em(300);
 		}
 	}
 }
