@@ -1884,6 +1884,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/splash\/splash-ie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 378077,
+		"inputAbbreviatedPath": "\/img\/splash\/splash-ie.jpg",
+		"outputAbbreviatedPath": "\/img\/splash\/splash-ie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/splash\/splash-medium.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
