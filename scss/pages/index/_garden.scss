@@ -11,18 +11,30 @@
 	text-align: right;
 	border-top: em(10) solid $body;
 
-	background: url('/img/gardens/garden-1.jpg') 50%/cover no-repeat;
+	background: url('/img/gardens/garden-1.jpg');
+	background-position: 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
 
 	.slide-1 {
-		background: url('/img/gardens/garden-1.jpg') 50%/cover no-repeat;
+		background: url('/img/gardens/garden-1.jpg');
+		background-position: 50%;
+		background-size: cover;
+		background-repeat: no-repeat;
 	}
 
 	.slide-2 {
-		background: url('/img/gardens/garden-2.jpg') 50%/cover no-repeat;
+		background: url('/img/gardens/garden-2.jpg');
+		background-position: 50%;
+		background-size: cover;
+		background-repeat: no-repeat;
 	}
 
 	.slide-3 {
-		background: url('/img/gardens/garden-3.jpg') 50%/cover no-repeat;
+		background: url('/img/gardens/garden-3.jpg');
+		background-position: 50%;
+		background-size: cover;
+		background-repeat: no-repeat;
 	}
 
 	h3 {
@@ -75,7 +87,10 @@
 @include media($small) {
 	.gardens {
 		text-align: center;
-		background: url('/img/gardens/garden-small.jpg') 50%/cover no-repeat;
+		background: url('/img/gardens/garden-small.jpg');
+		background-position: 50%;
+		background-size: cover;
+		background-repeat: no-repeat;
 		height: 550px;
 
 		h3 {
