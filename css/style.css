@@ -944,6 +944,10 @@ video#bgvid {
   z-index: -100;
   background: url("/img/splash/poster.jpg") no-repeat;
   background-size: cover; }
+  @media screen and (max-width: 46.875em) {
+    video#bgvid {
+      display: none;
+      visiblity: hidden; } }
 
 .splash {
   padding-top: 3.4375em;
@@ -967,25 +971,30 @@ video#bgvid {
     font-family: "Parisienne", sans-serif;
     font-size: 1.777em;
     margin-bottom: 1.875rem; }
+  @media screen and (max-width: 46.875em) {
+    .splash {
+      background: url("/img/splash/splash-medium.jpg") 50%/cover no-repeat; } }
 
 h3.slogan {
   font-size: 1.375rem;
   margin-bottom: 2.125rem; }
 
 @media screen and (max-width: 31.25em) {
-  .splash .row {
-    padding-top: 6.25em; }
-  .splash h3 {
-    float: left;
-    display: block;
-    margin-right: 3.57866%;
-    width: 87.05267%;
-    margin-left: 6.47367%; }
-    .splash h3:last-child {
-      margin-right: 0; } }
+  .splash {
+    background: url("/img/splash/splash-small.jpg") 50%/cover no-repeat; }
+    .splash h1 {
+      font-size: 2.375rem; }
+    .splash .row {
+      padding-top: 6.25em; }
+    .splash h3 {
+      float: left;
+      display: block;
+      margin-right: 3.57866%;
+      width: 87.05267%;
+      margin-left: 6.47367%; }
+      .splash h3:last-child {
+        margin-right: 0; } }
 @media screen and (max-width: 23.75em) {
-  .splash h1 {
-    font-size: 2.625rem; }
   .splash h3 {
     float: left;
     display: block;
@@ -1007,6 +1016,8 @@ h3.slogan {
     background: url("/img/gardens/garden-1.jpg") 50%/cover no-repeat; }
   .gardens .slide-2 {
     background: url("/img/gardens/garden-2.jpg") 50%/cover no-repeat; }
+  .gardens .slide-3 {
+    background: url("/img/gardens/garden-3.jpg") 50%/cover no-repeat; }
   .gardens h3 {
     margin-top: 0;
     margin-bottom: 1.875em;
@@ -1025,7 +1036,8 @@ h3.slogan {
 
 .gardens,
 .gardens .slide-1,
-.gardens .slide-2 {
+.gardens .slide-2,
+.gardens .slide-3 {
   overflow: hidden;
   display: block;
   width: 100%;
@@ -1046,7 +1058,9 @@ h3.slogan {
     display: none; } }
 @media screen and (max-width: 31.25em) {
   .gardens {
-    text-align: center; }
+    text-align: center;
+    background: url("/img/gardens/garden-small.jpg") 50%/cover no-repeat;
+    height: 550px; }
     .gardens h3 {
       float: left;
       display: block;
@@ -1105,8 +1119,11 @@ h3.slogan {
     visibility: hidden;
     display: none; } }
 @media screen and (max-width: 31.25em) {
-  .conservatory .row {
-    padding-top: 12.5em; } }
+  .conservatory {
+    background: url("/img/conservatory/conservatory-small.jpg") 50%/cover no-repeat;
+    height: 550px; }
+    .conservatory .row {
+      padding-top: 12.5em; } }
 .hip-banner {
   text-align: center;
   background: url("/img/about/bg.jpg"); }
@@ -1172,9 +1189,19 @@ h3.slogan {
   .interior_gallery .section-bg {
     visibility: hidden;
     display: none; } }
-@media screen and (max-width: 23.75em) {
+@media screen and (max-width: 530px) {
+  .interior_gallery {
+    background: url("/img/interior_gallery/interior-small.jpg") 50%/cover no-repeat;
+    height: 550px; }
+    .interior_gallery h1 {
+      font-size: 3.125rem; }
+    .interior_gallery .row {
+      padding-top: 19.375em; } }
+@media screen and (max-width: 31.25em) {
   .interior_gallery .row {
-    padding-top: 18.75em; } }
+    padding-top: 8.75em; }
+  .interior_gallery h1 {
+    margin-bottom: 7.5rem; } }
 .about {
   width: 100%;
   height: 500px;

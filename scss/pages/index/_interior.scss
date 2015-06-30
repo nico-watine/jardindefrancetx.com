@@ -58,10 +58,31 @@
 	}
 }
 
-@include media($tiny) {
+// @include media($small) {
+@media screen and (max-width: 530px) {
+	.interior_gallery {
+		background: url('/img/interior_gallery/interior-small.jpg') 50%/cover no-repeat;
+		height: 550px;
+
+		h1 {
+			font-size: rem(50);
+		}
+
+		.row {
+			padding-top: em(310);
+		}
+	}
+}
+
+// @include media($tiny) {
+@include media($small) {
 	.interior_gallery {
 		.row {
-			padding-top: em(300);
+			padding-top: em(140);
+		}
+
+		h1 {
+			margin-bottom: rem(120);
 		}
 	}
 }

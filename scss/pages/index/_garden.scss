@@ -21,6 +21,10 @@
 		background: url('/img/gardens/garden-2.jpg') 50%/cover no-repeat;
 	}
 
+	.slide-3 {
+		background: url('/img/gardens/garden-3.jpg') 50%/cover no-repeat;
+	}
+
 	h3 {
 		margin-top: 0;
 		margin-bottom: em(30);
@@ -41,7 +45,8 @@
 
 .gardens, 
 .gardens .slide-1,
-.gardens .slide-2 {
+.gardens .slide-2,
+.gardens .slide-3 {
 	overflow: hidden;
 	display: block;
 	width: 100%;
@@ -70,6 +75,8 @@
 @include media($small) {
 	.gardens {
 		text-align: center;
+		background: url('/img/gardens/garden-small.jpg') 50%/cover no-repeat;
+		height: 550px;
 
 		h3 {
 			@include span-columns(8 of 8);

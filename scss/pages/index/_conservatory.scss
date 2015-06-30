@@ -63,8 +63,12 @@
 
 @include media($small) {
 	.conservatory {
+		background: url('/img/conservatory/conservatory-small.jpg') 50%/cover no-repeat;
+		height: 550px;
+
 		.row {
 			padding-top: em(200);
 		}
 	}	
 }
+

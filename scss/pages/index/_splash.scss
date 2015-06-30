@@ -6,6 +6,11 @@ video#bgvid {
 	width: auto; height: auto; z-index: -100;
 	background: url('/img/splash/poster.jpg') no-repeat;
 	background-size: cover;
+
+	@include media($medium) {
+		display: none;
+		visiblity: hidden;
+	}
 }
 
 .splash {
@@ -33,6 +38,10 @@ video#bgvid {
 		font-size: $h3-size;
 		margin-bottom: rem(30);
 	}
+
+	@include media($medium) {
+		background: url('/img/splash/splash-medium.jpg') 50%/cover no-repeat;
+	}
 }
 
 h3.slogan {
@@ -42,6 +51,12 @@ h3.slogan {
 
 @include media($small) {
 	.splash {
+		background: url('/img/splash/splash-small.jpg') 50%/cover no-repeat;
+
+		h1 {
+			font-size: rem(38);
+		}
+		
 		.row {
 			padding-top: em(100);
 		}
@@ -55,7 +70,7 @@ h3.slogan {
 @include media($tiny) {
 	.splash {
 		h1 {
-			font-size: rem(42);
+			// font-size: rem(42);
 		}
 
 		h3 {
