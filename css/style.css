@@ -938,6 +938,20 @@ ul.share-buttons {
       display: inline-block;
       visibility: visible; }
 
+h5#credit {
+  font-size: 0.75rem;
+  letter-spacing: 0.03125rem;
+  text-transform: uppercase;
+  margin-top: 1.875rem; }
+  h5#credit a {
+    text-decoration: none;
+    color: #888; }
+    h5#credit a span {
+      text-decoration: underline; }
+    h5#credit a:hover {
+      color: #444;
+      text-decoration: underline; }
+
 .gardens .section-content,
 .conservatory .section-content,
 .interior_gallery .section-content {

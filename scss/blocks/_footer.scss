@@ -35,3 +35,23 @@ ul.share-buttons {
 	}
 }
 
+h5#credit {
+	font-size: rem(12);
+	letter-spacing: rem(0.5);
+	text-transform: uppercase;
+	margin-top: rem(30);
+
+	a {
+		text-decoration: none;
+		color: #888;
+
+		span {
+			text-decoration: underline;
+		}
+
+		&:hover {
+			color: #444;
+			text-decoration: underline;
+		}
+	}
+}
