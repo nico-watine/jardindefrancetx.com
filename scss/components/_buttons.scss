@@ -1,11 +1,10 @@
 @import "../settings/_settings.scss";
 
-button {
-    border: none;
-}
 
-a.button,
-button {
+// a.button,
+// button {
+a.button {
+    border: none;
     cursor: pointer;
     line-height: normal;
     position: relative;
