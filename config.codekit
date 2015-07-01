@@ -1983,28 +1983,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/welcome\/poster.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 131843,
-		"inputAbbreviatedPath": "\/img\/welcome\/poster.jpg",
-		"outputAbbreviatedPath": "\/img\/welcome\/poster.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/welcome\/welcome.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 517359,
-		"inputAbbreviatedPath": "\/img\/welcome\/welcome.jpg",
-		"outputAbbreviatedPath": "\/img\/welcome\/welcome.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
