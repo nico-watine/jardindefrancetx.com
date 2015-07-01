@@ -1873,13 +1873,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/social\/facebook-hover.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3904,
+		"inputAbbreviatedPath": "\/img\/social\/facebook-hover.png",
+		"outputAbbreviatedPath": "\/img\/social\/facebook-hover.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/social\/facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1903,
+		"initialSize": 4402,
 		"inputAbbreviatedPath": "\/img\/social\/facebook.png",
 		"outputAbbreviatedPath": "\/img\/social\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/social\/instagram-hover.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4723,
+		"inputAbbreviatedPath": "\/img\/social\/instagram-hover.png",
+		"outputAbbreviatedPath": "\/img\/social\/instagram-hover.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1888,9 +1910,20 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2435,
+		"initialSize": 4642,
 		"inputAbbreviatedPath": "\/img\/social\/instagram.png",
 		"outputAbbreviatedPath": "\/img\/social\/instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/social\/pinterest-hover.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5847,
+		"inputAbbreviatedPath": "\/img\/social\/pinterest-hover.png",
+		"outputAbbreviatedPath": "\/img\/social\/pinterest-hover.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1899,7 +1932,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4357,
+		"initialSize": 6426,
 		"inputAbbreviatedPath": "\/img\/social\/pinterest.png",
 		"outputAbbreviatedPath": "\/img\/social\/pinterest.png",
 		"outputPathIsOutsideProject": 0,
@@ -2463,22 +2496,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
-	"\/scss\/pages\/index\/_body.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/pages\/index\/_body.scss",
-		"outputAbbreviatedPath": "\/css\/_body.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
-		"useLibsass": 1
-		},
 	"\/scss\/pages\/index\/_conservatory.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -2495,22 +2512,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/scss\/pages\/index\/_footer.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/pages\/index\/_footer.scss",
-		"outputAbbreviatedPath": "\/css\/_footer.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
-		"useLibsass": 1
-		},
 	"\/scss\/pages\/index\/_garden.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -2526,22 +2527,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/scss\/pages\/index\/_header.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/pages\/index\/_header.scss",
-		"outputAbbreviatedPath": "\/css\/_header.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
-		"useLibsass": 1
 		},
 	"\/scss\/pages\/index\/_hip.scss": {
 		"createSourceMap": 0,
@@ -2623,37 +2608,21 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
-	"\/scss\/pages\/index\/_main.scss": {
+	"\/scss\/pages\/index\/_shared.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/pages\/index\/_main.scss",
-		"outputAbbreviatedPath": "\/css\/_main.css",
+		"inputAbbreviatedPath": "\/scss\/pages\/index\/_shared.scss",
+		"outputAbbreviatedPath": "\/css\/_shared.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
-		"useLibsass": 1
-		},
-	"\/scss\/pages\/index\/_nav.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/pages\/index\/_nav.scss",
-		"outputAbbreviatedPath": "\/css\/_nav.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"useLibsass": 0
 		},
 	"\/scss\/pages\/index\/_splash.scss": {
 		"createSourceMap": 0,

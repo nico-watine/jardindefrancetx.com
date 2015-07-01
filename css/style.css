@@ -927,6 +927,23 @@ ul.share-buttons {
     ul.share-buttons li img {
       width: 50px;
       height: 50px; }
+    ul.share-buttons li img.hover {
+      display: none;
+      visibility: hidden; }
+    ul.share-buttons li:hover img.normal {
+      display: none;
+      visibility: hidden; }
+    ul.share-buttons li:hover img.hover {
+      display: inline-block;
+      visibility: visible; }
+
+.gardens .section-content,
+.conservatory .section-content,
+.interior_gallery .section-content {
+  position: absolute;
+  z-index: 40;
+  width: 100%;
+  padding-top: 4.375em; }
 
 video#bgvid {
   position: fixed;
@@ -952,12 +969,14 @@ video#bgvid {
     float: left;
     display: block;
     margin-right: 1.75788%;
-    width: 74.56053%;
-    margin-left: 12.71973%;
+    width: 61.8408%;
+    margin-left: 19.0796%;
     margin-top: 0;
     margin-bottom: 1.875em; }
     .splash h3:last-child {
       margin-right: 0; }
+    .splash h3 span {
+      display: inline-block; }
   .splash a.button {
     font-family: "Parisienne", sans-serif;
     font-size: 1.777em;
@@ -977,6 +996,15 @@ h3.slogan {
     background-position: 50%;
     background-size: cover;
     background-repeat: no-repeat; } }
+@media screen and (max-width: 46.875em) {
+  h3 {
+    float: left;
+    display: block;
+    margin-right: 2.84259%;
+    width: 79.43148%;
+    margin-left: 10.28426%; }
+    h3:last-child {
+      margin-right: 0; } }
 @media screen and (max-width: 31.25em) {
   .splash {
     background: url("/img/splash/splash-small.jpg");
@@ -1011,11 +1039,6 @@ h3.slogan {
   background-position: 50%;
   background-size: cover;
   background-repeat: no-repeat; }
-  .gardens .section-content {
-    position: absolute;
-    z-index: 40;
-    width: 100%;
-    padding-top: 4.375em; }
   .gardens .slide-1 {
     background: url("/img/gardens/garden-1.jpg");
     background-position: 50%;
@@ -1092,11 +1115,6 @@ h3.slogan {
   background-position: 50%;
   background-size: cover;
   background-repeat: no-repeat; }
-  .conservatory .section-content {
-    position: absolute;
-    z-index: 40;
-    width: 100%;
-    padding-top: 4.375em; }
   .conservatory .slide-1 {
     background: url("/img/conservatory/conservatory-1.jpg");
     background-position: 50%;
@@ -1178,11 +1196,6 @@ h3.slogan {
   background-position: 50%;
   background-size: cover;
   background-repeat: no-repeat; }
-  .interior_gallery .section-content {
-    position: absolute;
-    z-index: 40;
-    width: 100%;
-    padding-top: 3.4375em; }
   .interior_gallery .slide-1 {
     background: url("/img/interior_gallery/interior_gallery.jpg");
     background-position: 50%;
