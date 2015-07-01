@@ -1,0 +1,31 @@
+@import "../../settings/_settings.scss";
+
+.gardens,
+.conservatory,
+.interior_gallery {
+	.section-content {
+		position: absolute;
+		z-index: 40;
+		width: 100%;
+		padding-top: em(70);
+	}
+}
+
+.gardens,
+.conservatory {
+	border-top: em(10) solid $body;
+}
+
+.about,
+footer {
+	background: url('/img/about/bg.jpg');
+}
+
+.hip-banner,
+.about,
+.interior_gallery,
+.location,
+.map-banner,
+footer {
+	border-top: em(6) solid #697B99;
+}

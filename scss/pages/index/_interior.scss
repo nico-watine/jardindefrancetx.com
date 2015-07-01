@@ -1,29 +1,12 @@
 @import "../../settings/_settings.scss";
 
 .interior_gallery {
-	// .section-content {
-	// 	position: absolute;
-	// 	z-index: 40;
-	// 	width: 100%;
-	// 	padding-top: em(55);
-	// }
-	
 	text-align: center;
 	background: url('/img/interior_gallery/interior_gallery.jpg');
-	background-position: 50%;
-	background-size: cover;
-	background-repeat: no-repeat;
-
-	.slide-1 {
-		background: url('/img/interior_gallery/interior_gallery.jpg');
-		background-position: 50%;
-		background-size: cover;
-		background-repeat: no-repeat;
-	}
 
 
 	.row {
-		padding-top: em(380);
+		padding-top: em(350);
 	}
 
 	h3 {
@@ -33,11 +16,8 @@
 	}
 }
 
-.interior_gallery, 
-.interior_gallery .slide-1 {
+.interior_gallery {
 	overflow: hidden;
-	display: block;
-	width: 100%;
 	height: 650px;
 }
 
@@ -56,16 +36,11 @@
 			@include span-columns(10 of 10);
 			@include shift(0);
 		}
-
-		.section-bg {
-			visibility: hidden;
-			display: none;
-		}
 	}
 }
 
-// @include media($small) {
-@media screen and (max-width: 530px) {
+
+@media screen and (max-width: 33.125em) {   // 530px
 	.interior_gallery {
 		background: url('/img/interior_gallery/interior-small.jpg');
 		background-position: 50%;
@@ -83,7 +58,6 @@
 	}
 }
 
-// @include media($tiny) {
 @include media($small) {
 	.interior_gallery {
 		.row {

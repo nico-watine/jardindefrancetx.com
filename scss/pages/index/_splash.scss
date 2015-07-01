@@ -26,10 +26,6 @@ video#bgvid {
 		@include shift(3);
 		margin-top: 0;
 		margin-bottom: em(30);
-
-		span {
-			display: inline-block;
-		}
 	}
 
 	a.button {

@@ -1,0 +1,68 @@
+@import "../../settings/_settings.scss";
+
+.gardens,
+.conservatory,
+.interior_gallery,
+.location {
+	background-position: 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.gardens,
+.conservatory {
+	.slide-1,
+	.slide-2,
+	.slide-3 {
+		background-position: 50%;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}	
+}
+
+
+.gardens,
+.conservatory,
+.slide-1,
+.slide-2,
+.slide-3 {
+	overflow: hidden;
+	height: 710px;
+}
+
+
+@include media($medium) {
+	.gardens,
+	.conservatory {
+		.section-bg {
+			visibility: hidden;
+			display: none;
+		}
+	}
+
+	.conservatory {
+		h3 {
+			@include span-columns(14 of 16);
+			@include shift(1 of 16);
+		}
+	}
+}
+
+@include media($small) {
+	.gardens {
+		background: url('/img/gardens/garden-small.jpg');
+	}
+
+	.conservatory {
+		background: url('/img/conservatory/conservatory-small.jpg');
+	}
+
+	.gardens,
+	.conservatory {
+		background-position: 50%;
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 550px;
+	}
+}
+

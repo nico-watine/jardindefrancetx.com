@@ -3,8 +3,6 @@
 .hip-banner {
 	text-align: center;
 	background: url('/img/about/bg.jpg');
-	border-top: em(6) solid #697B99;
-	border-bottom: em(6) solid #697B99;
 
 	.row {
 		padding-top: em(16);
@@ -15,10 +13,6 @@
 		color: #333;
 		text-shadow: none;
 		margin-bottom: rem(32);
-
-		span {
-			display: inline-block;
-		}
 	}
 
 	a.button {
