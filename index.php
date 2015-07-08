@@ -15,7 +15,12 @@
 	<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png">
 	<link rel="shortcut icon" href="/favicon.ico">
 	
-	<link rel="stylesheet" href="/css/style.css">
+	<!-- <link rel="stylesheet" href="/css/style.css"> -->
+
+	<?php 
+		include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+	?>
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>" type="text/css" />
 	
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="/css/ie.css">
