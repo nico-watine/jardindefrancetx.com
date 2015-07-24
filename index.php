@@ -1,29 +1,23 @@
+<?php 
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<title>Jardin de France | Houston's French Antiques and Plants for the Home & Patio</title>
-	<meta name="description" content="Bringing to Houston the beauty of original French Country antiques & quaint garden design">
-	<meta name="keywords" content="Houston's French Country Antiques Direct Importer, Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
 
+	<title>Jardin de France | Houston's French Antiques and Plants for the Home & Patio</title>
+
+	<meta name="description" content="Bringing to Houston the beauty of original French Country antiques & quaint garden design">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
 	<link type="text/plain" rel="author" href="/humans.txt">
 
-	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-	<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png">
-	<link rel="shortcut icon" href="/favicon.ico">
-	
-	<!-- <link rel="stylesheet" href="/css/style.css"> -->
-
-	<?php 
-		include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
-	?>
-	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>" type="text/css" />
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>" />
 	
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="/css/ie.css">
+		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>" />
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
 </head>
@@ -171,6 +165,6 @@
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="/js/scripts.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 </body>
 </html>
