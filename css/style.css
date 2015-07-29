@@ -4,6 +4,7 @@
  * 2. Prevent iOS and IE text size adjust after device orientation change,
  *    without disabling user zoom.
  */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:600");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -368,14 +369,6 @@ html {
   font-style: normal;
   font-weight: 400; }
 @font-face {
-  font-family: 'Muller Regular';
-  src: url("/fonts/muller/regular/muller.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/muller/regular/muller.eot?#iefix") format("embedded-opentype"), url("/fonts/muller/regular/muller.woff") format("woff"), url("/fonts/muller/regular/muller.ttf") format("truetype"), url("/fonts/muller/regular/muller.svg#7b841d44195ea2cd4740c78fd79d7da8") format("svg");
-  /* Legacy iOS */
-  font-style: normal;
-  font-weight: 400; }
-@font-face {
   font-family: 'nav';
   src: url("/fonts/nav/nav.eot");
   /* IE9 Compat Modes */
@@ -396,8 +389,8 @@ textarea {
 
 body {
   color: #fff;
-  font-weight: 400;
-  font-family: "Muller Regular", sans-serif;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.4; }
 
 p {
@@ -423,7 +416,7 @@ h3,
 h4 {
   margin: 1.4em 0 0.5em;
   line-height: 1.2;
-  font-weight: 700;
+  font-weight: 600;
   text-shadow: 0px 0.375rem 0.625rem black; }
 
 h5,

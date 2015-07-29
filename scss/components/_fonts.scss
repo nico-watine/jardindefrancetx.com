@@ -1,5 +1,7 @@
 @import "../settings/_settings.scss";
 
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:600");
+
 @font-face {
   font-family: 'Parisienne';
   src: url('/fonts/parisienne/parisienne.eot'); /* IE9 Compat Modes */
@@ -7,18 +9,6 @@
        url('/fonts/parisienne/parisienne.woff') format('woff'), /* Modern Browsers */
        url('/fonts/parisienne/parisienne.ttf')  format('truetype'), /* Safari, Android, iOS */
        url('/fonts/parisienne/parisienne.svg#1d22900623fa53f8ea3f4e9e03fd0e84') format('svg'); /* Legacy iOS */
-       
-  font-style:   normal;
-  font-weight:  400;
-}
-
-@font-face {
-  font-family: 'Muller Regular';
-  src: url('/fonts/muller/regular/muller.eot'); /* IE9 Compat Modes */
-  src: url('/fonts/muller/regular/muller.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/fonts/muller/regular/muller.woff') format('woff'), /* Modern Browsers */
-       url('/fonts/muller/regular/muller.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('/fonts/muller/regular/muller.svg#7b841d44195ea2cd4740c78fd79d7da8') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
   font-weight:  400;
