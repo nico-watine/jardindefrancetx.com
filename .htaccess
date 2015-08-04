@@ -66,6 +66,7 @@
 # http://www.webmasterworld.com/apache/3808792.htm
 
 Options -MultiViews
+# Options +MultiViews
 
 # ------------------------------------------------------------------------------
 # | Custom error messages / pages                                              |
@@ -218,7 +219,7 @@ AddDefaultCharset utf-8
 </IfModule>
 
 # ------------------------------------------------------------------------------
-# | Rewrite HTML (& PHP) Endings                                                             |
+# | Rewrite HTML (& PHP & HTM) Endings                                         |
 # ------------------------------------------------------------------------------
 
 RewriteOptions inherit
@@ -591,6 +592,10 @@ FileETag None
 
 
 
-#Rules for Versioned Static Files
+# ------------------------------------------------------------------------------
+# | Rules for Versioned Static Files
+# ------------------------------------------------------------------------------
+
 RewriteRule ^(js|css)/(.+)\.(.+)\.(js|css)$ $1/$2.$4 [L]
+
 
