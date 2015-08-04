@@ -2,7 +2,7 @@
 
 .interior_gallery {
 	text-align: center;
-	background: url('/img/interior_gallery/interior_gallery.jpg');
+	background: url('/img/index/interior_gallery/interior_gallery.jpg');
 
 
 	.row {
@@ -42,7 +42,7 @@
 
 @media screen and (max-width: 33.125em) {   // 530px
 	.interior_gallery {
-		background: url('/img/interior_gallery/interior-small.jpg');
+		background: url('/img/index/interior_gallery/interior-small.jpg');
 		background-position: 50%;
 		background-size: cover;
 		background-repeat: no-repeat;

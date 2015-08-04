@@ -7,9 +7,9 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Jardin de France | Houston's French Antiques and Plants for the Home & Patio</title>
+	<title>Jardin de France | Houston's French Antiques and Plants for the Home &amp; Patio</title>
 
-	<meta name="description" content="Bringing to Houston the beauty of original French Country antiques & quaint garden design">
+	<meta name="description" content="Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
 	<link type="text/plain" rel="author" href="/humans.txt">
@@ -27,7 +27,7 @@
 	<div class="outer-container">
 		<div class="row">
 			<div class="logo">
-				<a href="#welcome" data-scroll><img src="/img/logo/logo.png" class="pot" alt="Jardin de France pot"></a>
+				<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
 				<a href="#welcome" data-scroll><h1 class="title">JdF</h1></a>
 			</div>
 			<nav class="nav-collapse">
@@ -44,17 +44,17 @@
 	</div>
 </header>
 
-<video autoplay loop preload="auto" poster="/img/splash/poster.jpg" id="bgvid">
-	<source src="/img/splash/splash.webm" type="video/webm">
-	<source src="/img/splash/splash.mp4" type="video/mp4">
+<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="bgvid">
+	<source src="/img/index/splash/splash.webm" type="video/webm">
+	<source src="/img/index/splash/splash.mp4" type="video/mp4">
 </video>
 
 <section class="splash" id="welcome">
 	<div class="outer-container">
 		<div class="row">
 			<h1 class="title">Jardin de France</h1>
-			<h3 class="slogan">French Antiques and Plants for the <span>Home & Patio</span></h3>
-			<h3>Bringing to Houston the beauty of original French Country antiques & quaint <span>garden design</span></h3>
+			<h3 class="slogan">French Antiques and Plants for the <span>Home &amp; Patio</span></h3>
+			<h3>Bringing to Houston the beauty of original French Country antiques &amp; quaint <span>garden design</span></h3>
 			<a href="#gardens" class="button" data-scroll>Come Visit Us!</a>
 		</div>
 	</div>
@@ -92,7 +92,7 @@
 		</div>
 </section>
 
-<section class="hip-banner">
+<section class="hip-banner linen-bg">
 	<div class="outer-container">
 		<div class="row padding">
 			<h3>There is an even larger selection of indoor plants available at our <span>online plant shop</span></h3>
@@ -112,7 +112,7 @@
 		</div>
 </section>
 
-<section class="about" id="about">
+<section class="about linen-bg" id="about">
 	<div class="outer-container">
 		<div class="row padding" id="story">
 			<h1 class="title">Our Story</h1>
@@ -120,10 +120,10 @@
 		</div>
 		<div class="row" id="pics">
 			<div class="profile-pic" id="patrice">
-				<img src="/img/about/patrice.png" alt="Patrice Watine">
+				<img src="/img/index/about/patrice.png" alt="Patrice Watine">
 			</div>
 			<div class="profile-pic" id="nicolas">
-				<img src="/img/about/nicolas.png" alt="Nicolas Watine">
+				<img src="/img/index/about/nicolas.png" alt="Nicolas Watine">
 			</div>
 		</div>
 	</div>
@@ -135,7 +135,7 @@
 			<div class="section-content">
 				<div class="location-verbiage">
 					<h1 class="title">Location</h1>
-					<h4>We are conveniently located 2 blocks south of Washington Ave & Durham Dr</h4>
+					<h4>We are conveniently located 2 blocks south of Washington Ave &amp; Durham Dr</h4>
 					<h3>Look for the French flag!</h3>
 					<p class="large"><a href="tel://832-651-3136" class="phone-number">832-651-3136</a></p>
 					<p class="large"><a href="mailto:shop@jdftx.com?Subject=Bonjour!" target="_top">Shop@JDFTX.com</a></p>
@@ -148,13 +148,13 @@
 
 <div class="map-banner"></div>
 
-<footer>
+<footer class="linen-bg">
 	<div class="outer-container">
 		<div class="row">
 			<ul class="share-buttons">
-				<li><a href="https://www.facebook.com/jardindefrancetx" target="_blank"><img class="normal" src="/img/social/facebook.png" alt="Facebook"><img class="hover" src="/img/social/facebook-hover.png" alt="Facebook"></a></li>
-				<li><a href="https://instagram.com/gloria_jardindefrance/" target="_blank"><img class="normal" src="/img/social/instagram.png" alt="Instagram"><img class="hover" src="/img/social/instagram-hover.png" alt="Instagram"></a></li>
-				<li><a href="https://www.pinterest.com/patglo68/" target="_blank"><img class="normal" src="/img/social/pinterest.png" alt="Pinterest"><img class="hover" src="/img/social/pinterest-hover.png" alt="Pinterest"></a></li>
+				<li><a href="https://www.facebook.com/jardindefrancetx" target="_blank"><img class="normal" src="/img/assets/social/facebook.png" alt="Facebook"><img class="hover" src="/img/assets/social/facebook-hover.png" alt="Facebook"></a></li>
+				<li><a href="https://instagram.com/gloria_jardindefrance/" target="_blank"><img class="normal" src="/img/assets/social/instagram.png" alt="Instagram"><img class="hover" src="/img/assets/social/instagram-hover.png" alt="Instagram"></a></li>
+				<li><a href="https://www.pinterest.com/patglo68/" target="_blank"><img class="normal" src="/img/assets/social/pinterest.png" alt="Pinterest"><img class="hover" src="/img/assets/social/pinterest-hover.png" alt="Pinterest"></a></li>
 			</ul>
 		</div>
 		<div class="row">

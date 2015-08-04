@@ -5,7 +5,7 @@
 .slick-list {
     .slick-loading & {
         background-color: #fff;
-        background-image: url("/img/slick/ajax-loader.gif") no-repeat;
+        background-image: url("/img/assets/slick/ajax-loader.gif") no-repeat;
         background-position: center center;
     }
 }
@@ -32,7 +32,7 @@
     left: 25px;
 
     &:before {
-        content: url('/img/slick/left-arrow.png');
+        content: url('/img/assets/slick/arrow-back.png');
     }
 
     &:hover {
@@ -44,7 +44,7 @@
     right: 25px;
 
     &:before {
-        content: url('/img/slick/right-arrow.png');
+        content: url('/img/assets/slick/arrow-next.png');
     }
 
     &:hover {
@@ -55,12 +55,12 @@
 @media screen and (max-width: 890px) {
     .slick-prev {
         &:before {
-            content: url('/img/slick/left-arrow-small.png');
+            content: url('/img/assets/slick/arrow-back-small.png');
         }
     }
     .slick-next {
         &:before {
-            content: url('/img/slick/right-arrow-small.png');
+            content: url('/img/assets/slick/arrow-next-small.png');
         }
     }
 }

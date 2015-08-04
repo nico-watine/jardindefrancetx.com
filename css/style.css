@@ -496,7 +496,8 @@ img,
 video {
   vertical-align: middle; }
 
-fieldset {
+fieldset,
+figure {
   border: 0;
   margin: 0;
   padding: 0; }
@@ -632,7 +633,7 @@ a.button {
 /* Slider */
 .slick-loading .slick-list {
   background-color: #fff;
-  background-image: url("/img/slick/ajax-loader.gif") no-repeat;
+  background-image: url("/img/assets/slick/ajax-loader.gif") no-repeat;
   background-position: center center; }
 
 /* Arrows */
@@ -654,25 +655,28 @@ a.button {
 .slick-prev {
   left: 25px; }
   .slick-prev:before {
-    content: url("/img/slick/left-arrow.png"); }
+    content: url("/img/assets/slick/arrow-back.png"); }
   .slick-prev:hover {
     left: 15px; }
 
 .slick-next {
   right: 25px; }
   .slick-next:before {
-    content: url("/img/slick/right-arrow.png"); }
+    content: url("/img/assets/slick/arrow-next.png"); }
   .slick-next:hover {
     right: 15px; }
 
 @media screen and (max-width: 890px) {
   .slick-prev:before {
-    content: url("/img/slick/left-arrow-small.png"); }
+    content: url("/img/assets/slick/arrow-back-small.png"); }
 
   .slick-next:before {
-    content: url("/img/slick/right-arrow-small.png"); } }
+    content: url("/img/assets/slick/arrow-next-small.png"); } }
 body {
   background: #f4f2f2; }
+
+.linen-bg {
+  background: url("/img/assets/backgrounds/linen.jpg") repeat; }
 
 header {
   background: #697B99;
@@ -957,10 +961,6 @@ h5#credit {
 .conservatory {
   border-top: 0.625em solid #f4f2f2; }
 
-.about,
-footer {
-  background: url("/img/about/bg.jpg"); }
-
 .hip-banner,
 .about,
 .interior_gallery,
@@ -978,7 +978,7 @@ video#bgvid {
   width: auto;
   height: auto;
   z-index: -100;
-  background: url("/img/splash/poster.jpg") no-repeat;
+  background: url("/img/index/splash/poster.jpg") no-repeat;
   background-size: cover; }
 
 .splash {
@@ -1014,7 +1014,7 @@ h3.slogan {
     visiblity: hidden; }
 
   .splash {
-    background: url("/img/splash/splash-medium.jpg");
+    background: url("/img/index/splash/splash-medium.jpg");
     background-position: 50%;
     background-size: cover;
     background-repeat: no-repeat; } }
@@ -1029,7 +1029,7 @@ h3.slogan {
       margin-right: 0; } }
 @media screen and (max-width: 31.25em) {
   .splash {
-    background: url("/img/splash/splash-small.jpg");
+    background: url("/img/index/splash/splash-small.jpg");
     background-position: 50%;
     background-size: cover;
     background-repeat: no-repeat; }
@@ -1056,13 +1056,13 @@ h3.slogan {
       margin-right: 0; } }
 .gardens {
   text-align: right;
-  background: url("/img/gardens/garden-1.jpg"); }
+  background: url("/img/index/gardens/garden-1.jpg"); }
   .gardens .slide-1 {
-    background: url("/img/gardens/garden-1.jpg"); }
+    background: url("/img/index/gardens/garden-1.jpg"); }
   .gardens .slide-2 {
-    background: url("/img/gardens/garden-2.jpg"); }
+    background: url("/img/index/gardens/garden-2.jpg"); }
   .gardens .slide-3 {
-    background: url("/img/gardens/garden-3.jpg"); }
+    background: url("/img/index/gardens/garden-3.jpg"); }
   .gardens h3 {
     margin-top: 0;
     margin-bottom: 1.875em;
@@ -1098,13 +1098,13 @@ h3.slogan {
         margin-right: 0; } }
 .conservatory {
   text-align: center;
-  background: url("/img/conservatory/conservatory-1.jpg"); }
+  background: url("/img/index/conservatory/conservatory-1.jpg"); }
   .conservatory .slide-1 {
-    background: url("/img/conservatory/conservatory-1.jpg"); }
+    background: url("/img/index/conservatory/conservatory-1.jpg"); }
   .conservatory .slide-2 {
-    background: url("/img/conservatory/conservatory-2.jpg"); }
+    background: url("/img/index/conservatory/conservatory-2.jpg"); }
   .conservatory .slide-3 {
-    background: url("/img/conservatory/conservatory-3.jpg"); }
+    background: url("/img/index/conservatory/conservatory-3.jpg"); }
   .conservatory .row {
     padding-top: 24.375em; }
   .conservatory h3 {
@@ -1122,8 +1122,7 @@ h3.slogan {
   .conservatory .row {
     padding-top: 12.5em; } }
 .hip-banner {
-  text-align: center;
-  background: url("/img/about/bg.jpg"); }
+  text-align: center; }
   .hip-banner .row {
     padding-top: 1em;
     margin-bottom: 3.75em; }
@@ -1136,7 +1135,7 @@ h3.slogan {
 
 .interior_gallery {
   text-align: center;
-  background: url("/img/interior_gallery/interior_gallery.jpg"); }
+  background: url("/img/index/interior_gallery/interior_gallery.jpg"); }
   .interior_gallery .row {
     padding-top: 21.875em; }
   .interior_gallery h3 {
@@ -1173,7 +1172,7 @@ h3.slogan {
       margin-right: 0; } }
 @media screen and (max-width: 33.125em) {
   .interior_gallery {
-    background: url("/img/interior_gallery/interior-small.jpg");
+    background: url("/img/index/interior_gallery/interior-small.jpg");
     background-position: 50%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1221,7 +1220,7 @@ h3.slogan {
   .profile-pic {
     padding: 0 0.625em; } }
 .location {
-  background: url("/img/location/location.jpg");
+  background: url("/img/index/location/location.jpg");
   overflow: hidden;
   height: 600px; }
   .location .section-content {
@@ -1245,7 +1244,7 @@ h3.slogan {
   text-align: center; }
 
 .map-banner {
-  background: url("/img/location/map-banner.png") center center no-repeat;
+  background: url("/img/index/location/map-banner.png") center center no-repeat;
   background-size: cover;
   height: 320px; }
 
@@ -1254,7 +1253,7 @@ h3.slogan {
     width: 18.75em; }
 
   .map-banner {
-    background: url("/img/location/map-banner-small.png") center center no-repeat; } }
+    background: url("/img/index/location/map-banner-small.png") center center no-repeat; } }
 .gardens,
 .conservatory,
 .interior_gallery,
@@ -1297,10 +1296,10 @@ h3.slogan {
       margin-right: 0; } }
 @media screen and (max-width: 31.25em) {
   .gardens {
-    background: url("/img/gardens/garden-small.jpg"); }
+    background: url("/img/index/gardens/garden-small.jpg"); }
 
   .conservatory {
-    background: url("/img/conservatory/conservatory-small.jpg"); }
+    background: url("/img/index/conservatory/conservatory-small.jpg"); }
 
   .gardens,
   .conservatory {
