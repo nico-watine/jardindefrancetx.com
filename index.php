@@ -65,7 +65,7 @@
 			<div class="outer-container">
 				<div class="row padding">
 					<h1 class="title">The Gardens</h1>
-					<h3>Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home</h3>
+					<h3>Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h3>
 				</div>
 			</div>
 		</div>
@@ -116,7 +116,7 @@
 	<div class="outer-container">
 		<div class="row padding" id="story">
 			<h1 class="title">Our Story</h1>
-			<h3>Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing heritage</h3>
+			<h3>Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing heritage.</h3>
 		</div>
 		<div class="row" id="pics">
 			<div class="profile-pic" id="patrice">
