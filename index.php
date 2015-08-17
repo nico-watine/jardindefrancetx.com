@@ -70,9 +70,15 @@
 			</div>
 		</div>
 		<div class="section-bg slick-slider">
-			<div class="slide-1"></div>
-			<div class="slide-2"></div>
-			<div class="slide-3"></div>
+			<div class="slide-1">
+				<img src="/img/index/gardens/garden-1.jpg" alt="Jardin de France Fountain Garden">
+			</div>
+			<div class="slide-2">
+				<img src="/img/index/gardens/garden-2.jpg" alt="Jardin de France Patio Garden">
+			</div>
+			<div class="slide-3">
+				<img src="/img/index/gardens/garden-3.jpg" alt="Jardin de France Entrance Path">
+			</div>
 		</div>
 </section>
 
@@ -86,9 +92,15 @@
 			</div>
 		</div>
 		<div class="section-bg slick-slider">
-			<div class="slide-1"></div>
-			<div class="slide-2"></div>
-			<div class="slide-3"></div>
+			<div class="slide-1">
+				<img src="/img/index/conservatory/conservatory-1.jpg" alt="Jardin de France Conservatory Building">
+			</div>
+			<div class="slide-2">
+				<img src="/img/index/conservatory/conservatory-2.jpg" alt="Pottery and Plants in the Conservatory">
+			</div>
+			<div class="slide-3">
+				<img src="/img/index/conservatory/conservatory-3.jpg" alt="A stone fountain filled with plants">
+			</div>
 		</div>
 </section>
 

@@ -3,26 +3,16 @@
 .gardens {
 	text-align: right;
 
-	background: url('/img/index/gardens/garden-1.jpg');
-
-	.slide-1 {
-		background: url('/img/index/gardens/garden-1.jpg');
-	}
-
-	.slide-2 {
-		background: url('/img/index/gardens/garden-2.jpg');
-	}
-
-	.slide-3 {
-		background: url('/img/index/gardens/garden-3.jpg');
+	h1 {
+		margin-top: 2%;
 	}
 
 	h3 {
 		margin-top: 0;
 		margin-bottom: em(30);
-
-		@include span-columns(9 of 16);
-		@include shift(7);
+		right: 0;
+		float: right;
+		width: rem(650);
 	}
 }
 

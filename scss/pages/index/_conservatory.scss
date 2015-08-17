@@ -2,32 +2,21 @@
 
 .conservatory {
 	text-align: center;
-	
-	background: url('/img/index/conservatory/conservatory-1.jpg');
 
-
-	.slide-1 {
-		background: url('/img/index/conservatory/conservatory-1.jpg');
-
+	h1,
+	h3 {
+		// position: absolute;
+		width: 100%;
 	}
 
-	.slide-2 {
-		background: url('/img/index/conservatory/conservatory-2.jpg');
-	}
-
-	.slide-3 {
-		background: url('/img/index/conservatory/conservatory-3.jpg');
-	}
-
-	.row {
-		padding-top: em(390);
+	h1 {
+		bottom: 100px;
 	}
 
 	h3 {
-		margin-top: 0;
-		margin-bottom: em(30);
-		@include span-columns(10 of 16);
-		@include shift(3);
+		// position: absolute;
+		bottom: 40px;
+		padding: 0 rem(24);
 	}
 }
 

@@ -647,7 +647,7 @@ a.button {
   font-size: 0px;
   cursor: pointer;
   background: transparent;
-  top: 75%;
+  bottom: 1.875rem;
   padding: 0;
   border: none;
   outline: none; }
@@ -954,8 +954,7 @@ h5#credit {
 .interior_gallery .section-content {
   position: absolute;
   z-index: 40;
-  width: 100%;
-  padding-top: 4.375em; }
+  width: 100%; }
 
 .gardens,
 .conservatory {
@@ -1055,24 +1054,15 @@ h3.slogan {
     .splash h3:last-child {
       margin-right: 0; } }
 .gardens {
-  text-align: right;
-  background: url("/img/index/gardens/garden-1.jpg"); }
-  .gardens .slide-1 {
-    background: url("/img/index/gardens/garden-1.jpg"); }
-  .gardens .slide-2 {
-    background: url("/img/index/gardens/garden-2.jpg"); }
-  .gardens .slide-3 {
-    background: url("/img/index/gardens/garden-3.jpg"); }
+  text-align: right; }
+  .gardens h1 {
+    margin-top: 2%; }
   .gardens h3 {
     margin-top: 0;
     margin-bottom: 1.875em;
-    float: left;
-    display: block;
-    margin-right: 1.75788%;
-    width: 55.48093%;
-    margin-left: 44.51907%; }
-    .gardens h3:last-child {
-      margin-right: 0; }
+    right: 0;
+    float: right;
+    width: 40.625rem; }
 
 @media screen and (max-width: 55.625em) {
   .gardens h3 {
@@ -1097,26 +1087,15 @@ h3.slogan {
       .gardens h3:last-child {
         margin-right: 0; } }
 .conservatory {
-  text-align: center;
-  background: url("/img/index/conservatory/conservatory-1.jpg"); }
-  .conservatory .slide-1 {
-    background: url("/img/index/conservatory/conservatory-1.jpg"); }
-  .conservatory .slide-2 {
-    background: url("/img/index/conservatory/conservatory-2.jpg"); }
-  .conservatory .slide-3 {
-    background: url("/img/index/conservatory/conservatory-3.jpg"); }
-  .conservatory .row {
-    padding-top: 24.375em; }
+  text-align: center; }
+  .conservatory h1,
   .conservatory h3 {
-    margin-top: 0;
-    margin-bottom: 1.875em;
-    float: left;
-    display: block;
-    margin-right: 1.75788%;
-    width: 61.8408%;
-    margin-left: 19.0796%; }
-    .conservatory h3:last-child {
-      margin-right: 0; }
+    width: 100%; }
+  .conservatory h1 {
+    bottom: 100px; }
+  .conservatory h3 {
+    bottom: 40px;
+    padding: 0 1.5rem; }
 
 @media screen and (max-width: 31.25em) {
   .conservatory .row {
@@ -1271,14 +1250,6 @@ h3.slogan {
   background-position: 50%;
   background-size: cover;
   background-repeat: no-repeat; }
-
-.gardens,
-.conservatory,
-.slide-1,
-.slide-2,
-.slide-3 {
-  overflow: hidden;
-  height: 710px; }
 
 @media screen and (max-width: 46.875em) {
   .gardens .section-bg,
