@@ -1214,10 +1214,10 @@ h3.slogan {
     padding-top: 3.125em; }
     .location .section-content:last-child {
       margin-right: 0; }
-  .location p.large a {
+  .location p.large a#phone {
     text-decoration: none; }
-    .location p.large a:hover {
-      text-decoration: underline; }
+    .location p.large a#phone:hover {
+      text-decoration: none; }
 
 .location-verbiage {
   width: 24.375em;
