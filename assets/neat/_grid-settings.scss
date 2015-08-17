@@ -1,5 +1,6 @@
 @import "neat-helpers";
 
+$min-1921: new-breakpoint(min-width em(1921) 16); 
 $large: new-breakpoint(max-width em(1000) 12); 
 $medium-plus: new-breakpoint(max-width em(830) 12);
 $medium: new-breakpoint(max-width em(750) 10);  

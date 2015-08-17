@@ -44,18 +44,17 @@
 	}
 }
 
-// @include media($small) {
-// 	.gardens {
-// 		text-align: center;
-
-// 		.row {
-// 			padding-top: em(210);
-// 		}
-
-// 		h3 {
-// 			@include span-columns(8 of 8);
-// 			@include shift(0);
-// 		}
-// 	}
-// }
+@include media($min-1921) {
+	.gardens {
+		.slide-1 {
+			background-image: url("/img/index/gardens/garden-1.jpg");
+		}
+		.slide-2 {
+			background-image: url("/img/index/gardens/garden-2.jpg");
+		}
+		.slide-3 {
+			background-image: url("/img/index/gardens/garden-3.jpg");
+		}
+	}
+}
 
