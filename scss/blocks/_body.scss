@@ -1,7 +1,8 @@
 @import "../settings/_settings.scss";
 
 body {
-	background: $body;
+	background-color: $body;
+	background: url('/img/assets/backgrounds/linen.jpg') repeat;
 }
 
 .linen-bg {
