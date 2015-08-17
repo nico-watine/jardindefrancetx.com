@@ -36,11 +36,11 @@
 	}
 }
 
-@include media($min-1921) {
+@include media($min-1500) {
 	.interior_gallery {
 		.slide-1 {
 			background-position: center center !important;
-			background-image: url("/img/index/interior_gallery/interior_gallery.jpg");
+			background-image: url("/img/index/interior_gallery/min-1500/interior_gallery.jpg");
 		}
 	}
 }

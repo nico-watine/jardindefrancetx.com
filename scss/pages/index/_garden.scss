@@ -44,16 +44,16 @@
 	}
 }
 
-@include media($min-1921) {
+@include media($min-1500) {
 	.gardens {
 		.slide-1 {
-			background-image: url("/img/index/gardens/garden-1.jpg");
+			background-image: url("/img/index/gardens/min-1500/garden-1.jpg");
 		}
 		.slide-2 {
-			background-image: url("/img/index/gardens/garden-2.jpg");
+			background-image: url("/img/index/gardens/min-1500/garden-2.jpg");
 		}
 		.slide-3 {
-			background-image: url("/img/index/gardens/garden-3.jpg");
+			background-image: url("/img/index/gardens/min-1500/garden-3.jpg");
 		}
 	}
 }

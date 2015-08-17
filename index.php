@@ -71,13 +71,13 @@
 		</div>
 		<div class="section-bg slick-slider">
 			<div class="slide-1">
-				<img src="/img/index/gardens/garden-1.jpg" alt="Jardin de France Fountain Garden">
+				<img src="/img/index/gardens/default/garden-1.jpg" alt="Jardin de France Fountain Garden">
 			</div>
 			<div class="slide-2">
-				<img src="/img/index/gardens/garden-2.jpg" alt="Jardin de France Patio Garden">
+				<img src="/img/index/gardens/default/garden-2.jpg" alt="Jardin de France Patio Garden">
 			</div>
 			<div class="slide-3">
-				<img src="/img/index/gardens/garden-3.jpg" alt="Jardin de France Entrance Path">
+				<img src="/img/index/gardens/default/garden-3.jpg" alt="Jardin de France Entrance Path">
 			</div>
 		</div>
 </section>
@@ -93,13 +93,13 @@
 		</div>
 		<div class="section-bg slick-slider">
 			<div class="slide-1">
-				<img src="/img/index/conservatory/conservatory-1.jpg" alt="Jardin de France Conservatory Building">
+				<img src="/img/index/conservatory/default/conservatory-1.jpg" alt="Jardin de France Conservatory Building">
 			</div>
 			<div class="slide-2">
-				<img src="/img/index/conservatory/conservatory-2.jpg" alt="Pottery and Plants in the Conservatory">
+				<img src="/img/index/conservatory/default/conservatory-2.jpg" alt="Pottery and Plants in the Conservatory">
 			</div>
 			<div class="slide-3">
-				<img src="/img/index/conservatory/conservatory-3.jpg" alt="A stone fountain filled with plants">
+				<img src="/img/index/conservatory/default/conservatory-3.jpg" alt="A stone fountain filled with plants">
 			</div>
 		</div>
 </section>
@@ -124,7 +124,7 @@
 		</div>
 		<div class="section-bg slick-slider">
 			<div class="slide-1">
-				<img src="/img/index/interior_gallery/interior_gallery.jpg" alt="Jardin de France Interior Gallery">
+				<img src="/img/index/interior_gallery/default/interior_gallery.jpg" alt="Jardin de France Interior Gallery">
 			</div>
 		</div>
 </section>

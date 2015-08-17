@@ -24,16 +24,16 @@
 }
 
 
-@include media($min-1921) {
+@include media($min-1500) {
 	.conservatory {
 		.slide-1 {
-			background-image: url("/img/index/conservatory/conservatory-1.jpg");
+			background-image: url("/img/index/conservatory/min-1500/conservatory-1.jpg");
 		}
 		.slide-2 {
-			background-image: url("/img/index/conservatory/conservatory-2.jpg");
+			background-image: url("/img/index/conservatory/min-1500/conservatory-2.jpg");
 		}
 		.slide-3 {
-			background-image: url("/img/index/conservatory/conservatory-3.jpg");
+			background-image: url("/img/index/conservatory/min-1500/conservatory-3.jpg");
 		}
 	}
 }
