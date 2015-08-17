@@ -88,7 +88,7 @@ h6 {
 	font-size: $h6-size;
 }
 
-@include media($medium) {
+@include media($medium-plus) {
 	
 	h1 {
 		font-size: $h2-size;
@@ -130,4 +130,8 @@ h3 {
 
 .text-shadow {
 	text-shadow: 0 rem(6) rem(10) rgba(0,0,0,1.0);
+}
+
+.no-shadow {
+	text-shadow: none !important;
 }

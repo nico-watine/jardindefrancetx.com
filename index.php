@@ -21,7 +21,7 @@
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
 </head>
-<body>
+<body id="index">
 
 <header>
 	<div class="outer-container">
@@ -107,7 +107,7 @@
 <section class="hip-banner linen-bg">
 	<div class="outer-container">
 		<div class="row padding">
-			<h3>There is an even larger selection of indoor plants available at our <span>online plant shop</span></h3>
+			<h3 class="no-shadow">There is an even larger selection of indoor plants available at our <span>online plant shop</span></h3>
 			<a href="http://www.houstoninteriorplants.com" target="_blank" class="button">www.<span>H</span>ouston<span>I</span>nterior<span>P</span>lants.com</a>
 		</div>
 	</div>
@@ -122,13 +122,18 @@
 				</div>
 			</div>
 		</div>
+		<div class="section-bg slick-slider">
+			<div class="slide-1">
+				<img src="/img/index/interior_gallery/interior_gallery.jpg" alt="Jardin de France Interior Gallery">
+			</div>
+		</div>
 </section>
 
 <section class="about linen-bg" id="about">
 	<div class="outer-container">
 		<div class="row padding" id="story">
-			<h1 class="title">Our Story</h1>
-			<h3>Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing heritage.</h3>
+			<h1 class="title no-shadow">Our Story</h1>
+			<h3 class="no-shadow">Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing heritage.</h3>
 		</div>
 		<div class="row" id="pics">
 			<div class="profile-pic" id="patrice">
@@ -170,7 +175,7 @@
 			</ul>
 		</div>
 		<div class="row">
-			<h5 id="credit"><a href="http://studioncreations.com" target="_blank">A <span>Studio N</span> Creation</a></h5>
+			<h5 id="credit"><a class="no-shadow" href="http://studioncreations.com" target="_blank">A <span>Studio N</span> Creation</a></h5>
 		</div>
 	</div>
 </footer>

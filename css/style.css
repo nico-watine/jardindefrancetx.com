@@ -446,7 +446,7 @@ h5 {
 h6 {
   font-size: 0.75em; }
 
-@media screen and (max-width: 46.875em) {
+@media screen and (max-width: 51.875em) {
   h1 {
     font-size: 2.3125em; }
 
@@ -473,6 +473,9 @@ h3 span {
 
 .text-shadow {
   text-shadow: 0 0.375rem 0.625rem black; }
+
+.no-shadow {
+  text-shadow: none !important; }
 
 html,
 body {
@@ -963,25 +966,6 @@ h5#credit {
       color: #444;
       text-decoration: underline; }
 
-.gardens .section-content,
-.conservatory .section-content,
-.interior_gallery .section-content {
-  position: absolute;
-  z-index: 40;
-  width: 100%; }
-
-.gardens,
-.conservatory {
-  border-top: 0.625em solid #f4f2f2; }
-
-.hip-banner,
-.about,
-.interior_gallery,
-.location,
-.map-banner,
-footer {
-  border-top: 0.375em solid #697B99; }
-
 video#bgvid {
   position: fixed;
   left: 0;
@@ -1032,13 +1016,13 @@ h3.slogan {
     background-size: cover;
     background-repeat: no-repeat; } }
 @media screen and (max-width: 46.875em) {
-  h3 {
+  .splash h3 {
     float: left;
     display: block;
     margin-right: 2.84259%;
     width: 79.43148%;
     margin-left: 10.28426%; }
-    h3:last-child {
+    .splash h3:last-child {
       margin-right: 0; } }
 @media screen and (max-width: 31.25em) {
   .splash {
@@ -1068,7 +1052,9 @@ h3.slogan {
     .splash h3:last-child {
       margin-right: 0; } }
 .gardens {
-  text-align: right; }
+  text-align: right;
+  border-top: 0.625em solid #f4f2f2;
+  position: relative; }
   .gardens h1 {
     margin-top: 2%; }
   .gardens h3 {
@@ -1078,7 +1064,7 @@ h3.slogan {
     float: right;
     width: 40.625rem; }
 
-@media screen and (max-width: 55.625em) {
+@media screen and (max-width: 51.875em) {
   .gardens h3 {
     float: left;
     display: block;
@@ -1087,11 +1073,13 @@ h3.slogan {
     margin-left: 25.43947%; }
     .gardens h3:last-child {
       margin-right: 0; } }
-@media screen and (max-width: 31.25em) {
+@media screen and (max-width: 46.875em) {
   .gardens {
-    text-align: center; }
-    .gardens .row {
-      padding-top: 13.125em; }
+    height: 34.375em;
+    text-align: center;
+    background: url("/img/index/gardens/garden-small.jpg"); }
+    .gardens .section-content {
+      bottom: 0em; }
     .gardens h3 {
       float: left;
       display: block;
@@ -1101,36 +1089,34 @@ h3.slogan {
       .gardens h3:last-child {
         margin-right: 0; } }
 .conservatory {
-  text-align: center; }
-  .conservatory h1,
-  .conservatory h3 {
-    width: 100%; }
-  .conservatory h1 {
-    bottom: 100px; }
-  .conservatory h3 {
-    bottom: 40px;
-    padding: 0 1.5rem; }
+  text-align: center;
+  border-top: 0.625em solid #697B99;
+  position: relative; }
+  .conservatory .section-content {
+    bottom: 6.25em;
+    width: 90%;
+    left: 5%; }
 
-@media screen and (max-width: 31.25em) {
-  .conservatory .row {
-    padding-top: 12.5em; } }
+@media screen and (max-width: 46.875em) {
+  .conservatory {
+    background: url("/img/index/conservatory/conservatory-small.jpg");
+    height: 34.375em; }
+    .conservatory .section-content {
+      bottom: 1.875em; } }
 .hip-banner {
   text-align: center; }
   .hip-banner .row {
-    padding-top: 1em;
+    padding-top: 2.25em;
     margin-bottom: 3.75em; }
   .hip-banner h3 {
     color: #333;
-    text-shadow: none;
     margin-bottom: 2rem; }
   .hip-banner a.button span {
     font-family: "Parisienne", sans-serif; }
 
 .interior_gallery {
   text-align: center;
-  background: url("/img/index/interior_gallery/interior_gallery.jpg"); }
-  .interior_gallery .row {
-    padding-top: 21.875em; }
+  position: relative; }
   .interior_gallery h3 {
     float: left;
     display: block;
@@ -1140,10 +1126,8 @@ h3.slogan {
     margin-top: 0; }
     .interior_gallery h3:last-child {
       margin-right: 0; }
-
-.interior_gallery {
-  overflow: hidden;
-  height: 650px; }
+  .interior_gallery .section-content {
+    bottom: 2.5em; }
 
 @media screen and (max-width: 62.5em) {
   .interior_gallery h3 {
@@ -1155,30 +1139,17 @@ h3.slogan {
     .interior_gallery h3:last-child {
       margin-right: 0; } }
 @media screen and (max-width: 46.875em) {
-  .interior_gallery h3 {
-    float: left;
-    display: block;
-    margin-right: 2.84259%;
-    width: 100%;
-    margin-left: 0%; }
-    .interior_gallery h3:last-child {
-      margin-right: 0; } }
-@media screen and (max-width: 33.125em) {
   .interior_gallery {
-    background: url("/img/index/interior_gallery/interior-small.jpg");
-    background-position: 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 550px; }
-    .interior_gallery h1 {
-      font-size: 3.125rem; }
-    .interior_gallery .row {
-      padding-top: 19.375em; } }
-@media screen and (max-width: 31.25em) {
-  .interior_gallery .row {
-    padding-top: 8.75em; }
-  .interior_gallery h1 {
-    margin-bottom: 7.5rem; } }
+    height: 34.375em;
+    background: url("/img/index/interior_gallery/interior-small.jpg"); }
+    .interior_gallery h3 {
+      float: left;
+      display: block;
+      margin-right: 2.84259%;
+      width: 100%;
+      margin-left: 0%; }
+      .interior_gallery h3:last-child {
+        margin-right: 0; } }
 .about {
   height: 550px;
   text-align: center; }
@@ -1188,8 +1159,7 @@ h3.slogan {
     padding: 2.5em 0; }
   .about h1.title,
   .about h3 {
-    color: #333;
-    text-shadow: none; }
+    color: #333; }
 
 .profile-pic {
   float: left;
@@ -1247,48 +1217,47 @@ h3.slogan {
 
   .map-banner {
     background: url("/img/index/location/map-banner-small.png") center center no-repeat; } }
+body#index h1,
+body#index h2,
+body#index h3,
+body#index h4,
+body#index h5,
+body#index h6,
+body#index p,
+body#index p.large {
+  text-shadow: 0 0.375rem 0.625rem black; }
+
+.hip-banner,
+.about,
+.interior_gallery,
+.location,
+.map-banner,
+footer {
+  border-top: 0.375em solid #697B99; }
+
 .gardens,
 .conservatory,
 .interior_gallery,
-.location {
-  background-position: 50%;
-  background-size: cover;
-  background-repeat: no-repeat; }
-
+.location,
 .gardens .slide-1,
 .gardens .slide-2,
 .gardens .slide-3,
 .conservatory .slide-1,
 .conservatory .slide-2,
 .conservatory .slide-3 {
-  background-position: 50%;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat; }
 
+.section-content {
+  position: absolute;
+  z-index: 40;
+  width: 100%; }
+
+@media screen and (max-width: 51.875em) {
+  .section-content h1 {
+    font-size: 3.125rem; } }
 @media screen and (max-width: 46.875em) {
-  .gardens .section-bg,
-  .conservatory .section-bg {
+  .section-bg {
     visibility: hidden;
-    display: none; }
-
-  .conservatory h3 {
-    float: left;
-    display: block;
-    margin-right: 1.75788%;
-    width: 87.28027%;
-    margin-left: 6.35987%; }
-    .conservatory h3:last-child {
-      margin-right: 0; } }
-@media screen and (max-width: 31.25em) {
-  .gardens {
-    background: url("/img/index/gardens/garden-small.jpg"); }
-
-  .conservatory {
-    background: url("/img/index/conservatory/conservatory-small.jpg"); }
-
-  .gardens,
-  .conservatory {
-    background-position: 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 550px; } }
+    display: none; } }

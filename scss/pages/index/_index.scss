@@ -1,7 +1,5 @@
 @import "../../settings/_settings.scss";
 
-@import "_pre-shared.scss";
-
 @import "_splash.scss";
 @import "_garden.scss";
 @import "_conservatory.scss";
@@ -10,7 +8,60 @@
 @import "_about.scss";
 @import "_location.scss";
 
-@import "_post-shared.scss";
+body#index {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	p,
+	p.large {
+		text-shadow: 0 rem(6) rem(10) rgba(0,0,0,1.0);
+	}	
+}
 
+.hip-banner,
+.about,
+.interior_gallery,
+.location,
+.map-banner,
+footer {
+	border-top: em(6) solid $dark-blue;
+}
 
+.gardens,
+.conservatory,
+.interior_gallery,
+.location,
+.gardens .slide-1,
+.gardens .slide-2,
+.gardens .slide-3,
+.conservatory .slide-1,
+.conservatory .slide-2,
+.conservatory .slide-3, {
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
 
+.section-content {
+	position: absolute;
+	z-index: 40;
+	width: 100%;
+}
+
+@include media($medium-plus) {
+	.section-content {
+		h1 {
+			font-size: rem(50);
+		}
+	}
+}
+
+@include media($medium) {
+	.section-bg {
+		visibility: hidden;
+		display: none;
+	}
+}

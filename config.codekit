@@ -2601,38 +2601,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
-	"\/scss\/pages\/index\/_post-shared.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/pages\/index\/_post-shared.scss",
-		"outputAbbreviatedPath": "\/css\/_post-shared.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/scss\/pages\/index\/_pre-shared.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/pages\/index\/_pre-shared.scss",
-		"outputAbbreviatedPath": "\/css\/_pre-shared.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
 	"\/scss\/pages\/index\/_splash.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,

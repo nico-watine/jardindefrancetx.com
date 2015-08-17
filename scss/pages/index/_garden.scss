@@ -2,6 +2,8 @@
 
 .gardens {
 	text-align: right;
+	border-top: em(10) solid $body;
+	position: relative;
 
 	h1 {
 		margin-top: 2%;
@@ -16,7 +18,7 @@
 	}
 }
 
-@media screen and (max-width: 55.625em) {  // 890px
+@include media($medium-plus) {
 	.gardens {
 		h3 {
 			@include span-columns(12 of 16);
@@ -25,13 +27,14 @@
 	}
 }
 
-
-@include media($small) {
+@include media($medium) {
 	.gardens {
+		height: em(550);
 		text-align: center;
+		background: url('/img/index/gardens/garden-small.jpg');
 
-		.row {
-			padding-top: em(210);
+		.section-content {
+			bottom: em(0);
 		}
 
 		h3 {
@@ -40,4 +43,19 @@
 		}
 	}
 }
+
+// @include media($small) {
+// 	.gardens {
+// 		text-align: center;
+
+// 		.row {
+// 			padding-top: em(210);
+// 		}
+
+// 		h3 {
+// 			@include span-columns(8 of 8);
+// 			@include shift(0);
+// 		}
+// 	}
+// }
 

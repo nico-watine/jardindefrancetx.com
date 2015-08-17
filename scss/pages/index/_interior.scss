@@ -2,23 +2,17 @@
 
 .interior_gallery {
 	text-align: center;
-	background: url('/img/index/interior_gallery/interior_gallery.jpg');
-
-
-	.row {
-		padding-top: em(350);
-	}
+	position: relative;
 
 	h3 {
 		@include span-columns(9 of 16);
 		@include shift(3.5);
 		margin-top: 0;
 	}
-}
 
-.interior_gallery {
-	overflow: hidden;
-	height: 650px;
+	.section-content {
+		bottom: em(40);
+	}
 }
 
 @include media($large) {
@@ -32,6 +26,9 @@
 
 @include media($medium) {
 	.interior_gallery {
+		height: em(550);
+		background: url('/img/index/interior_gallery/interior-small.jpg');
+
 		h3 {
 			@include span-columns(10 of 10);
 			@include shift(0);
@@ -39,33 +36,3 @@
 	}
 }
 
-
-@media screen and (max-width: 33.125em) {   // 530px
-	.interior_gallery {
-		background: url('/img/index/interior_gallery/interior-small.jpg');
-		background-position: 50%;
-		background-size: cover;
-		background-repeat: no-repeat;
-		height: 550px;
-
-		h1 {
-			font-size: rem(50);
-		}
-
-		.row {
-			padding-top: em(310);
-		}
-	}
-}
-
-@include media($small) {
-	.interior_gallery {
-		.row {
-			padding-top: em(140);
-		}
-
-		h1 {
-			margin-bottom: rem(120);
-		}
-	}
-}
