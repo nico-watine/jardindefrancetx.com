@@ -154,16 +154,16 @@
 					<h1 class="title">Location</h1>
 					<h4>We are conveniently located 2 blocks south of Washington Ave &amp; Durham Dr</h4>
 					<h3>Look for the French flag!</h3>
-					<p class="large"><a href="tel://832-651-3136" class="phone-number">832-651-3136</a></p>
+					<p class="large"><a id="phone" href="tel://832-651-3136" class="phone-number">832-651-3136</a></p>
 					<p class="large"><a href="mailto:shop@jdftx.com?Subject=Bonjour!" target="_top">Shop@JDFTX.com</a></p>
-					<p class="large"><a href="https://www.google.com/maps/place/4819+Blossom+St,+Houston,+TX+77007/@29.767306,-95.410378,17z/data=!3m1!4b1!4m2!3m1!1s0x8640c0b46e30ca21:0x9fb821a40a5d7107" target="_blank">4819 Blossom St. <br>Houston, TX <br>77007</a></p>
+					<p class="large"><a id="map-link" href="https://www.google.com/maps/place/4819+Blossom+St,+Houston,+TX+77007/@29.767306,-95.410378,17z/data=!3m1!4b1!4m2!3m1!1s0x8640c0b46e30ca21:0x9fb821a40a5d7107" target="_blank">4819 Blossom St. <br>Houston, TX <br>77007</a></p>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
 
-<div class="map-banner"></div>
+<!-- <div class="map-banner"></div> -->
 
 <footer class="linen-bg">
 	<div class="outer-container">

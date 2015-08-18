@@ -13,11 +13,11 @@
 	}
 
 	p.large {
-		a {
+		a#phone {
 			text-decoration: none;
 
 			&:hover {
-				text-decoration: underline;
+				text-decoration: none;
 			}
 		}
 	}
