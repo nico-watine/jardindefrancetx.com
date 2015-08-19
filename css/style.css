@@ -993,10 +993,11 @@ h5#credit {
     font-size: 1.375rem;
     margin-bottom: 2.125rem; }
   .splash h3 {
-    width: 60%;
-    margin-left: 20%;
-    margin-top: 0;
     margin-bottom: 3.4375rem; }
+  .splash h2,
+  .splash h3 {
+    width: 66%;
+    margin-left: 17%; }
   .splash a.button {
     font-family: "Parisienne", sans-serif;
     font-size: 1.75em; }
@@ -1007,46 +1008,28 @@ h5#credit {
     visiblity: hidden; }
 
   .splash {
-    background: url("/img/index/splash/splash-medium.jpg");
+    background: url("/img/index/splash/splash-medium.jpg") no-repeat;
     background-position: 50%;
-    background-size: cover;
-    background-repeat: no-repeat; } }
+    background-size: cover; } }
 @media screen and (max-width: 46.875em) {
+  .splash h2,
   .splash h3 {
-    float: left;
-    display: block;
-    margin-right: 2.84259%;
-    width: 79.43148%;
-    margin-left: 10.28426%; }
-    .splash h3:last-child {
-      margin-right: 0; } }
+    width: 84%;
+    margin-left: 8%; } }
 @media screen and (max-width: 31.25em) {
   .splash {
-    background: url("/img/index/splash/splash-small.jpg");
+    background: url("/img/index/splash/splash-small.jpg") no-repeat;
     background-position: 50%;
-    background-size: cover;
-    background-repeat: no-repeat; }
+    background-size: cover; }
     .splash h1 {
       font-size: 2.375rem; }
-    .splash .row {
-      padding-top: 6.25em; }
+    .splash h2,
     .splash h3 {
-      float: left;
-      display: block;
-      margin-right: 3.57866%;
-      width: 87.05267%;
-      margin-left: 6.47367%; }
-      .splash h3:last-child {
-        margin-right: 0; } }
-@media screen and (max-width: 23.75em) {
-  .splash h3 {
-    float: left;
-    display: block;
-    margin-right: 3.57866%;
-    width: 100%;
-    margin-left: 0%; }
-    .splash h3:last-child {
-      margin-right: 0; } }
+      width: 100%;
+      margin-left: 0;
+      padding: 0 0.625rem; }
+    .splash .verbiage {
+      padding-top: 8.75em; } }
 .gardens {
   text-align: right;
   border-top: 0.625em solid #f4f2f2;

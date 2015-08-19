@@ -48,8 +48,8 @@
 <section class="splash bgvid-container" id="welcome">
 	<div class="verbiage">
 		<h1 class="title">Jardin de France</h1>
-		<h2 class="slogan">French Antiques and Plants for the <span>Home &amp; Patio</span></h2>
-		<h3 class="tag">Bringing to Houston the beauty of original French Country antiques &amp; quaint <span>garden design</span></h3>
+		<h2 class="slogan">French Antiques and Plants for the <span class="inline-block">Home &amp; Patio</span></h2>
+		<h3 class="tag">Bringing to Houston the beauty of original French Country antiques &amp; quaint <span class="inline-block">garden design</span></h3>
 		<a href="#gardens" class="button" data-scroll>Come Visit Us!</a>
 	</div>
 
