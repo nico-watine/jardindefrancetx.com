@@ -14,18 +14,19 @@
     right: 0;
     min-width: 100%;
     min-height: 100%;
-    // z-index: -100;
 }
 
 video.bgvid {
     position: absolute;
     z-index: -100;
     top: 0;
-    left: 0;
+    left: 50%;
     min-width: 100%;
     min-height: 100%;
     width: auto;
     height: auto;
+    -webkit-transform: translateX(-50%) translateY(0);
+    transform: translateX(-50%) translateY(0);
     overflow: hidden;
 }
 
