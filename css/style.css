@@ -969,7 +969,7 @@ h5#credit {
 
 #bgvid {
   position: absolute;
-  z-index: -100;
+  z-index: -5;
   top: 50%;
   left: 50%;
   min-width: 100%;
@@ -978,35 +978,28 @@ h5#credit {
   transform: translateX(-50%) translateY(-50%); }
 
 .splash {
-  padding-top: 3.4375em;
   position: relative;
   top: 0;
   left: 0;
+  padding-bottom: 7.5em;
   text-align: center;
   min-height: 100%;
   overflow: hidden; }
-  .splash .row {
-    padding-top: 12.5em; }
+  .splash .verbiage {
+    padding-top: 15.9375em; }
   .splash h1 {
     margin-bottom: 1rem; }
+  .splash h2 {
+    font-size: 1.375rem;
+    margin-bottom: 2.125rem; }
   .splash h3 {
-    float: left;
-    display: block;
-    margin-right: 1.75788%;
-    width: 61.8408%;
-    margin-left: 19.0796%;
+    width: 60%;
+    margin-left: 20%;
     margin-top: 0;
-    margin-bottom: 1.875em; }
-    .splash h3:last-child {
-      margin-right: 0; }
+    margin-bottom: 3.4375rem; }
   .splash a.button {
     font-family: "Parisienne", sans-serif;
-    font-size: 1.75em;
-    margin-bottom: 1.875rem; }
-
-h3.slogan {
-  font-size: 1.375rem;
-  margin-bottom: 2.125rem; }
+    font-size: 1.75em; }
 
 @media screen and (max-width: 800px) {
   #bgvid {
