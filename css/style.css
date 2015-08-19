@@ -967,30 +967,24 @@ h5#credit {
       color: #444;
       text-decoration: underline; }
 
-.bgvid-container {
-  position: relative;
-  top: 0;
-  right: 0;
-  min-width: 100%;
-  min-height: 100%; }
-
-video.bgvid {
+#bgvid {
   position: absolute;
   z-index: -100;
   top: 50%;
   left: 50%;
   min-width: 100%;
   min-height: 100%;
-  width: auto;
-  height: auto;
   -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  overflow: hidden; }
+  transform: translateX(-50%) translateY(-50%); }
 
 .splash {
   padding-top: 3.4375em;
+  position: relative;
+  top: 0;
+  left: 0;
   text-align: center;
-  min-height: 100%; }
+  min-height: 100%;
+  overflow: hidden; }
   .splash .row {
     padding-top: 12.5em; }
   .splash h1 {
@@ -1015,7 +1009,7 @@ h3.slogan {
   margin-bottom: 2.125rem; }
 
 @media screen and (max-width: 800px) {
-  video#bgvid {
+  #bgvid {
     display: none;
     visiblity: hidden; }
 

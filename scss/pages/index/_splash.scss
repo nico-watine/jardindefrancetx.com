@@ -1,39 +1,30 @@
 @import "../../settings/_settings.scss";
 
-// video#bgvid {
-// 	position: fixed; left: 0; top: 0;
-// 	min-width: 100%; min-height: 100%;
-// 	width: auto; height: auto; z-index: -100;
-// 	background: url('/img/index/splash/poster.jpg') no-repeat;
-// 	background-size: cover;
-// }
 
-.bgvid-container {
-    position: relative;
-    top: 0;
-    right: 0;
-    min-width: 100%;
-    min-height: 100%;
-}
 
-video.bgvid {
+#bgvid {
     position: absolute;
     z-index: -100;
     top: 50%;
     left: 50%;
     min-width: 100%;
     min-height: 100%;
-    width: auto;
-    height: auto;
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    overflow: hidden;
+
+    // UNSURE ::
+	// width: auto;
+    // height: auto;
 }
 
 .splash {
 	padding-top: em(55);
+	position: relative;
+	top: 0;
+	left: 0;
 	text-align: center;
 	min-height: 100%;
+	overflow: hidden;
 
 	.row {
 		padding-top: em(200);
@@ -63,7 +54,7 @@ h3.slogan {
 }
 
 @media screen and (max-width: 800px) {
-	video#bgvid {
+	#bgvid {
 		display: none;
 		visiblity: hidden;
 	}
