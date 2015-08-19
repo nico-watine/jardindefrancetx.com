@@ -44,20 +44,34 @@
 	</div>
 </header>
 
-<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="bgvid">
+<!-- <video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="bgvid">
 	<source src="/img/index/splash/splash.webm" type="video/webm">
 	<source src="/img/index/splash/splash.mp4" type="video/mp4">
-</video>
+</video> -->
 
-<section class="splash" id="welcome">
-	<div class="outer-container">
-		<div class="row">
+<!-- <div class="bgvid-container">
+	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" class="bgvid">
+		<source src="/img/index/splash/splash.webm" type="video/webm">
+		<source src="/img/index/splash/splash.mp4" type="video/mp4">
+	</video>
+</div> -->
+
+<section class="splash bgvid-container" id="welcome">
+	<!-- <div class="outer-container"> -->
+		<!-- <div class="row"> -->
 			<h1 class="title">Jardin de France</h1>
 			<h3 class="slogan">French Antiques and Plants for the <span>Home &amp; Patio</span></h3>
 			<h3>Bringing to Houston the beauty of original French Country antiques &amp; quaint <span>garden design</span></h3>
-			<a href="#gardens" class="button" data-scroll>Come Visit Us!</a>
-		</div>
-	</div>
+			<!-- <a href="#gardens" class="button" data-scroll>Come Visit Us!</a> -->
+		<!-- </div> -->
+	<!-- </div> -->
+
+	<!-- <div class="bgvid-container"> -->
+		<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" class="bgvid">
+			<source src="/img/index/splash/splash.webm" type="video/webm">
+			<source src="/img/index/splash/splash.mp4" type="video/mp4">
+		</video>
+	<!-- </div> -->
 </section>
 
 <section class="gardens" id="gardens">
