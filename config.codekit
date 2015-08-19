@@ -1119,7 +1119,7 @@
 		},
 	"\/assets\/bower_components\/slick-carousel\/slick\/slick.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/bower_components\/slick-carousel\/slick\/slick.js",
 		"outputAbbreviatedPath": "\/assets\/bower_components\/slick-carousel\/slick\/min\/slick-min.js",
@@ -1130,7 +1130,7 @@
 		},
 	"\/assets\/bower_components\/slick-carousel\/slick\/slick.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/bower_components\/slick-carousel\/slick\/slick.min.js",
 		"outputAbbreviatedPath": "\/assets\/bower_components\/slick-carousel\/slick\/min\/slick.min-min.js",
@@ -2903,7 +2903,7 @@
 	"\/js\/src\/scripts.js": [
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/slick-carousel\/slick\/slick.js",
+			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/slick-carousel\/slick\/slick.min.js",
 			"position": 0,
 			"type": 0
 			},
