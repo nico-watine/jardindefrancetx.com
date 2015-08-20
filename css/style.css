@@ -1144,6 +1144,9 @@ h5#credit {
     margin-bottom: 2rem; }
   .hip-banner a.button span {
     font-family: "Parisienne", sans-serif; }
+  @media screen and (max-width: 23.75em) {
+    .hip-banner .row.padding {
+      padding: 2.25em 0 0; } }
 
 .interior_gallery {
   text-align: center;

@@ -18,4 +18,10 @@
 			font-family: $header-font-family;
 		}
 	}
+
+	@include media($tiny) {
+		.row.padding {
+			padding: em(36) 0 0;
+		}
+	}
 }
