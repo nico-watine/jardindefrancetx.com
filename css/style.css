@@ -366,8 +366,7 @@ html {
   /* IE9 Compat Modes */
   src: url("/fonts/parisienne/parisienne.eot?#iefix") format("embedded-opentype"), url("/fonts/parisienne/parisienne.woff") format("woff"), url("/fonts/parisienne/parisienne.ttf") format("truetype"), url("/fonts/parisienne/parisienne.svg#1d22900623fa53f8ea3f4e9e03fd0e84") format("svg");
   /* Legacy iOS */
-  font-style: normal;
-  font-weight: 400; }
+  font-style: normal; }
 @font-face {
   font-family: 'nav';
   src: url("/fonts/nav/nav.eot");
@@ -389,7 +388,6 @@ textarea {
 
 body {
   color: #fff;
-  font-weight: 600;
   font-family: "Open Sans", sans-serif;
   line-height: 1.4; }
 
@@ -410,7 +408,47 @@ h4,
 h5,
 h6 {
   margin: 0 0 0.5rem;
-  font-weight: 600; }
+  font-weight: 700; }
+  @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
+  @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
+  @media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
+  @media only screen and (min-device-width: 414px) and (max-device-width: 736px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
 
 h5,
 h6 {

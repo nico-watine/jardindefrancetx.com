@@ -1,6 +1,14 @@
 @import "../settings/_settings.scss";
 @import "_fonts.scss";
 
+$iphone: "only screen and (min-device-width : 320px) and (max-device-width : 480px)";
+$iphone-5: "only screen and (min-device-width : 320px) and (max-device-width : 568px)";
+$iphone-6: "only screen and (min-device-width : 375px) and (max-device-width : 667px)";
+$iphone-6plus: "only screen and (min-device-width : 414px) and (max-device-width : 736px)";
+$ipad: "only screen and (min-device-width : 768px) and (max-device-width : 1024px)";
+
+
+
 html {
 	font-size: 1em;
 }
@@ -16,7 +24,6 @@ textarea {
 
 body {
 	color: $text-color;
-	font-weight: $body-font-weight;
 	font-family: $body-font-family;
 	line-height: 1.4;
 }
@@ -42,6 +49,26 @@ h5,
 h6 {
 	margin: 0 0 rem(8);
 	font-weight: $header-font-weight;
+
+	@media #{$ipad} {
+		font-weight: normal;
+	}
+
+	@media #{$iphone} {
+		font-weight: normal;
+	}
+
+	@media #{$iphone-5} {
+		font-weight: normal;
+	}
+
+	@media #{$iphone-6} {
+		font-weight: normal;
+	}
+
+	@media #{$iphone-6plus} {
+		font-weight: normal;
+	}
 }
 
 h5,
