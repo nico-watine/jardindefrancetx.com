@@ -1,92 +1,104 @@
 @import "../../settings/_settings.scss";
 
-video#bgvid {
-	position: fixed; left: 0; top: 0;
-	min-width: 100%; min-height: 100%;
-	width: auto; height: auto; z-index: -100;
-	background: url('/img/index/splash/poster.jpg') no-repeat;
-	background-size: cover;
+
+#bgvid {
+    position: absolute;
+    z-index: -5;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+
+    // UNSURE ::
+	// width: auto;
+    // height: auto;
 }
 
 .splash {
-	padding-top: em(55);
+	position: relative;
+	top: 0;
+	left: 0;
+	padding-bottom: em(120);
 	text-align: center;
 	min-height: 100%;
+	overflow: hidden;
 
-	.row {
-		padding-top: em(200);
+	.verbiage {
+		padding-top: em(255);
 	}
 
 	h1 {
 		margin-bottom: rem(16);
 	}
 
+	h2 {
+		font-size: rem(22);
+		margin-bottom: rem(34);
+	}
+
 	h3 {
-		@include span-columns(10 of 16);
-		@include shift(3);
-		margin-top: 0;
-		margin-bottom: em(30);
+		margin-bottom: rem(55);
+	}
+
+	h2,
+	h3 {
+		width: 66%;
+		margin-left: 17%;
 	}
 
 	a.button {
 		font-family: $header-font-family;
 		font-size: $h3-size;
-		margin-bottom: rem(30);
 	}
 }
 
-h3.slogan {
-	font-size: rem(22);
-	margin-bottom: rem(34);
-}
+
+
 
 @media screen and (max-width: 800px) {
-	video#bgvid {
+	#bgvid {
 		display: none;
 		visiblity: hidden;
 	}
 	.splash {
-		background: url('/img/index/splash/splash-medium.jpg');
+		background: url('/img/index/splash/splash-medium.jpg') no-repeat;
 		background-position: 50%;
 		background-size: cover;
-		background-repeat: no-repeat;
 	}
 }
 
 @include media($medium) {
 	.splash {
+		h2,
 		h3 {
-			@include span-columns(8 of 10);
-			@include shift(1);
+			width: 84%;
+			margin-left: 8%;
 		}
 	}
 }
+
 @include media($small) {
 	.splash {
-		background: url('/img/index/splash/splash-small.jpg');
+		background: url('/img/index/splash/splash-small.jpg') no-repeat;
 		background-position: 50%;
 		background-size: cover;
-		background-repeat: no-repeat;
 
 		h1 {
 			font-size: rem(38);
 		}
 
-		.row {
-			padding-top: em(100);
-		}
+		h2,
 		h3 {
-			@include span-columns(7 of 8);
-			@include shift(0.5);
+			width: 100%;
+			margin-left: 0;
+			padding: 0 rem(10);
+		}
+
+		.verbiage {
+			padding-top: em(140);
 		}
 	}
 }
 
-@include media($tiny) {
-	.splash {
-		h3 {
-			@include span-columns(8 of 8);
-			@include shift(0);
-		}
-	}
-}

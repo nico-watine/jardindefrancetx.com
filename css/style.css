@@ -366,8 +366,7 @@ html {
   /* IE9 Compat Modes */
   src: url("/fonts/parisienne/parisienne.eot?#iefix") format("embedded-opentype"), url("/fonts/parisienne/parisienne.woff") format("woff"), url("/fonts/parisienne/parisienne.ttf") format("truetype"), url("/fonts/parisienne/parisienne.svg#1d22900623fa53f8ea3f4e9e03fd0e84") format("svg");
   /* Legacy iOS */
-  font-style: normal;
-  font-weight: 400; }
+  font-style: normal; }
 @font-face {
   font-family: 'nav';
   src: url("/fonts/nav/nav.eot");
@@ -389,7 +388,6 @@ textarea {
 
 body {
   color: #fff;
-  font-weight: 600;
   font-family: "Open Sans", sans-serif;
   line-height: 1.4; }
 
@@ -410,7 +408,47 @@ h4,
 h5,
 h6 {
   margin: 0 0 0.5rem;
-  font-weight: 600; }
+  font-weight: 700; }
+  @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
+  @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
+  @media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
+  @media only screen and (min-device-width: 414px) and (max-device-width: 736px) {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: normal; } }
 
 h5,
 h6 {
@@ -967,91 +1005,69 @@ h5#credit {
       color: #444;
       text-decoration: underline; }
 
-video#bgvid {
-  position: fixed;
-  left: 0;
-  top: 0;
+#bgvid {
+  position: absolute;
+  z-index: -5;
+  top: 50%;
+  left: 50%;
   min-width: 100%;
   min-height: 100%;
-  width: auto;
-  height: auto;
-  z-index: -100;
-  background: url("/img/index/splash/poster.jpg") no-repeat;
-  background-size: cover; }
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%); }
 
 .splash {
-  padding-top: 3.4375em;
+  position: relative;
+  top: 0;
+  left: 0;
+  padding-bottom: 7.5em;
   text-align: center;
-  min-height: 100%; }
-  .splash .row {
-    padding-top: 12.5em; }
+  min-height: 100%;
+  overflow: hidden; }
+  .splash .verbiage {
+    padding-top: 15.9375em; }
   .splash h1 {
     margin-bottom: 1rem; }
+  .splash h2 {
+    font-size: 1.375rem;
+    margin-bottom: 2.125rem; }
   .splash h3 {
-    float: left;
-    display: block;
-    margin-right: 1.75788%;
-    width: 61.8408%;
-    margin-left: 19.0796%;
-    margin-top: 0;
-    margin-bottom: 1.875em; }
-    .splash h3:last-child {
-      margin-right: 0; }
+    margin-bottom: 3.4375rem; }
+  .splash h2,
+  .splash h3 {
+    width: 66%;
+    margin-left: 17%; }
   .splash a.button {
     font-family: "Parisienne", sans-serif;
-    font-size: 1.75em;
-    margin-bottom: 1.875rem; }
-
-h3.slogan {
-  font-size: 1.375rem;
-  margin-bottom: 2.125rem; }
+    font-size: 1.75em; }
 
 @media screen and (max-width: 800px) {
-  video#bgvid {
+  #bgvid {
     display: none;
     visiblity: hidden; }
 
   .splash {
-    background: url("/img/index/splash/splash-medium.jpg");
+    background: url("/img/index/splash/splash-medium.jpg") no-repeat;
     background-position: 50%;
-    background-size: cover;
-    background-repeat: no-repeat; } }
+    background-size: cover; } }
 @media screen and (max-width: 46.875em) {
+  .splash h2,
   .splash h3 {
-    float: left;
-    display: block;
-    margin-right: 2.84259%;
-    width: 79.43148%;
-    margin-left: 10.28426%; }
-    .splash h3:last-child {
-      margin-right: 0; } }
+    width: 84%;
+    margin-left: 8%; } }
 @media screen and (max-width: 31.25em) {
   .splash {
-    background: url("/img/index/splash/splash-small.jpg");
+    background: url("/img/index/splash/splash-small.jpg") no-repeat;
     background-position: 50%;
-    background-size: cover;
-    background-repeat: no-repeat; }
+    background-size: cover; }
     .splash h1 {
       font-size: 2.375rem; }
-    .splash .row {
-      padding-top: 6.25em; }
+    .splash h2,
     .splash h3 {
-      float: left;
-      display: block;
-      margin-right: 3.57866%;
-      width: 87.05267%;
-      margin-left: 6.47367%; }
-      .splash h3:last-child {
-        margin-right: 0; } }
-@media screen and (max-width: 23.75em) {
-  .splash h3 {
-    float: left;
-    display: block;
-    margin-right: 3.57866%;
-    width: 100%;
-    margin-left: 0%; }
-    .splash h3:last-child {
-      margin-right: 0; } }
+      width: 100%;
+      margin-left: 0;
+      padding: 0 0.625rem; }
+    .splash .verbiage {
+      padding-top: 8.75em; } }
 .gardens {
   text-align: right;
   border-top: 0.625em solid #f4f2f2;
@@ -1128,6 +1144,9 @@ h3.slogan {
     margin-bottom: 2rem; }
   .hip-banner a.button span {
     font-family: "Parisienne", sans-serif; }
+  @media screen and (max-width: 23.75em) {
+    .hip-banner .row.padding {
+      padding: 2.25em 0 0; } }
 
 .interior_gallery {
   text-align: center;
