@@ -378,14 +378,6 @@ html {
 html {
   font-size: 1em; }
 
-html,
-input,
-button,
-textarea {
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-  -moz-osx-font-smoothing: grayscale; }
-
 body {
   color: #fff;
   font-family: "Open Sans", sans-serif;
