@@ -1,18 +1,8 @@
 @import "../settings/_settings.scss";
 
+@import url("https://fonts.googleapis.com/css?family=Parisienne");
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:600");
 
-@font-face {
-  font-family: 'Parisienne';
-  src: url('/fonts/parisienne/parisienne.eot'); /* IE9 Compat Modes */
-  src: url('/fonts/parisienne/parisienne.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/fonts/parisienne/parisienne.woff') format('woff'), /* Modern Browsers */
-       url('/fonts/parisienne/parisienne.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('/fonts/parisienne/parisienne.svg#1d22900623fa53f8ea3f4e9e03fd0e84') format('svg'); /* Legacy iOS */
-       
-  font-style:   normal;
-  // font-weight:  400;
-}
 
 @font-face {
   font-family: 'nav';
