@@ -4,6 +4,7 @@
  * 2. Prevent iOS and IE text size adjust after device orientation change,
  *    without disabling user zoom.
  */
+@import url("https://fonts.googleapis.com/css?family=Parisienne");
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:600");
 html {
   font-family: sans-serif;
@@ -361,13 +362,6 @@ html {
   box-sizing: inherit; }
 
 @font-face {
-  font-family: 'Parisienne';
-  src: url("/fonts/parisienne/parisienne.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/parisienne/parisienne.eot?#iefix") format("embedded-opentype"), url("/fonts/parisienne/parisienne.woff") format("woff"), url("/fonts/parisienne/parisienne.ttf") format("truetype"), url("/fonts/parisienne/parisienne.svg#1d22900623fa53f8ea3f4e9e03fd0e84") format("svg");
-  /* Legacy iOS */
-  font-style: normal; }
-@font-face {
   font-family: 'nav';
   src: url("/fonts/nav/nav.eot");
   /* IE9 Compat Modes */
@@ -448,7 +442,7 @@ h6 {
   text-transform: uppercase; }
 
 .title {
-  font-family: "Parisienne", sans-serif; }
+  font-family: "Parisienne", cursive; }
 
 h1.title {
   font-size: 3.875em; }
@@ -1028,7 +1022,7 @@ h5#credit {
     width: 66%;
     margin-left: 17%; }
   .splash a.button {
-    font-family: "Parisienne", sans-serif;
+    font-family: "Parisienne", cursive;
     font-size: 1.75em; }
 
 @media screen and (max-width: 800px) {
@@ -1134,7 +1128,7 @@ h5#credit {
     color: #333;
     margin-bottom: 2rem; }
   .hip-banner a.button span {
-    font-family: "Parisienne", sans-serif; }
+    font-family: "Parisienne", cursive; }
   @media screen and (max-width: 23.75em) {
     .hip-banner .row.padding {
       padding: 2.25em 0 0; } }
