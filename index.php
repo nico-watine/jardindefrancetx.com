@@ -53,9 +53,9 @@
 		<a href="#gardens" class="button" data-scroll>Come Visit Us!</a>
 	</div>
 
-	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="bgvid">
-		<source src="/img/index/splash/splash.webm" type="video/webm">
-		<source src="/img/index/splash/splash.mp4" type="video/mp4">
+	<video autoplay loop preload="auto" poster="http://cdn.studioncreations.com/img/portfolio/jdf/vids/splash-1/poster.jpg" id="bgvid">
+		<source src="http://cdn.studioncreations.com/img/portfolio/jdf/vids/splash-1/splash.webm" type="video/webm">
+		<source src="http://cdn.studioncreations.com/img/portfolio/jdf/vids/splash-1/splash.mp4" type="video/mp4">
 	</video>
 </section>
 
