@@ -1025,7 +1025,7 @@ h5#credit {
     font-family: "Parisienne", cursive;
     font-size: 1.75em; }
 
-@media screen and (max-width: 800px) {
+@media only screen and (max-width: 50em) {
   #bgvid {
     display: none;
     visiblity: hidden; }
