@@ -20,6 +20,30 @@
 		<script src="<?php autoVer('/js/ie-min.js'); ?>"></script>
 	<![endif]-->
 
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "LocalBusiness",
+	  "name": "Jardin de France",
+	  "logo": "http://greencaretx.com/img/schema/greencare-logo.png",
+	  "description": "Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design",
+	  "url" : "http://jardindefrancetx.com",
+	  "telephone": "832-651-3136",
+	  "address": {
+	    "@type": "PostalAddress",
+	    "addressLocality": "Houston",
+	    "addressRegion": "TX",
+	    "postalCode": "77007",
+	    "streetAddress": "4819 Blossom St"
+	  },
+	  "sameAs" : [
+	    "https://www.google.com/+JardindeFranceHouston",
+	    "https://www.facebook.com/jardindefrancetx/",
+	    "https://www.pinterest.com/lebasi68/jardin-de-france/",
+	    "https://www.instagram.com/gloria_jardindefrance/"
+	  ]
+	}
+	</script>
 </head>
 <body id="index">
 

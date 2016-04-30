@@ -1633,6 +1633,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/assets\/logo\/schema\/jardin-de-france-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146286,
+		"inputAbbreviatedPath": "\/img\/assets\/logo\/schema\/jardin-de-france-logo.png",
+		"outputAbbreviatedPath": "\/img\/assets\/logo\/schema\/jardin-de-france-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/assets\/slick\/arrow-back-small.png": {
 		"fileType": 32768,
 		"ignore": 0,
