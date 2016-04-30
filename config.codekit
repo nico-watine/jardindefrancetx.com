@@ -2139,6 +2139,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/index\/og\/jdf-og.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 268904,
+		"inputAbbreviatedPath": "\/img\/index\/og\/jdf-og.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/og\/jdf-og.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/index\/splash\/poster.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

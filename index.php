@@ -2,16 +2,24 @@
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
 	<title>Jardin de France | Houston's French Antiques and Plants for the Home &amp; Patio</title>
 	<meta name="description" content="Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design">
 	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
-
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="canonical" href="http://jardindefrancetx.com" />
 	<link rel="author" href="/humans.txt">
 	
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Houston's French Antiques and Plants for the Home &amp; Patio" />
+	<meta property="og:description" content="Jardin de France - Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design" />
+	<meta property="og:url" content="http://jardindefrancetx.com" />
+	<meta property="og:site_name" content="Jardin de France" />
+	<meta property="og:image" content="http://jardindefrancetx.com/img/index/og/jdf-og.jpg" />
+
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
 	<!--[if lt IE 9]>
