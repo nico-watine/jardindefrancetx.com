@@ -25,7 +25,7 @@
 	  "@context": "http://schema.org",
 	  "@type": "LocalBusiness",
 	  "name": "Jardin de France",
-	  "logo": "http://greencaretx.com/img/schema/greencare-logo.png",
+	  "logo": "http://jardindefrancetx.com/img/assets/logo/schema/jardin-de-france-logo.png",
 	  "description": "Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design",
 	  "url" : "http://jardindefrancetx.com",
 	  "telephone": "832-651-3136",
