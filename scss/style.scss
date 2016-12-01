@@ -3,8 +3,8 @@
 
 // BOURBON-NEAT FILES
 @import "bourbon";
-@import "grid-settings";
-@import "neat";
+@import "../assets/neat/_grid-settings.scss";
+@import "../assets/neat/_neat.scss";
 
 // STYLE COMPONENTS
 @import "components/_typography.scss";
