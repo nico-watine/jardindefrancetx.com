@@ -4213,7 +4213,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/jdftx.static",
+	"externalServerAddress": "http:\/\/jardin-de-france.local",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
