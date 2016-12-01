@@ -1,7 +1,7 @@
-
 // BOURBON-NEAT FILES
-@import "bourbon";
-@import "neat";
+@import "../assets/bourbon/_bourbon.scss";
+@import "../assets/neat/_grid-settings.scss";
+@import "../assets/neat/_neat.scss";
 
 // IE PARTIALS IMPORTS
 @import "blocks/_ie.scss";
