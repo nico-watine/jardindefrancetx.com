@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 var uncss = require('gulp-uncss');
+var nano = require('gulp-cssnano');
 
 gulp.task('default', function () {
     return gulp.src('css/style.css')
