@@ -963,7 +963,7 @@
 	"\/assets\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js",
 		"oF": 0,
 		"sC": 1,
@@ -2253,8 +2253,8 @@
 	"\/js\/scripts-min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/min\/scripts-min-min.js",
+		"oA": 0,
+		"oAP": "\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2262,8 +2262,8 @@
 	"\/js\/src\/nav\/fastclick.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/src\/nav\/min\/fastclick-min.js",
+		"oA": 0,
+		"oAP": "\/js\/src\/fastclick-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2271,8 +2271,8 @@
 	"\/js\/src\/nav\/fixed-responsive-nav.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/src\/nav\/min\/fixed-responsive-nav-min.js",
+		"oA": 0,
+		"oAP": "\/js\/src\/fixed-responsive-nav-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2280,8 +2280,8 @@
 	"\/js\/src\/nav\/responsive-nav.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/src\/nav\/min\/responsive-nav-min.js",
+		"oA": 0,
+		"oAP": "\/js\/src\/responsive-nav-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2289,8 +2289,8 @@
 	"\/js\/src\/nav\/scroll.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/src\/nav\/min\/scroll-min.js",
+		"oA": 0,
+		"oAP": "\/js\/src\/scroll-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2308,7 +2308,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/vendor\/jquery\/1-11-3\/min\/jquery-min-min.js",
+		"oAP": "\/js\/vendor\/jquery\/jquery-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4623,7 +4623,7 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "..\/",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
