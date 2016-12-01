@@ -1,0 +1,23 @@
+{
+  "name": "jardin-de-france",
+  "version": "1.0.0",
+  "description": "www.jardindefrancetx.com project repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nico-watine/jardin-de-france.git"
+  },
+  "keywords": [],
+  "author": "Nico Watin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nico-watine/jardin-de-france/issues"
+  },
+  "homepage": "https://github.com/nico-watine/jardin-de-france#readme",
+  "devDependencies": {
+    "gulp-uncss": "^1.0.6"
+  }
+}
