@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nico-watine/jardin-de-france#readme",
   "devDependencies": {
+    "gulp-cssnano": "^2.1.2",
     "gulp-uncss": "^1.0.6"
   }
 }
