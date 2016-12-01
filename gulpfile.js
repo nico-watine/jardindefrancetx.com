@@ -7,5 +7,6 @@ gulp.task('default', function () {
         .pipe(uncss({
 	        html: ['http://nicos-mbp.local:5757/']
         }))
+        .pipe(nano())
         .pipe(gulp.dest('./css/opt'));
 });
