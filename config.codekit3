@@ -3016,10 +3016,20 @@
 		},
 	"\/img\/index\/milieu-banner\/logo.png": {
 		"ft": 32768,
-		"iS": 1507,
+		"iS": 853,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/milieu-banner\/logo.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index\/milieu-banner\/logo_2x.png": {
+		"ft": 32768,
+		"iS": 1249,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/img\/index\/milieu-banner\/logo_2x.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
