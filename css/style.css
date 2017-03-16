@@ -1358,10 +1358,12 @@ h5#credit a:hover {
   visibility: hidden;
   padding-left: 12px;
   padding-right: 12px;
+  text-align: center;
 }
 
 .featureFocus-milieu#small img {
-  margin: 0 0 30px;
+  display: block;
+  margin: 0 auto 30px;
 }
 
 @media only screen and (max-width: 600px) {
