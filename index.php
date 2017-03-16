@@ -70,8 +70,12 @@
 	</div>
 </header>
 
-
 <section class="splash bgvid-container" id="welcome">
+	<div class="featureFocus-milieu" style="margin-top: 55px; padding: 20px 0; text-align: center; background: #fff;">
+		<p style="display: inline-block; margin: 0; color: #000; text-shadow: none;">We are featured in the Spring 2017 issue of MILIEU Mag!</p>
+		<img src="/img/index/milieu-banner/logo.png" alt="Milieu Mag Logo" style="margin: 0 12px; display: inline-block; width: 220px; height: auto;">
+		<a href="/img/social-media/milieu/spring-2017-my-houston.pdf" class="buttonGhost" style="color: #000; text-decoration: none; padding: 14px 12px; border-radius: 4px; border: 2px solid #697B99;">Read the full article</a>
+	</div>
 	<div class="verbiage">
 		<h1 class="title">Jardin de France</h1>
 		<h2 class="slogan">French Antiques and Plants for the <span class="inline-block">Home &amp; Patio</span></h2>
