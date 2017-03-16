@@ -1305,6 +1305,79 @@ h5#credit a:hover {
   }
 }
 
+.featureFocus-milieu {
+  padding: 20px 0;
+  background: #fff;
+}
+
+.featureFocus-milieu p {
+  color: #000;
+  margin: 0 0 12px;
+  text-shadow: none !important;
+}
+
+.featureFocus-milieu img {
+  margin: 0 12px;
+  width: 220px;
+  height: auto;
+}
+
+@media screen and (max-width: 62.5em) {
+  .featureFocus-milieu img {
+    margin-left: 0;
+  }
+}
+
+.featureFocus-milieu a.buttonGhost {
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  padding: 14px 12px;
+  border-radius: 4px;
+  border: 2px solid #697B99;
+}
+
+.featureFocus-milieu a.buttonGhost:hover {
+  background: #697B99;
+  color: #fff;
+}
+
+.featureFocus-milieu#default {
+  margin-top: 55px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .featureFocus-milieu#default {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+.featureFocus-milieu#small {
+  display: none;
+  visibility: hidden;
+  padding-left: 12px;
+  padding-right: 12px;
+  text-align: center;
+}
+
+.featureFocus-milieu#small p {
+  margin-bottom: 16px;
+}
+
+.featureFocus-milieu#small img {
+  display: block;
+  margin: 0 auto 16px;
+}
+
+@media only screen and (max-width: 600px) {
+  .featureFocus-milieu#small {
+    display: block;
+    visibility: visible;
+  }
+}
+
 .gardens {
   text-align: right;
   border-top: 0.625em solid #f4f2f2;

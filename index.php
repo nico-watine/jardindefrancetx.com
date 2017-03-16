@@ -70,8 +70,12 @@
 	</div>
 </header>
 
-
 <section class="splash bgvid-container" id="welcome">
+	<div class="featureFocus-milieu" id="default">
+		<p>We are featured in the Spring 2017 issue of MILIEU Mag!</p>
+		<a href="http://milieu-mag.com/Story/MY_HOUSTON/279"><img srcset="/img/index/milieu-banner/logo_2x.png 2x" src="/img/index/milieu-banner/logo.png" alt="Milieu Mag Logo"></a>
+		<a href="/img/social-media/milieu/spring-2017-my-houston.pdf" class="buttonGhost">Read the full article</a>
+	</div>
 	<div class="verbiage">
 		<h1 class="title">Jardin de France</h1>
 		<h2 class="slogan">French Antiques and Plants for the <span class="inline-block">Home &amp; Patio</span></h2>
@@ -83,6 +87,12 @@
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video>
+</section>
+
+<section class="featureFocus-milieu" id="small">
+	<p>We are featured in the Spring 2017 issue of <span class="inline-block">MILIEU Mag!</span></p>
+	<a href="http://milieu-mag.com/Story/MY_HOUSTON/279"><img srcset="/img/index/milieu-banner/logo_2x.png 2x" src="/img/index/milieu-banner/logo.png" alt="Milieu Mag Logo"></a>
+	<a href="/img/social-media/milieu/spring-2017-my-houston.pdf" class="buttonGhost">Read the full article</a>
 </section>
 
 <section class="gardens" id="gardens">
