@@ -1305,6 +1305,53 @@ h5#credit a:hover {
   }
 }
 
+.featureFocus-milieu {
+  margin-top: 55px;
+  padding: 20px 0;
+  text-align: center;
+  background: #fff;
+}
+
+.featureFocus-milieu p {
+  display: inline-block;
+  color: #000;
+  margin: 0;
+  text-shadow: none !important;
+}
+
+@media screen and (max-width: 62.5em) {
+  .featureFocus-milieu p {
+    display: block;
+    margin-bottom: 12px;
+  }
+}
+
+.featureFocus-milieu img {
+  display: inline-block;
+  margin: 0 12px;
+  width: 220px;
+  height: auto;
+}
+
+@media screen and (max-width: 62.5em) {
+  .featureFocus-milieu img {
+    margin-left: 0;
+  }
+}
+
+.featureFocus-milieu a {
+  color: #000;
+  text-decoration: none;
+  padding: 14px 12px;
+  border-radius: 4px;
+  border: 2px solid #697B99;
+}
+
+.featureFocus-milieu a:hover {
+  background: #697B99;
+  color: #fff;
+}
+
 .gardens {
   text-align: right;
   border-top: 0.625em solid #f4f2f2;
