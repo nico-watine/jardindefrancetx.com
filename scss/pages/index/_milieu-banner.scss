@@ -1,9 +1,9 @@
 @import "../../settings/_settings.scss";
 
-.featureFocus-milieu {
-	margin-top: 55px; 
+$max-width-600: "only screen and (max-width : 600px)";
+
+.featureFocus-milieu { 
 	padding: 20px 0; 
-	text-align: center; 
 	background: #fff;
 
 	p {
@@ -43,4 +43,31 @@
 	}
 }
 
+.featureFocus-milieu#default {
+	margin-top: 55px;
+	display: block;
+	visibility: visible;
+	text-align: center;
 
+	@media #{$max-width-600} {
+		display: none;
+		visibility: hidden;
+	}
+}
+
+.featureFocus-milieu#small {
+	display: none;
+	visibility: hidden;
+	padding-left: 12px;
+	padding-right: 12px;
+
+	img {
+		display: block;
+		margin-bottom: 30px;
+	}
+
+	@media #{$max-width-600} {
+		display: block;
+		visibility: visible;
+	}
+}

@@ -1306,9 +1306,7 @@ h5#credit a:hover {
 }
 
 .featureFocus-milieu {
-  margin-top: 55px;
   padding: 20px 0;
-  text-align: center;
   background: #fff;
 }
 
@@ -1350,6 +1348,39 @@ h5#credit a:hover {
 .featureFocus-milieu a:hover {
   background: #697B99;
   color: #fff;
+}
+
+.featureFocus-milieu#default {
+  margin-top: 55px;
+  display: block;
+  visibility: visible;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .featureFocus-milieu#default {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+.featureFocus-milieu#small {
+  display: none;
+  visibility: hidden;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.featureFocus-milieu#small img {
+  display: block;
+  margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+  .featureFocus-milieu#small {
+    display: block;
+    visibility: visible;
+  }
 }
 
 .gardens {
