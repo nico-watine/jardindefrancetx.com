@@ -13,7 +13,6 @@ $max-width-600: "only screen and (max-width : 600px)";
 	}
 
 	img {
-		// display: inline-block;
 		margin: 0 12px;
 		width: 220px;
 		height: auto;
@@ -39,8 +38,8 @@ $max-width-600: "only screen and (max-width : 600px)";
 
 .featureFocus-milieu#default {
 	margin-top: 55px;
-	display: block;
-	visibility: visible;
+	// display: block;
+	// visibility: visible;
 	text-align: center;
 
 	@media #{$max-width-600} {
