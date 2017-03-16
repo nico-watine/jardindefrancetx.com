@@ -7,15 +7,9 @@ $max-width-600: "only screen and (max-width : 600px)";
 	background: #fff;
 
 	p {
-		display: inline-block;
 		color: #000;
-		margin: 0;
+		margin: 0 0 12px;
 		text-shadow: none !important;
-
-		@include media($large) {
-			display: block;
-			margin-bottom: 12px;
-		}
 	}
 
 	img {

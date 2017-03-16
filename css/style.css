@@ -1311,17 +1311,9 @@ h5#credit a:hover {
 }
 
 .featureFocus-milieu p {
-  display: inline-block;
   color: #000;
-  margin: 0;
+  margin: 0 0 12px;
   text-shadow: none !important;
-}
-
-@media screen and (max-width: 62.5em) {
-  .featureFocus-milieu p {
-    display: block;
-    margin-bottom: 12px;
-  }
 }
 
 .featureFocus-milieu img {
