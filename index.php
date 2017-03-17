@@ -14,11 +14,11 @@
 	
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Houston's French Antiques and Plants for the Home &amp; Patio" />
-	<meta property="og:description" content="Jardin de France - Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design" />
+	<meta property="og:title" content="Jardin de France - featured in MILIEU-MAG.com" />
+	<meta property="og:description" content="We are featured in the Spring 2017 publication of MILIEU! The full article is available on our website." />
 	<meta property="og:url" content="http://jardindefrancetx.com" />
 	<meta property="og:site_name" content="Jardin de France" />
-	<meta property="og:image" content="http://jardindefrancetx.com/img/index/og/jdf-og.jpg" />
+	<meta property="og:image" content="http://jardindefrancetx.com/img/social-media/milieu/og-image.png" />
 
 	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">	
 
