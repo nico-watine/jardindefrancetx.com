@@ -20,7 +20,7 @@
 	<meta property="og:site_name" content="Jardin de France" />
 	<meta property="og:image" content="http://jardindefrancetx.com/img/index/og/jdf-og.jpg" />
 
-	<link href="<?php autoVer('/css/opt/style.css'); ?>" rel="stylesheet">	
+	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">	
 
 	<script type="application/ld+json">
 	{

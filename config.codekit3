@@ -2427,16 +2427,6 @@
 		"oAP": "\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/css\/ie.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/css\/ie-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/css\/opt\/style.css": {
 		"aP": 0,
 		"bl": 0,
