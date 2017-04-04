@@ -6,10 +6,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Jardin de France | Houston's French Antiques and Plants for the Home &amp; Patio</title>
 	<meta name="description" content="Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design">
 	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="canonical" href="http://jardindefrancetx.com" />
 	<link rel="author" href="/humans.txt">
 	
