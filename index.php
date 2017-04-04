@@ -5,6 +5,7 @@
 <html prefix="og: http://ogp.me/ns#" class="no-js" lang="en-US">
 <head>
 	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<title>Jardin de France | Houston's French Antiques and Plants for the Home &amp; Patio</title>
 	<meta name="description" content="Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design">
 	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
