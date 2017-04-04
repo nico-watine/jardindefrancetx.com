@@ -10,16 +10,16 @@
 	<title>Jardin de France | Houston's French Antiques and Plants for the Home &amp; Patio</title>
 	<meta name="description" content="Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design">
 	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
-	<link rel="canonical" href="http://jardindefrancetx.com" />
+	<link rel="canonical" href="http://jardindefrancetx.com">
 	<link rel="author" href="/humans.txt">
 	
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Jardin de France - featured in MILIEU-MAG.com" />
-	<meta property="og:description" content="We are featured in the Spring 2017 publication of MILIEU! The full article is available on our website." />
-	<meta property="og:url" content="http://jardindefrancetx.com" />
-	<meta property="og:site_name" content="Jardin de France" />
-	<meta property="og:image" content="http://jardindefrancetx.com/img/social-media/milieu/og-image.png" />
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Jardin de France - featured in MILIEU-MAG.com">
+	<meta property="og:description" content="We are featured in the Spring 2017 publication of MILIEU! The full article is available on our website.">
+	<meta property="og:url" content="http://jardindefrancetx.com">
+	<meta property="og:site_name" content="Jardin de France">
+	<meta property="og:image" content="http://jardindefrancetx.com/img/social-media/milieu/og-image.png">
 
 	<link href="<?php autoVer('/css/opt/style.css'); ?>" rel="stylesheet">	
 
