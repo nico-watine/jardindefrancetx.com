@@ -10,7 +10,7 @@
 	<title>Jardin de France | Houston's French Antiques and Plants for the Home &amp; Patio</title>
 	<meta name="description" content="Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design">
 	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
-	<link rel="canonical" href="http://jardindefrancetx.com">
+	<link href="http://jardindefrancetx.com" rel="canonical">
 	<link rel="author" href="/humans.txt">
 	
 	<meta property="og:locale" content="en_US">
