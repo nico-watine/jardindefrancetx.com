@@ -7,7 +7,7 @@
 		"uuidString": "B9804A6C-977C-4C74-A601-5FE9C23070D1"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25900",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -66,51 +66,56 @@
 	"\/apple-touch-icon-120x120-precomposed.png": {
 		"ft": 32768,
 		"iS": 5977,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-120x120-precomposed.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/apple-touch-icon-152x152-precomposed.png": {
 		"ft": 32768,
 		"iS": 8354,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-152x152-precomposed.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/apple-touch-icon-180x180-precomposed.png": {
 		"ft": 32768,
 		"iS": 10542,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-180x180-precomposed.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/apple-touch-icon-76x76-precomposed.png": {
 		"ft": 32768,
 		"iS": 3354,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon-76x76-precomposed.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 10542,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/apple-touch-icon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/bourbon\/_bourbon-deprecate.scss": {
@@ -1171,6 +1176,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/dist\/jquery.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/dist\/jquery.js",
@@ -1180,6 +1186,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/dist\/jquery.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/dist\/jquery.min.js",
@@ -1201,6 +1208,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/ajax.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/ajax.js",
@@ -1210,6 +1218,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/ajax\/jsonp.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/ajax\/jsonp.js",
@@ -1219,6 +1228,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/ajax\/load.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/ajax\/load.js",
@@ -1228,6 +1238,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/ajax\/parseJSON.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/ajax\/parseJSON.js",
@@ -1237,6 +1248,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/ajax\/parseXML.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/ajax\/parseXML.js",
@@ -1246,6 +1258,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/ajax\/script.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/ajax\/script.js",
@@ -1255,6 +1268,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/ajax\/var\/nonce.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/ajax\/var\/nonce.js",
@@ -1264,6 +1278,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/ajax\/var\/rquery.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/ajax\/var\/rquery.js",
@@ -1273,6 +1288,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/ajax\/xhr.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/ajax\/xhr.js",
@@ -1282,6 +1298,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/attributes.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/attributes.js",
@@ -1291,6 +1308,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/attributes\/attr.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/attributes\/attr.js",
@@ -1300,6 +1318,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/attributes\/classes.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/attributes\/classes.js",
@@ -1309,6 +1328,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/attributes\/prop.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/attributes\/prop.js",
@@ -1318,6 +1338,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/attributes\/support.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/attributes\/support.js",
@@ -1327,6 +1348,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/attributes\/val.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/attributes\/val.js",
@@ -1336,6 +1358,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/callbacks.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/callbacks.js",
@@ -1345,6 +1368,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/core.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/core.js",
@@ -1354,6 +1378,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/core\/access.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/core\/access.js",
@@ -1363,6 +1388,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/core\/init.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/core\/init.js",
@@ -1372,6 +1398,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/core\/parseHTML.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/core\/parseHTML.js",
@@ -1381,6 +1408,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/core\/ready.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/core\/ready.js",
@@ -1390,6 +1418,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/core\/var\/rsingleTag.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/core\/var\/rsingleTag.js",
@@ -1399,6 +1428,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css.js",
@@ -1408,6 +1438,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/addGetHookIf.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/addGetHookIf.js",
@@ -1417,6 +1448,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/curCSS.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/curCSS.js",
@@ -1426,6 +1458,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/defaultDisplay.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/defaultDisplay.js",
@@ -1435,6 +1468,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/hiddenVisibleSelectors.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/hiddenVisibleSelectors.js",
@@ -1444,6 +1478,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/support.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/support.js",
@@ -1453,6 +1488,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/swap.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/swap.js",
@@ -1462,6 +1498,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/var\/cssExpand.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/var\/cssExpand.js",
@@ -1471,6 +1508,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/var\/getStyles.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/var\/getStyles.js",
@@ -1480,6 +1518,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/var\/isHidden.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/var\/isHidden.js",
@@ -1489,6 +1528,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/var\/rmargin.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/var\/rmargin.js",
@@ -1498,6 +1538,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/css\/var\/rnumnonpx.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/css\/var\/rnumnonpx.js",
@@ -1507,6 +1548,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/data.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/data.js",
@@ -1516,6 +1558,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/data\/accepts.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/data\/accepts.js",
@@ -1525,6 +1568,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/data\/Data.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/data\/Data.js",
@@ -1534,6 +1578,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/data\/var\/data_priv.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/data\/var\/data_priv.js",
@@ -1543,6 +1588,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/data\/var\/data_user.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/data\/var\/data_user.js",
@@ -1552,6 +1598,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/deferred.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/deferred.js",
@@ -1561,6 +1608,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/deprecated.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/deprecated.js",
@@ -1570,6 +1618,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/dimensions.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/dimensions.js",
@@ -1579,6 +1628,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/effects.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/effects.js",
@@ -1588,6 +1638,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/effects\/animatedSelector.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/effects\/animatedSelector.js",
@@ -1597,6 +1648,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/effects\/Tween.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/effects\/Tween.js",
@@ -1606,6 +1658,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/event.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/event.js",
@@ -1615,6 +1668,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/event\/ajax.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/event\/ajax.js",
@@ -1624,6 +1678,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/event\/alias.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/event\/alias.js",
@@ -1633,6 +1688,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/event\/support.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/event\/support.js",
@@ -1642,6 +1698,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/exports\/amd.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/exports\/amd.js",
@@ -1651,6 +1708,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/exports\/global.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/exports\/global.js",
@@ -1660,6 +1718,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/intro.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/intro.js",
@@ -1669,6 +1728,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/jquery.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/jquery.js",
@@ -1678,6 +1738,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/manipulation.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/manipulation.js",
@@ -1687,6 +1748,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js",
@@ -1696,6 +1758,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/manipulation\/support.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/manipulation\/support.js",
@@ -1705,6 +1768,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js",
@@ -1714,6 +1778,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/offset.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/offset.js",
@@ -1723,6 +1788,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/outro.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/outro.js",
@@ -1732,6 +1798,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/queue.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/queue.js",
@@ -1741,6 +1808,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/queue\/delay.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/queue\/delay.js",
@@ -1750,6 +1818,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/selector-native.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/selector-native.js",
@@ -1759,6 +1828,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/selector-sizzle.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/selector-sizzle.js",
@@ -1768,6 +1838,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/selector.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/selector.js",
@@ -1777,6 +1848,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/serialize.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/serialize.js",
@@ -1786,6 +1858,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.js",
@@ -1795,6 +1868,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.min.js",
@@ -1810,6 +1884,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/traversing.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/traversing.js",
@@ -1819,6 +1894,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/traversing\/findFilter.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/traversing\/findFilter.js",
@@ -1828,6 +1904,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/traversing\/var\/rneedsContext.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/traversing\/var\/rneedsContext.js",
@@ -1837,6 +1914,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/arr.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/arr.js",
@@ -1846,6 +1924,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/class2type.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/class2type.js",
@@ -1855,6 +1934,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/concat.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/concat.js",
@@ -1864,6 +1944,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/hasOwn.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/hasOwn.js",
@@ -1873,6 +1954,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/indexOf.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/indexOf.js",
@@ -1882,6 +1964,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/pnum.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/pnum.js",
@@ -1891,6 +1974,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/push.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/push.js",
@@ -1900,6 +1984,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/rnotwhite.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/rnotwhite.js",
@@ -1909,6 +1994,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/slice.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/slice.js",
@@ -1918,6 +2004,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/strundefined.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/strundefined.js",
@@ -1927,6 +2014,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/support.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/support.js",
@@ -1936,6 +2024,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/var\/toString.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/var\/toString.js",
@@ -1945,6 +2034,7 @@
 		},
 	"\/assets\/bower_components\/jquery\/src\/wrap.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/src\/wrap.js",
@@ -2093,6 +2183,7 @@
 		},
 	"\/assets\/bower_components\/slick-carousel\/slick\/slick.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/slick\/slick.js",
@@ -2102,6 +2193,7 @@
 		},
 	"\/assets\/bower_components\/slick-carousel\/slick\/slick.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/slick\/slick.min.js",
@@ -2456,11 +2548,12 @@
 	"\/favicon.png": {
 		"ft": 32768,
 		"iS": 2543,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/favicon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/fonts\/nav\/nav.eot": {
@@ -2533,6 +2626,7 @@
 		},
 	"\/gulpfile.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/gulpfile-min.js",
@@ -2552,27 +2646,30 @@
 		"oA": 0,
 		"oAP": "\/img\/assets\/backgrounds\/linen.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/img\/assets\/logo\/logo.png": {
 		"ft": 32768,
 		"iS": 6624,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/logo\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/logo\/schema\/jardin-de-france-logo.png": {
 		"ft": 32768,
 		"iS": 146286,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/logo\/schema\/jardin-de-france-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/slick\/ajax-loader.gif": {
@@ -2586,141 +2683,155 @@
 	"\/img\/assets\/slick\/arrow-back-small.png": {
 		"ft": 32768,
 		"iS": 1018,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/slick\/arrow-back-small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/slick\/arrow-back.png": {
 		"ft": 32768,
 		"iS": 1328,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/slick\/arrow-back.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/slick\/arrow-next-small.png": {
 		"ft": 32768,
 		"iS": 1011,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/slick\/arrow-next-small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/slick\/arrow-next.png": {
 		"ft": 32768,
 		"iS": 1621,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/slick\/arrow-next.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/social\/facebook-hover.png": {
 		"ft": 32768,
 		"iS": 1620,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/social\/facebook-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/social\/facebook.png": {
 		"ft": 32768,
 		"iS": 1790,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/social\/facebook.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/social\/instagram-hover.png": {
 		"ft": 32768,
 		"iS": 1992,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/social\/instagram-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/social\/instagram.png": {
 		"ft": 32768,
 		"iS": 2250,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/social\/instagram.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/social\/pinterest-hover.png": {
 		"ft": 32768,
 		"iS": 2433,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/social\/pinterest-hover.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/assets\/social\/pinterest.png": {
 		"ft": 32768,
 		"iS": 2646,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/assets\/social\/pinterest.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/about\/_ignores\/nicolas.png": {
 		"ft": 32768,
 		"iS": 45574,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/about\/_ignores\/nicolas.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/about\/_ignores\/patrice.png": {
 		"ft": 32768,
 		"iS": 48154,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/about\/_ignores\/patrice.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/about\/nicolas.png": {
 		"ft": 32768,
 		"iS": 15238,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/about\/nicolas.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/about\/patrice.png": {
 		"ft": 32768,
 		"iS": 16954,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/about\/patrice.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/conservatory\/conservatory-1.jpg": {
@@ -2729,6 +2840,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/conservatory-1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2738,6 +2850,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/conservatory-2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2747,6 +2860,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/conservatory-3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2756,6 +2870,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/conservatory-small.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2765,6 +2880,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/default\/conservatory-1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2774,6 +2890,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/default\/conservatory-2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2783,6 +2900,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/default\/conservatory-3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2792,6 +2910,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/min-1500\/conservatory-1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2801,6 +2920,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/min-1500\/conservatory-2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2810,6 +2930,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/conservatory\/min-1500\/conservatory-3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2819,6 +2940,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/default\/garden-1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2828,6 +2950,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/default\/garden-2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2837,6 +2960,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/default\/garden-3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2846,6 +2970,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/garden-1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2855,6 +2980,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/garden-2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2864,6 +2990,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/garden-3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2873,6 +3000,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/garden-small.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2882,6 +3010,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/min-1500\/garden-1.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2891,6 +3020,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/min-1500\/garden-2.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2900,6 +3030,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/gardens\/min-1500\/garden-3.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2909,6 +3040,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/interior_gallery\/default\/interior_gallery.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2918,6 +3050,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/interior_gallery\/interior-small.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2927,6 +3060,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/interior_gallery\/interior_gallery.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2936,6 +3070,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/interior_gallery\/min-1500\/interior_gallery.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2945,6 +3080,7 @@
 		"oA": 1,
 		"oAP": "\/img\/index\/location\/_ignores\/_location.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2954,6 +3090,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/location\/_ignores\/location.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2963,6 +3100,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/location\/default\/location.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -2972,27 +3110,30 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/location\/location.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/img\/index\/location\/map-banner-small.png": {
 		"ft": 32768,
 		"iS": 52422,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/location\/map-banner-small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/location\/map-banner.png": {
 		"ft": 32768,
 		"iS": 200196,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/location\/map-banner.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/location\/min-1500\/location.jpg": {
@@ -3001,27 +3142,30 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/location\/min-1500\/location.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/img\/index\/milieu-banner\/logo.png": {
 		"ft": 32768,
 		"iS": 853,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/milieu-banner\/logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/milieu-banner\/logo_2x.png": {
 		"ft": 32768,
 		"iS": 1249,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/index\/milieu-banner\/logo_2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/index\/og\/jdf-og.jpg": {
@@ -3030,6 +3174,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/og\/jdf-og.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3039,6 +3184,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/splash\/poster.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3048,6 +3194,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/splash\/splash-ie.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3057,6 +3204,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/splash\/splash-medium.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3066,6 +3214,7 @@
 		"oA": 0,
 		"oAP": "\/img\/index\/splash\/splash-small.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -3084,11 +3233,12 @@
 	"\/img\/social-media\/milieu\/og-image.png": {
 		"ft": 32768,
 		"iS": 631813,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/img\/social-media\/milieu\/og-image.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/social-media\/milieu\/spring-2017-my-houston.pdf": {
@@ -3105,6 +3255,7 @@
 		},
 	"\/js\/scripts-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/scripts-min-min.js",
@@ -3114,6 +3265,7 @@
 		},
 	"\/js\/src\/nav\/fastclick.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/src\/fastclick-min.js",
@@ -3123,6 +3275,7 @@
 		},
 	"\/js\/src\/nav\/fixed-responsive-nav.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/src\/fixed-responsive-nav-min.js",
@@ -3132,6 +3285,7 @@
 		},
 	"\/js\/src\/nav\/responsive-nav.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/src\/responsive-nav-min.js",
@@ -3141,6 +3295,7 @@
 		},
 	"\/js\/src\/nav\/scroll.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/src\/scroll-min.js",
@@ -3150,6 +3305,7 @@
 		},
 	"\/js\/src\/scripts.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/scripts-min.js",
@@ -3159,6 +3315,7 @@
 		},
 	"\/js\/vendor\/jquery\/1-11-3\/jquery-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/vendor\/jquery\/jquery-min-min.js",
@@ -3721,31 +3878,34 @@
 	"\/tile-wide.png": {
 		"ft": 32768,
 		"iS": 16169,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/tile-wide.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/tile.png": {
 		"ft": 32768,
 		"iS": 39706,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/tile.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/touch-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 11612,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/touch-icon-192x192.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		}
 	},
@@ -4193,6 +4353,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -4200,6 +4364,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -4297,6 +4465,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -4316,6 +4488,10 @@
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -4444,6 +4620,10 @@
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -4749,6 +4929,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -4985,6 +5169,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -5053,6 +5241,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -5092,6 +5284,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -5573,14 +5769,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -5643,7 +5831,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
@@ -5729,9 +5917,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
