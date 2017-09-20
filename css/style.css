@@ -1456,6 +1456,10 @@ header {
   margin-bottom: 2rem;
 }
 
+.hip-banner a.button {
+  color: #0a0a0a;
+}
+
 .hip-banner a.button span {
   font-family: "Parisienne", cursive;
 }
