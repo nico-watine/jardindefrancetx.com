@@ -2,8 +2,8 @@
 
 header {
 	background: #697B99;
-	box-shadow: 0px em(2) em(2) 0px rgba(0,0,0,0.20), 0px em(6) em(10) 0px rgba(0,0,0,0.30);
-	height: em(55);
+	box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.20), 0px 6px 10px 0px rgba(0,0,0,0.30);
+	height: 55px;
 	width: 100%;
 	position: fixed;
 	z-index: 100;
@@ -17,14 +17,14 @@ header {
 	}
 
 	img {
-		max-width: em(65);
+		max-width: 65px;
 		height: auto;
 		float: left;
 		z-index: 55;
 	}
 
 	h1 {
-		text-shadow: 0px rem(6) rem(10) rgba(0,0,0,0.30);
+		text-shadow: 0px 6px 10px rgba(0,0,0,0.30);
 		margin: 0;
 		top: 0;
 		left: 28px;

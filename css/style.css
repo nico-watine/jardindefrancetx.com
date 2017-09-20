@@ -884,9 +884,9 @@ h5#credit a:hover {
 
 header {
   background: #697B99;
-  -webkit-box-shadow: 0px 0.125em 0.125em 0px rgba(0, 0, 0, 0.2), 0px 0.375em 0.625em 0px rgba(0, 0, 0, 0.3);
-          box-shadow: 0px 0.125em 0.125em 0px rgba(0, 0, 0, 0.2), 0px 0.375em 0.625em 0px rgba(0, 0, 0, 0.3);
-  height: 3.4375em;
+  -webkit-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.3);
+          box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.3);
+  height: 55px;
   width: 100%;
   position: fixed;
   z-index: 100;
@@ -908,14 +908,14 @@ header {
 }
 
 .logo img {
-  max-width: 4.0625em;
+  max-width: 65px;
   height: auto;
   float: left;
   z-index: 55;
 }
 
 .logo h1 {
-  text-shadow: 0px 0.375rem 0.625rem rgba(0, 0, 0, 0.3);
+  text-shadow: 0px 6px 10px rgba(0, 0, 0, 0.3);
   margin: 0;
   top: 0;
   left: 28px;
