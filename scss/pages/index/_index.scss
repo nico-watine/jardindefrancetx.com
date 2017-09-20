@@ -18,7 +18,7 @@ body#index {
 	h6,
 	p,
 	p.large {
-		text-shadow: 0 rem(6) rem(10) rgba(0,0,0,1.0);
+		text-shadow: 0 6px 10px rgba(0,0,0,1.0);
 	}	
 }
 
@@ -28,7 +28,7 @@ body#index {
 .location,
 .map-banner,
 footer {
-	border-top: em(6) solid $dark-blue;
+	border-top: 6px solid $dark-blue;
 }
 
 .gardens,
@@ -55,7 +55,7 @@ footer {
 @include media($medium-plus) {
 	.section-content {
 		h1 {
-			font-size: rem(50);
+			font-size: 50px;
 		}
 	}
 }
@@ -75,7 +75,7 @@ footer {
 		.slide-2,
 		.slide-3 {
 			background-position: center top;
-			height: em(750);
+			height: 750px;
 
 			img {
 				visibility: hidden;
