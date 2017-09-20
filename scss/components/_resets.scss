@@ -2,39 +2,39 @@
 
 html,
 body {
-    height: 100%;
+	height: 100%;
 }
 
 audio,
 canvas,
 img,
 video {
-    vertical-align: middle;
+	vertical-align: middle;
 }
 
 fieldset,
 figure {
-    border: 0;
-    margin: 0;
-    padding: 0;
+	border: 0;
+	margin: 0;
+	padding: 0;
 }
 
 textarea {
-    resize: vertical;
+	resize: vertical;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+	max-width: 100%;
+	height: auto;
 }
 
 // Highlighted Text Effect
 ::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
+	background: #b3d4fc;
+	text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
-    text-shadow: none;
+	background: #b3d4fc;
+	text-shadow: none;
 }
