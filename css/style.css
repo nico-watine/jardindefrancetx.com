@@ -1227,6 +1227,7 @@ header {
 }
 
 .splash a.button {
+  color: #0a0a0a;
   font-family: "Parisienne", cursive;
   font-size: 1.75em;
 }
