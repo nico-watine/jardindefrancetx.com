@@ -1424,9 +1424,9 @@ header {
     background: url("/img/index/conservatory/conservatory-small.jpg");
   }
   .conservatory .section-content {
-    width: 100%;
-    left: 0;
     bottom: 0;
+    left: 0;
+    width: 100%;
     background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(45%, rgba(0, 0, 0, 0.5)), to(#000));
     background-image: linear-gradient(-180deg, transparent 0%, rgba(0, 0, 0, 0.5) 45%, #000 100%);
   }
@@ -1435,8 +1435,8 @@ header {
     margin-bottom: 20px;
   }
   .conservatory .section-content h3 {
-    text-shadow: none;
     margin-bottom: 30px;
+    text-shadow: none;
   }
 }
 
