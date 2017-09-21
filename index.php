@@ -153,7 +153,7 @@
 <section class="interior_gallery" id="interior_gallery">
 		<div class="section-content">
 			<div class="outer-container">
-				<div class="row">
+				<div class="row padding">
 					<h1 class="title">The Interior Gallery</h1>
 					<h3>In addition to our plants and garden items, we also have fine French Country antiques</h3>
 				</div>
