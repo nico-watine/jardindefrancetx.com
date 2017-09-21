@@ -4,19 +4,13 @@ $text-color: #fff;
 $link-color: #fff;
 $hr-color: #ccc;
 
-$baseline: 22px;
-
-
-
-
-
-$h5-h6-letter-spacing: 1.2px;
 
 
 // -------------------------------------------
 // |            Typography Styles            |
 // -------------------------------------------
 
+// ---------------------------------------------------------------------- //
 // Font Sizes (Perfect Fourth - 1.333)
 
 $h1-size: 50px; 
@@ -28,19 +22,24 @@ $h6-size: 12px;
 $p-large-size: 26px;
 $p-size: 16px; 
 
-// ---------------------------------------------------------------------- //
 
+// ---------------------------------------------------------------------- //
 // Font Families
 
 $header-font-family: 'Parisienne', cursive;
 $header-font-weight: 700;
-
 $body-font-family: 'Open Sans', sans-serif;
 $body-font-weight: 600;
 
 
+// ---------------------------------------------------------------------- //
+// Font Settings
+
+$h5-h6-letter-spacing: 1.2px;
+$baseline: 22px;
 
 
+// ---------------------------------------------------------------------- //
 
 
 
