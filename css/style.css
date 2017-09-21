@@ -517,10 +517,7 @@ img {
   font-weight: 400;
 }
 
-html,
-input,
-button,
-textarea {
+body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
