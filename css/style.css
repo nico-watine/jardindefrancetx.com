@@ -1343,7 +1343,7 @@ header {
 
 .gardens {
   text-align: right;
-  border-top: 0.625em solid #f4f2f2;
+  border-top: 10px solid #f4f2f2;
   position: relative;
 }
 
@@ -1353,10 +1353,10 @@ header {
 
 .gardens h3 {
   margin-top: 0;
-  margin-bottom: 1.875em;
+  margin-bottom: 30px;
   right: 0;
   float: right;
-  width: 40.625rem;
+  width: 650px;
 }
 
 @media screen and (max-width: 51.875em) {
@@ -1374,12 +1374,12 @@ header {
 
 @media screen and (max-width: 46.875em) {
   .gardens {
-    height: 34.375em;
+    height: 550px;
     text-align: center;
     background: url("/img/index/gardens/garden-small.jpg");
   }
   .gardens .section-content {
-    bottom: 0em;
+    bottom: 0;
   }
   .gardens h3 {
     float: left;

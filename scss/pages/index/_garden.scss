@@ -2,7 +2,7 @@
 
 .gardens {
 	text-align: right;
-	border-top: em(10) solid $body;
+	border-top: 10px solid $body;
 	position: relative;
 
 	h1 {
@@ -11,10 +11,10 @@
 
 	h3 {
 		margin-top: 0;
-		margin-bottom: em(30);
+		margin-bottom: 30px;
 		right: 0;
 		float: right;
-		width: rem(650);
+		width: 650px;
 	}
 }
 
@@ -29,12 +29,12 @@
 
 @include media($medium) {
 	.gardens {
-		height: em(550);
+		height: 550px;
 		text-align: center;
 		background: url('/img/index/gardens/garden-small.jpg');
 
 		.section-content {
-			bottom: em(0);
+			bottom: 0;
 		}
 
 		h3 {
