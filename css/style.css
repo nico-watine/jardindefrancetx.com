@@ -1435,6 +1435,7 @@ header {
     margin-bottom: 20px;
   }
   .conservatory .section-content h3 {
+    text-shadow: none;
     margin-bottom: 30px;
   }
 }
