@@ -122,7 +122,7 @@
 <section class="conservatory" id="conservatory">
 		<div class="section-content">
 			<div class="outer-container">
-				<div class="row">
+				<div class="row padding">
 					<h1 class="title">The Conservatory</h1>
 					<h3>We have a variety of beautiful indoor plants and lovely succulents for sale in The Conservatory</h3>
 				</div>
