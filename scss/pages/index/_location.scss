@@ -9,7 +9,7 @@
 	.section-content {
 		position: relative;
 		@include span-columns(16 of 16);
-		padding-top: em(50);
+		padding-top: 50px;
 	}
 
 	p.large {
