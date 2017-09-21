@@ -1481,17 +1481,17 @@ header {
 }
 
 .interior_gallery {
-  text-align: center;
   position: relative;
+  text-align: center;
 }
 
 .interior_gallery h3 {
+  margin-top: 0;
   float: left;
   display: block;
   margin-right: 1.7578778568%;
   width: 55.4809284376%;
   margin-left: 22.2595357812%;
-  margin-top: 0;
 }
 
 .interior_gallery h3:last-child {
@@ -1534,8 +1534,8 @@ header {
 
 @media screen and (min-width: 93.75em) {
   .interior_gallery .slide-1 {
-    background-position: center center !important;
     background-image: url("/img/index/interior_gallery/min-1500/interior_gallery.jpg");
+    background-position: center center !important;
   }
 }
 

@@ -1,15 +1,15 @@
-@import "../../settings/_settings.scss";
+@import '../../settings/_settings.scss';
 
 .interior_gallery {
-	text-align: center;
 	position: relative;
 
+	text-align: center;
 	h3 {
+		margin-top: 0;
+
 		@include span-columns(9 of 16);
 		@include shift(3.5);
-		margin-top: 0;
 	}
-
 	.section-content {
 		bottom: 40px;
 	}
@@ -27,8 +27,8 @@
 @include media($medium) {
 	.interior_gallery {
 		height: 550px;
-		background: url('/img/index/interior_gallery/interior-small.jpg');
 
+		background: url('/img/index/interior_gallery/interior-small.jpg');
 		h3 {
 			@include span-columns(10 of 10);
 			@include shift(0);
@@ -39,8 +39,8 @@
 @include media($min-1500) {
 	.interior_gallery {
 		.slide-1 {
+			background-image: url('/img/index/interior_gallery/min-1500/interior_gallery.jpg');
 			background-position: center center !important;
-			background-image: url("/img/index/interior_gallery/min-1500/interior_gallery.jpg");
 		}
 	}
 }
