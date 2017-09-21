@@ -1340,9 +1340,9 @@ header {
 }
 
 .gardens {
+  position: relative;
   text-align: right;
   border-top: 10px solid #f4f2f2;
-  position: relative;
 }
 
 .gardens h1 {
@@ -1350,11 +1350,11 @@ header {
 }
 
 .gardens h3 {
-  margin-top: 0;
-  margin-bottom: 30px;
   right: 0;
   float: right;
   width: 650px;
+  margin-top: 0;
+  margin-bottom: 30px;
 }
 
 @media screen and (max-width: 51.875em) {
@@ -1378,8 +1378,11 @@ header {
   }
   .gardens .section-content {
     bottom: 0;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(45%, rgba(0, 0, 0, 0.5)), to(#000));
+    background-image: linear-gradient(-180deg, transparent 0%, rgba(0, 0, 0, 0.5) 45%, #000 100%);
   }
   .gardens h3 {
+    text-shadow: none;
     float: left;
     display: block;
     margin-right: 3.5786642602%;

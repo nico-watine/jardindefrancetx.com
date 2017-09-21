@@ -1,20 +1,22 @@
-@import "../../settings/_settings.scss";
+@import '../../settings/_settings.scss';
 
 .gardens {
-	text-align: right;
-	border-top: 10px solid $body;
 	position: relative;
 
+	text-align: right;
+
+	border-top: 10px solid $body;
 	h1 {
 		margin-top: 2%;
 	}
-
 	h3 {
+		right: 0;
+
+		float: right;
+
+		width: 650px;
 		margin-top: 0;
 		margin-bottom: 30px;
-		right: 0;
-		float: right;
-		width: 650px;
 	}
 }
 
@@ -30,14 +32,18 @@
 @include media($medium) {
 	.gardens {
 		height: 550px;
-		text-align: center;
-		background: url('/img/index/gardens/garden-small.jpg');
 
+		text-align: center;
+
+		background: url('/img/index/gardens/garden-small.jpg');
 		.section-content {
 			bottom: 0;
-		}
 
+			background-image: linear-gradient(-180deg, rgba(0,0,0,.00) 0%, rgba(0,0,0,.50) 45%, #000 100%);
+		}
 		h3 {
+			text-shadow: none;
+
 			@include span-columns(8 of 8);
 			@include shift(0);
 		}
@@ -47,14 +53,13 @@
 @include media($min-1500) {
 	.gardens {
 		.slide-1 {
-			background-image: url("/img/index/gardens/min-1500/garden-1.jpg");
+			background-image: url('/img/index/gardens/min-1500/garden-1.jpg');
 		}
 		.slide-2 {
-			background-image: url("/img/index/gardens/min-1500/garden-2.jpg");
+			background-image: url('/img/index/gardens/min-1500/garden-2.jpg');
 		}
 		.slide-3 {
-			background-image: url("/img/index/gardens/min-1500/garden-3.jpg");
+			background-image: url('/img/index/gardens/min-1500/garden-3.jpg');
 		}
 	}
 }
-
