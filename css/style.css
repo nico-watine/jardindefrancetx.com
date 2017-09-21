@@ -524,7 +524,7 @@ body {
 }
 
 body {
-  color: #fff;
+  color: #fefefe;
   font-family: "Open Sans", sans-serif;
   line-height: 1.4;
 }
@@ -535,7 +535,7 @@ p {
 
 a,
 a:visited {
-  color: #fff;
+  color: #fefefe;
 }
 
 a:hover,
