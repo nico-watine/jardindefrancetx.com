@@ -1520,12 +1520,18 @@ header {
     height: 550px;
     background: url("/img/index/interior_gallery/interior-small.jpg");
   }
+  .interior_gallery .section-content {
+    bottom: 0;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(45%, rgba(0, 0, 0, 0.5)), to(#000));
+    background-image: linear-gradient(-180deg, transparent 0%, rgba(0, 0, 0, 0.5) 45%, #000 100%);
+  }
   .interior_gallery h3 {
     float: left;
     display: block;
     margin-right: 2.8425860857%;
     width: 100%;
     margin-left: 0%;
+    margin-bottom: 30px;
   }
   .interior_gallery h3:last-child {
     margin-right: 0;
