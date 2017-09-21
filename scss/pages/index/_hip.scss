@@ -4,13 +4,13 @@
 	text-align: center;
 
 	.row {
-		padding-top: em(36);
-		margin-bottom: em(60);
+		padding-top: 36px;
+		margin-bottom: 60px;
 	}
 
 	h3 {
 		color: #333;
-		margin-bottom: rem(32);
+		margin-bottom: 32px;
 	}
 
 	a.button {
@@ -23,7 +23,7 @@
 
 	@include media($tiny) {
 		.row.padding {
-			padding: em(36) 0 0;
+			padding: 36px 0 0;
 		}
 	}
 }

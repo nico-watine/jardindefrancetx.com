@@ -1444,13 +1444,13 @@ header {
 }
 
 .hip-banner .row {
-  padding-top: 2.25em;
-  margin-bottom: 3.75em;
+  padding-top: 36px;
+  margin-bottom: 60px;
 }
 
 .hip-banner h3 {
   color: #333;
-  margin-bottom: 2rem;
+  margin-bottom: 32px;
 }
 
 .hip-banner a.button {
@@ -1463,7 +1463,7 @@ header {
 
 @media screen and (max-width: 23.75em) {
   .hip-banner .row.padding {
-    padding: 2.25em 0 0;
+    padding: 36px 0 0;
   }
 }
 
