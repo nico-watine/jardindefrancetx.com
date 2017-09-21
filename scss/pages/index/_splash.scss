@@ -17,26 +17,26 @@ $max-800: "only screen and (max-width : 50.000em)";
 	position: relative;
 	top: 0;
 	left: 0;
-	padding-bottom: em(120);
+	padding-bottom: 120px;
 	text-align: center;
 	min-height: 100%;
 	overflow: hidden;
 
 	.verbiage {
-		padding-top: em(255);
+		padding-top: 255px;
 	}
 
 	h1 {
-		margin-bottom: rem(16);
+		margin-bottom: 16px;
 	}
 
 	h2 {
-		font-size: rem(22);
-		margin-bottom: rem(34);
+		font-size: 22px;
+		margin-bottom: 34px;
 	}
 
 	h3 {
-		margin-bottom: rem(55);
+		margin-bottom: 55px;
 	}
 
 	h2,
@@ -83,18 +83,18 @@ $max-800: "only screen and (max-width : 50.000em)";
 		background-size: cover;
 
 		h1 {
-			font-size: rem(38);
+			font-size: 38px;
 		}
 
 		h2,
 		h3 {
 			width: 100%;
 			margin-left: 0;
-			padding: 0 rem(10);
+			padding: 0 10px;
 		}
 
 		.verbiage {
-			padding-top: em(140);
+			padding-top: 140px;
 		}
 	}
 }

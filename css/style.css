@@ -1193,27 +1193,27 @@ header {
   position: relative;
   top: 0;
   left: 0;
-  padding-bottom: 7.5em;
+  padding-bottom: 120px;
   text-align: center;
   min-height: 100%;
   overflow: hidden;
 }
 
 .splash .verbiage {
-  padding-top: 15.9375em;
+  padding-top: 255px;
 }
 
 .splash h1 {
-  margin-bottom: 1rem;
+  margin-bottom: 16px;
 }
 
 .splash h2 {
-  font-size: 1.375rem;
-  margin-bottom: 2.125rem;
+  font-size: 22px;
+  margin-bottom: 34px;
 }
 
 .splash h3 {
-  margin-bottom: 3.4375rem;
+  margin-bottom: 55px;
 }
 
 .splash h2,
@@ -1255,16 +1255,16 @@ header {
     background-size: cover;
   }
   .splash h1 {
-    font-size: 2.375rem;
+    font-size: 38px;
   }
   .splash h2,
   .splash h3 {
     width: 100%;
     margin-left: 0;
-    padding: 0 0.625rem;
+    padding: 0 10px;
   }
   .splash .verbiage {
-    padding-top: 8.75em;
+    padding-top: 140px;
   }
 }
 
