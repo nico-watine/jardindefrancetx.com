@@ -25,9 +25,9 @@
 
 
 .location-verbiage {
-	width: em(390);
+	width: 390px;
 	position: absolute;
-	right: em(10);
+	right: 10px;
 	text-align: center;
 }
 
@@ -40,7 +40,7 @@
 
 @include media($small) {
 	.location-verbiage {
-		width: em(300);
+		width: 300px;
 	}
 	.map-banner {
 		background: url('/img/index/location/map-banner-small.png') center center no-repeat;
