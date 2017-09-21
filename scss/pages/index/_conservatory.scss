@@ -2,11 +2,11 @@
 
 .conservatory {
 	text-align: center;
-	border-top: em(10) solid $dark-blue;
+	border-top: 10px solid $dark-blue;
 	position: relative;
 
 	.section-content {
-		bottom: em(100);
+		bottom: 100px;
 		width: 90%;
 		left: 5%;
 	}
@@ -15,10 +15,10 @@
 @include media($medium) {
 	.conservatory {
 		background: url('/img/index/conservatory/conservatory-small.jpg');
-		height: em(550);
+		height: 550px;
 		
 		.section-content {
-			bottom: em(30);
+			bottom: 30px;
 		}
 	}
 }

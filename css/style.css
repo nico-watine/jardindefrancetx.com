@@ -1407,12 +1407,12 @@ header {
 
 .conservatory {
   text-align: center;
-  border-top: 0.625em solid #697B99;
+  border-top: 10px solid #697B99;
   position: relative;
 }
 
 .conservatory .section-content {
-  bottom: 6.25em;
+  bottom: 100px;
   width: 90%;
   left: 5%;
 }
@@ -1420,10 +1420,10 @@ header {
 @media screen and (max-width: 46.875em) {
   .conservatory {
     background: url("/img/index/conservatory/conservatory-small.jpg");
-    height: 34.375em;
+    height: 550px;
   }
   .conservatory .section-content {
-    bottom: 1.875em;
+    bottom: 30px;
   }
 }
 
