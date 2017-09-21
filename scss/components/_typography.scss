@@ -82,6 +82,8 @@ h6 {
 	font-size: $h6-size;
 }
 
+
+// max-width: 830px ------------------------------------------------------ //
 @include media($medium-plus) {
 	
 	h1 {
