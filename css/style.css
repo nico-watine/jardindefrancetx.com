@@ -1424,7 +1424,10 @@ header {
     background: url("/img/index/conservatory/conservatory-small.jpg");
   }
   .conservatory .section-content {
-    bottom: 30px;
+    bottom: 0;
+  }
+  .conservatory .section-content h3 {
+    margin-bottom: 30px;
   }
 }
 
