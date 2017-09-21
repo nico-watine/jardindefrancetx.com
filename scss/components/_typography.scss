@@ -11,11 +11,12 @@ body {
 body {
 	color: $white;
 	font-family: $body-font-family;
-	line-height: 1.4;
+	line-height: 1.5;
 }
 
 p {
 	margin-bottom: $baseline;
+	line-height: 1.6;
 }
 
 a,
@@ -33,6 +34,7 @@ h3,
 h4,
 h5,
 h6 {
+	line-height: 1.4;
 	margin: 0 0 8px;
 	font-weight: $header-font-weight;
 }
@@ -52,7 +54,7 @@ h1.title {
 }
 
 p.large {
-	line-height: 1.2;
+	line-height: 1.4;
 	font-size: $p-large-size;
 }
 
