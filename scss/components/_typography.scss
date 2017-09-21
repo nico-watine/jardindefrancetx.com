@@ -12,7 +12,7 @@ textarea {
 }
 
 body {
-	color: $text-color;
+	color: $white;
 	font-family: $body-font-family;
 	line-height: 1.4;
 }
@@ -23,7 +23,7 @@ p {
 
 a,
 a:visited {
-	color: $link-color;
+	color: $white;
 
 	&:hover {
 		text-decoration: none;
