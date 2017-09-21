@@ -1532,11 +1532,11 @@ header {
 }
 
 .about .row#story {
-  padding: 3.4375em 0.625em 0;
+  padding: 55px 10px 0;
 }
 
 .about .row#pics {
-  padding: 2.5em 0;
+  padding: 40px 0;
 }
 
 .about h1.title,
@@ -1549,7 +1549,7 @@ header {
   display: block;
   margin-right: 1.7578778568%;
   width: 49.1210610716%;
-  padding: 0 2.1875em;
+  padding: 0 35px;
 }
 
 .profile-pic:last-child {
@@ -1569,7 +1569,7 @@ header {
     height: auto;
   }
   .profile-pic {
-    padding: 0 0.625em;
+    padding: 0 10px;
   }
 }
 
