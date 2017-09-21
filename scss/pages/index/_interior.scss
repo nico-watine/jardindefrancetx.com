@@ -11,7 +11,7 @@
 	}
 
 	.section-content {
-		bottom: em(40);
+		bottom: 40px;
 	}
 }
 
@@ -26,7 +26,7 @@
 
 @include media($medium) {
 	.interior_gallery {
-		height: em(550);
+		height: 550px;
 		background: url('/img/index/interior_gallery/interior-small.jpg');
 
 		h3 {

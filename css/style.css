@@ -1486,7 +1486,7 @@ header {
 }
 
 .interior_gallery .section-content {
-  bottom: 2.5em;
+  bottom: 40px;
 }
 
 @media screen and (max-width: 62.5em) {
@@ -1504,7 +1504,7 @@ header {
 
 @media screen and (max-width: 46.875em) {
   .interior_gallery {
-    height: 34.375em;
+    height: 550px;
     background: url("/img/index/interior_gallery/interior-small.jpg");
   }
   .interior_gallery h3 {
