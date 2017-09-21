@@ -1,15 +1,9 @@
 
-
-
-
-
 // -------------------------------------------
 // |            Typography Styles            |
 // -------------------------------------------
 
-// ---------------------------------------------------------------------- //
-// Font Sizes (Perfect Fourth - 1.333)
-
+// Font Sizes (Perfect Fourth - 1.333) ---------------------------------- //
 $h1-size: 50px; 
 $h2-size: 38px; 
 $h3-size: 28px; 
@@ -20,23 +14,16 @@ $p-large-size: 26px;
 $p-size: 16px; 
 
 
-// ---------------------------------------------------------------------- //
-// Font Families
-
+// Font Families -------------------------------------------------------- //
 $header-font-family: 'Parisienne', cursive;
 $header-font-weight: 700;
 $body-font-family: 'Open Sans', sans-serif;
 $body-font-weight: 600;
 
 
-// ---------------------------------------------------------------------- //
-// Font Settings
-
+// Font Settings --------------------------------------------------------- //
 $h5-h6-letter-spacing: 1.2px;
 $baseline: 22px;
-
-
-// ---------------------------------------------------------------------- //
 
 
 
@@ -44,13 +31,12 @@ $baseline: 22px;
 // |            Colors            |
 // --------------------------------
 
-// ---------------------------------------------------------------------- //
-// Hexadecimal Color Variables
-
+// Hexadecimal Color Variables ------------------------------------------- //
 $dark-blue: #697B99;
 $body: #f4f2f2;
 
-// Typography Color Variables
+
+// Typography Color Variables -------------------------------------------- //
 $text-color: #fff;
 $link-color: #fff;
 $hr-color: #ccc;
