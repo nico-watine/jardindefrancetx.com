@@ -7,57 +7,66 @@
 		"uuidString": "B9804A6C-977C-4C74-A601-5FE9C23070D1"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26261",
 "files": {
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/.htaccess": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
 	"\/403.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/403.html",
 		"oF": 0
 		},
 	"\/404.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/404.html",
 		"oF": 0
 		},
 	"\/_ignores\/browser-upgrade-snippet.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/browser-upgrade-snippet.html",
 		"oF": 0
 		},
 	"\/_ignores\/embed-video.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/embed-video.html",
 		"oF": 0
 		},
 	"\/_ignores\/google-tracking-id.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_ignores\/google-tracking-id.html",
 		"oF": 0
 		},
 	"\/_ignores\/jardin-de-france.sublime-project": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/jardin-de-france.sublime-project",
 		"oF": 0
 		},
 	"\/_ignores\/jardin-de-france.sublime-workspace": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ignores\/jardin-de-france.sublime-workspace",
@@ -1167,6 +1176,7 @@
 		"oS": 1
 		},
 	"\/assets\/bower_components\/jquery\/AUTHORS.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/AUTHORS.txt",
@@ -1211,6 +1221,7 @@
 		"tS": 0
 		},
 	"\/assets\/bower_components\/jquery\/dist\/jquery.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/dist\/jquery.min.map",
@@ -1237,6 +1248,7 @@
 		"tS": 0
 		},
 	"\/assets\/bower_components\/jquery\/dist\/jquery.slim.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/dist\/jquery.slim.min.map",
@@ -1263,28 +1275,31 @@
 		"tS": 0
 		},
 	"\/assets\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/jquery\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/jquery\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/jquery\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2335,24 +2350,28 @@
 		"oS": 1
 		},
 	"\/assets\/bower_components\/normalize-css\/.editorconfig": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/normalize-css\/.editorconfig",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/normalize-css\/.gitattributes": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/normalize-css\/.gitattributes",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/normalize-css\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/normalize-css\/.gitignore",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/normalize-css\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/normalize-css\/.travis.yml",
@@ -2367,10 +2386,10 @@
 		"oS": 1
 		},
 	"\/assets\/bower_components\/normalize-css\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2419,18 +2438,21 @@
 		"oS": 1
 		},
 	"\/assets\/bower_components\/slick-carousel\/CONTRIBUTING.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/CONTRIBUTING.markdown",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/slick-carousel\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/LICENSE",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/slick-carousel\/Makefile": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/Makefile",
@@ -2445,6 +2467,7 @@
 		"oS": 1
 		},
 	"\/assets\/bower_components\/slick-carousel\/README.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/README.markdown",
@@ -2467,12 +2490,14 @@
 		"opt": 0
 		},
 	"\/assets\/bower_components\/slick-carousel\/slick\/config.rb": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/slick\/config.rb",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/slick-carousel\/slick\/fonts\/slick.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/slick\/fonts\/slick.eot",
@@ -2489,12 +2514,14 @@
 		"prP": 0
 		},
 	"\/assets\/bower_components\/slick-carousel\/slick\/fonts\/slick.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/slick\/fonts\/slick.ttf",
 		"oF": 0
 		},
 	"\/assets\/bower_components\/slick-carousel\/slick\/fonts\/slick.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/bower_components\/slick-carousel\/slick\/fonts\/slick.woff",
@@ -2908,6 +2935,7 @@
 		"oS": 1
 		},
 	"\/browserconfig.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/browserconfig.xml",
@@ -2934,6 +2962,7 @@
 		"oS": 0
 		},
 	"\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/favicon.ico",
@@ -2951,6 +2980,7 @@
 		"q": 100
 		},
 	"\/fonts\/nav\/nav.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/nav\/nav.eot",
@@ -2967,18 +2997,21 @@
 		"prP": 0
 		},
 	"\/fonts\/nav\/nav.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/nav\/nav.ttf",
 		"oF": 0
 		},
 	"\/fonts\/nav\/nav.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/nav\/nav.woff",
 		"oF": 0
 		},
 	"\/fonts\/slick\/slick.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/slick\/slick.eot",
@@ -2995,24 +3028,28 @@
 		"prP": 0
 		},
 	"\/fonts\/slick\/slick.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/slick\/slick.ttf",
 		"oF": 0
 		},
 	"\/fonts\/slick\/slick.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/slick\/slick.woff",
 		"oF": 0
 		},
 	"\/googlea536b0ce9879dae9.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/googlea536b0ce9879dae9.html",
 		"oF": 0
 		},
 	"\/googlecc7a9b7996f6ec6a.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/googlecc7a9b7996f6ec6a.html",
@@ -3029,6 +3066,7 @@
 		"tS": 0
 		},
 	"\/humans.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/humans.txt",
@@ -3613,12 +3651,14 @@
 		"q": 100
 		},
 	"\/img\/index\/splash\/splash.mp4": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/img\/index\/splash\/splash.mp4",
 		"oF": 0
 		},
 	"\/img\/index\/splash\/splash.webm": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/img\/index\/splash\/splash.webm",
@@ -3636,12 +3676,14 @@
 		"q": 100
 		},
 	"\/img\/social-media\/milieu\/spring-2017-my-houston.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/img\/social-media\/milieu\/spring-2017-my-houston.pdf",
 		"oF": 0
 		},
 	"\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.php",
@@ -3732,12 +3774,14 @@
 		"oS": 1
 		},
 	"\/php\/autoVer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/php\/autoVer.php",
 		"oF": 0
 		},
 	"\/robots.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/robots.txt",
@@ -4095,6 +4139,7 @@
 		"uL": 1
 		},
 	"\/sitemap.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/sitemap.xml",
@@ -4710,6 +4755,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -4741,6 +4790,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -4774,9 +4827,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -4806,6 +4859,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -4815,14 +4872,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -5926,7 +5975,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -5959,6 +6009,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -6000,7 +6051,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -6032,13 +6084,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -6047,7 +6099,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -6067,7 +6120,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -6095,7 +6149,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
