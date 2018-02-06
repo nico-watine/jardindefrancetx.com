@@ -36,7 +36,7 @@ h5,
 h6 {
 	line-height: 1.4;
 	margin: 0 0 8px;
-	font-weight: $header-font-weight;
+	font-weight: $body-font-weight;
 }
 
 h5,
@@ -47,6 +47,7 @@ h6 {
 
 .title {
 	font-family: $header-font-family;
+	font-weight: $header-font-weight;
 }
 
 h1.title {
@@ -114,7 +115,7 @@ h6 {
 
 @include media($small) {
 	h1.title {
-		font-size: 50;
+		font-size: 50px;
 	}
 }
 
