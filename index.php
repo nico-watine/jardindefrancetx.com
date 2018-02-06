@@ -74,9 +74,9 @@
 
 <section class="splash bgvid-container" id="welcome">
 	<div class="featureFocus-milieu" id="default">
-		<p>We are featured in the Spring 2017 issue of MILIEU Mag!</p>
+		<p>We will be featured in the Spring 2018 issue of MILIEU Mag!</p>
 		<a href="http://milieu-mag.com/Story/MY_HOUSTON/279"><img srcset="/img/index/milieu-banner/logo_2x.png 2x" src="/img/index/milieu-banner/logo.png" alt="Milieu Mag Logo"></a>
-		<a href="/img/social-media/milieu/spring-2017-my-houston.pdf" class="buttonGhost">Read the full article</a>
+		<a href="/img/social-media/milieu/spring-2017-my-houston.pdf" class="buttonGhost">Here is our Spring 2017 Milieu ad</a>
 	</div>
 	<div class="verbiage">
 		<h1 class="title">Jardin de France</h1>
