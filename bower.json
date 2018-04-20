@@ -20,6 +20,6 @@
 		"bower_components"
 	],
 	"dependencies": {
-		"normalize-css": "^7.0.0"
+		"slick-carousel": "1.5.9"
 	}
 }
