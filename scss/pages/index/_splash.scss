@@ -66,7 +66,7 @@ $max-800: "only screen and (max-width : 50.000em)";
 	}
 }
 
-@include media($medium) {
+@include media($maxWidth-750) {
 	.splash {
 		h2,
 		h3 {
@@ -76,7 +76,7 @@ $max-800: "only screen and (max-width : 50.000em)";
 	}
 }
 
-@include media($small) {
+@include media($maxWidth-500) {
 	.splash {
 		background: url('/img/index/splash/splash-small.jpg') no-repeat;
 		background-position: 50%;

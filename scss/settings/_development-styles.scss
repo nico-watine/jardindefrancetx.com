@@ -8,27 +8,27 @@
 header {
 	background: #697B99;
 
-	@include media($large) {
+	@include media($maxWidth-1000) {
 		background: red;
 	}
 
-	@include media($medium-plus) {
+	@include media($maxWidth-830) {
 		background: purple;
 	}
 
-	@include media($medium) {
+	@include media($maxWidth-750) {
 		background: blue;
 	}
 
-	@include media($android) {
+	@include media($maxWidth-610) {
 		background: green;
 	}
 
-	@include media($small) {
+	@include media($maxWidth-500) {
 		background: black;
 	}
 
-	@include media($tiny) {
+	@include media($maxWidth-380) {
 		background: yellow;
 	}
 }
