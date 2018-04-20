@@ -14,7 +14,8 @@
 	}
 }
 
-@include media($medium) {
+// @include media($medium) {
+@include media($maxWidth-750) {
 	.conservatory {
 		height: 550px;
 
@@ -41,7 +42,8 @@
 }
 
 
-@include media($min-1500) {
+// @include media($min-1500) {
+@include media($minWidth-1500) {
 	.conservatory {
 		.slide-1 {
 			background-image: url('/img/index/conservatory/min-1500/conservatory-1.jpg');
