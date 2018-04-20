@@ -227,7 +227,8 @@
 	}
 }
 
-@include media($large) {
+// @include media($large) {
+@include media($maxWidth-1000) {
 	.logo {
 		@include span-columns(0 of 16);
 
