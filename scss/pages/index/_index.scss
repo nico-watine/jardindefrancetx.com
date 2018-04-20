@@ -52,7 +52,8 @@ footer {
 	width: 100%;
 }
 
-@include media($medium-plus) {
+// @include media($medium-plus) {
+@include media($maxWidth-830) {
 	.section-content {
 		h1 {
 			font-size: 50px;
@@ -60,14 +61,16 @@ footer {
 	}
 }
 
-@include media($medium) {
+// @include media($medium) {
+@include media($maxWidth-750) {
 	.section-bg {
 		visibility: hidden;
 		display: none;
 	}
 }
 
-@include media($min-1500) {
+// @include media($min-1500) {
+@include media($minWidth-1500) {
 	.gardens,
 	.conservatory,
 	.interior_gallery {
