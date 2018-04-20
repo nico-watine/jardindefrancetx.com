@@ -1,24 +1,17 @@
 @import "neat-helpers";
 
-// $min-1500: new-breakpoint(min-width 1500px 16); 
 $minWidth-1500: new-breakpoint(min-width 1500px 16); 
 
-// $large: new-breakpoint(max-width 1000px 12); 
 $maxWidth-1000: new-breakpoint(max-width 1000px 12); 
 
-// $medium-plus: new-breakpoint(max-width 830px 12);
 $maxWidth-830: new-breakpoint(max-width 830px 12);
 
-// $medium: new-breakpoint(max-width 750px 10);  
 $maxWidth-750: new-breakpoint(max-width 750px 10); 
 
-// $android: new-breakpoint(max-width 610px 8); 
 $maxWidth-610: new-breakpoint(max-width 610px 8); 
 
-// $small: new-breakpoint(max-width 500px 8); 
 $maxWidth-500: new-breakpoint(max-width 500px 8); 
 
-// $tiny: new-breakpoint(max-width 380px 6); 
 $maxWidth-380: new-breakpoint(max-width 380px 6); 
 
 
