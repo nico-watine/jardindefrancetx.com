@@ -28,7 +28,6 @@ a.button {
         box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.37);
     }
 
-    // @include media($medium) {
     @include media($maxWidth-750) {
         font-size: $h5-size; // 16px
         padding: 13px 21px 16px; // 13px 21px 16px

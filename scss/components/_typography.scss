@@ -84,8 +84,6 @@ h6 {
 }
 
 
-// max-width: 830px ------------------------------------------------------ //
-// @include media($medium-plus) {
 @include media($maxWidth-830) {
 	
 	h1 {
@@ -115,7 +113,6 @@ h6 {
 }
 
 
-// @include media($small) {
 @include media($maxWidth-500) {
 	h1.title {
 		font-size: 50px;

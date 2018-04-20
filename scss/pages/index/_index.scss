@@ -52,7 +52,7 @@ footer {
 	width: 100%;
 }
 
-// @include media($medium-plus) {
+
 @include media($maxWidth-830) {
 	.section-content {
 		h1 {
@@ -61,7 +61,7 @@ footer {
 	}
 }
 
-// @include media($medium) {
+
 @include media($maxWidth-750) {
 	.section-bg {
 		visibility: hidden;
@@ -69,7 +69,7 @@ footer {
 	}
 }
 
-// @include media($min-1500) {
+
 @include media($minWidth-1500) {
 	.gardens,
 	.conservatory,

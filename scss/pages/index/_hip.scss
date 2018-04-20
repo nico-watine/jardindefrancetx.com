@@ -21,7 +21,7 @@
 		}
 	}
 
-	// @include media($tiny) {
+
 	@include media($maxWidth-380) {
 		.row.padding {
 			padding: 36px 0 0;

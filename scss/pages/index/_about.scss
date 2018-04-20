@@ -31,7 +31,7 @@
 	text-align: left;
 }
 
-// @include media($medium) {
+
 @include media($maxWidth-750) {
 	.about {
 		height: auto;

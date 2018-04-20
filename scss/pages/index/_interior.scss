@@ -15,7 +15,7 @@
 	}
 }
 
-// @include media($large) {
+
 @include media($maxWidth-1000) {
 	.interior_gallery {
 		h3 {
@@ -25,7 +25,7 @@
 	}
 }
 
-// @include media($medium) {
+
 @include media($maxWidth-750) {
 	.interior_gallery {
 		height: 550px;
@@ -50,7 +50,7 @@
 	}
 }
 
-// @include media($min-1500) {
+
 @include media($minWidth-1500) {
 	.interior_gallery {
 		.slide-1 {
