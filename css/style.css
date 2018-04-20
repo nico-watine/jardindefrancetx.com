@@ -464,10 +464,6 @@ a.button {
   text-decoration: none;
   color: #333;
   background: #FFFEB3;
-  -webkit-transition: background-color 200ms ease-out 0s;
-  transition: background-color 200ms ease-out 0s;
-  -webkit-transition: color 200ms ease-out 0s;
-  transition: color 200ms ease-out 0s;
 }
 
 a.button:hover {

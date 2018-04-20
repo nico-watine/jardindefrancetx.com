@@ -19,8 +19,8 @@ a.button {
     color: #333;
     background: #FFFEB3;
 
-    @include transition (background-color 200ms ease-out 0s);
-    @include transition (color 200ms ease-out 0s);
+    // @include transition (background-color 200ms ease-out 0s);
+    // @include transition (color 200ms ease-out 0s);
 
     &:hover {
         color: #000;
