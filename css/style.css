@@ -464,10 +464,6 @@ a.button {
   text-decoration: none;
   color: #333;
   background: #FFFEB3;
-  -webkit-transition: background-color 200ms ease-out 0s;
-  transition: background-color 200ms ease-out 0s;
-  -webkit-transition: color 200ms ease-out 0s;
-  transition: color 200ms ease-out 0s;
 }
 
 a.button:hover {
@@ -477,7 +473,7 @@ a.button:hover {
           box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.37);
 }
 
-@media screen and (max-width: 46.875em) {
+@media screen and (max-width: 750px) {
   a.button {
     font-size: 16px;
     padding: 13px 21px 16px;
@@ -599,7 +595,7 @@ h6 {
   font-size: 12px;
 }
 
-@media screen and (max-width: 51.875em) {
+@media screen and (max-width: 830px) {
   h1 {
     font-size: 38px;
   }
@@ -621,7 +617,7 @@ h6 {
   }
 }
 
-@media screen and (max-width: 31.25em) {
+@media screen and (max-width: 500px) {
   h1.title {
     font-size: 50px;
   }
@@ -1147,7 +1143,7 @@ header {
   }
 }
 
-@media screen and (max-width: 62.5em) {
+@media screen and (max-width: 1000px) {
   .logo {
     float: left;
     display: block;
@@ -1239,7 +1235,7 @@ header {
   }
 }
 
-@media screen and (max-width: 46.875em) {
+@media screen and (max-width: 750px) {
   .splash h2,
   .splash h3 {
     width: 84%;
@@ -1247,7 +1243,7 @@ header {
   }
 }
 
-@media screen and (max-width: 31.25em) {
+@media screen and (max-width: 500px) {
   .splash {
     background: url("/img/index/splash/splash-small.jpg") no-repeat;
     background-position: 50%;
@@ -1284,7 +1280,7 @@ header {
   height: auto;
 }
 
-@media screen and (max-width: 62.5em) {
+@media screen and (max-width: 1000px) {
   .featureFocus-milieu img {
     margin-left: 0;
   }
@@ -1358,7 +1354,7 @@ header {
   margin-bottom: 30px;
 }
 
-@media screen and (max-width: 51.875em) {
+@media screen and (max-width: 830px) {
   .gardens h3 {
     float: left;
     display: block;
@@ -1371,7 +1367,7 @@ header {
   }
 }
 
-@media screen and (max-width: 46.875em) {
+@media screen and (max-width: 750px) {
   .gardens {
     height: 550px;
     text-align: center;
@@ -1395,7 +1391,7 @@ header {
   }
 }
 
-@media screen and (min-width: 93.75em) {
+@media screen and (min-width: 1500px) {
   .gardens .slide-1 {
     background-image: url("/img/index/gardens/min-1500/garden-1.jpg");
   }
@@ -1419,7 +1415,7 @@ header {
   width: 90%;
 }
 
-@media screen and (max-width: 46.875em) {
+@media screen and (max-width: 750px) {
   .conservatory {
     height: 550px;
     background: url("/img/index/conservatory/conservatory-small.jpg");
@@ -1441,7 +1437,7 @@ header {
   }
 }
 
-@media screen and (min-width: 93.75em) {
+@media screen and (min-width: 1500px) {
   .conservatory .slide-1 {
     background-image: url("/img/index/conservatory/min-1500/conservatory-1.jpg");
   }
@@ -1475,7 +1471,7 @@ header {
   font-family: "Parisienne", cursive;
 }
 
-@media screen and (max-width: 23.75em) {
+@media screen and (max-width: 380px) {
   .hip-banner .row.padding {
     padding: 36px 0 0;
   }
@@ -1503,7 +1499,7 @@ header {
   bottom: 40px;
 }
 
-@media screen and (max-width: 62.5em) {
+@media screen and (max-width: 1000px) {
   .interior_gallery h3 {
     float: left;
     display: block;
@@ -1516,7 +1512,7 @@ header {
   }
 }
 
-@media screen and (max-width: 46.875em) {
+@media screen and (max-width: 750px) {
   .interior_gallery {
     height: 550px;
     background: url("/img/index/interior_gallery/interior-small.jpg");
@@ -1537,7 +1533,7 @@ header {
   }
 }
 
-@media screen and (min-width: 93.75em) {
+@media screen and (min-width: 1500px) {
   .interior_gallery .slide-1 {
     background-image: url("/img/index/interior_gallery/min-1500/interior_gallery.jpg");
     background-position: center center !important;
@@ -1582,7 +1578,7 @@ header {
   text-align: left;
 }
 
-@media screen and (max-width: 46.875em) {
+@media screen and (max-width: 750px) {
   .about {
     height: auto;
   }
@@ -1631,7 +1627,7 @@ header {
   height: 320px;
 }
 
-@media screen and (max-width: 31.25em) {
+@media screen and (max-width: 500px) {
   .location-verbiage {
     width: 300px;
   }
@@ -1681,20 +1677,20 @@ footer {
   width: 100%;
 }
 
-@media screen and (max-width: 51.875em) {
+@media screen and (max-width: 830px) {
   .section-content h1 {
     font-size: 50px;
   }
 }
 
-@media screen and (max-width: 46.875em) {
+@media screen and (max-width: 750px) {
   .section-bg {
     visibility: hidden;
     display: none;
   }
 }
 
-@media screen and (min-width: 93.75em) {
+@media screen and (min-width: 1500px) {
   .gardens .slide-1,
   .gardens .slide-2,
   .gardens .slide-3,
