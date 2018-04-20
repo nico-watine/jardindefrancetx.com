@@ -2,9 +2,8 @@
 @import "settings/_normalize.scss";
 
 // BOURBON-NEAT FILES
-@import "../assets/bourbon/_bourbon.scss";
-@import "../assets/neat/_grid-settings.scss";
-@import "../assets/neat/_neat.scss";
+@import "neat/_grid-settings.scss";
+@import "neat/_neat.scss";
 
 // STYLE COMPONENTS
 @import "components/_buttons.scss";

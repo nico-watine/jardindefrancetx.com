@@ -38,7 +38,8 @@
 	height: 320px;
 }
 
-@include media($small) {
+
+@include media($maxWidth-500) {
 	.location-verbiage {
 		width: 300px;
 	}
