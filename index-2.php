@@ -52,7 +52,10 @@
 </head>
 <body id="index-2">
 
-<section class="splash">
+<section class="splash-2">
+	<div class="row">
+		<h1 class="cursive text-center">Jardin de France</h1>
+	</div>
 <!-- 	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="backgroundVideo">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
