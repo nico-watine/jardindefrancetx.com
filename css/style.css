@@ -2828,7 +2828,7 @@ header {
 .conservatory {
   position: relative;
   text-align: center;
-  border-top: 10px solid #697B99;
+  border-top: 10px solid #697b99;
 }
 
 .conservatory .section-content {
@@ -3075,7 +3075,7 @@ body#index p.large {
 .location,
 .map-banner,
 footer {
-  border-top: 6px solid #697B99;
+  border-top: 6px solid #697b99;
 }
 
 .gardens,
