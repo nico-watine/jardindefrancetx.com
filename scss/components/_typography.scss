@@ -1,23 +1,23 @@
-@import "../settings/_settings.scss";
-@import "_fonts.scss";
+@import '../settings/_settings.scss';
+@import '_fonts.scss';
 
 
-body {
-	-webkit-font-smoothing: antialiased;
-	text-rendering: optimizeLegibility;
-	-moz-osx-font-smoothing: grayscale;
-}
+// body {
+// 	-webkit-font-smoothing: antialiased;
+// 	text-rendering: optimizeLegibility;
+// 	-moz-osx-font-smoothing: grayscale;
+// }
 
-body {
-	color: $white;
-	font-family: $body-font-family;
-	line-height: 1.5;
-}
+// body {
+// 	color: $white;
+// 	font-family: $body-font-family;
+// 	line-height: 1.5;
+// }
 
-p {
-	margin-bottom: $baseline;
-	line-height: 1.6;
-}
+// p {
+// 	margin-bottom: $baseline;
+// 	line-height: 1.6;
+// }
 
 a,
 a:visited {
@@ -28,9 +28,9 @@ a:visited {
 	}
 }
 
-h1, 
-h2, 
-h3, 
+h1,
+h2,
+h3,
 h4,
 h5,
 h6 {
@@ -85,7 +85,6 @@ h6 {
 
 
 @include media($maxWidth-830) {
-	
 	h1 {
 		font-size: $h2-size;
 	}
@@ -133,3 +132,168 @@ h3 {
 	text-shadow: none !important;
 }
 
+// -------------------------------------------------------------
+// |            Below will replace everything above            |
+// -------------------------------------------------------------
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #fefefe;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #0a0a0a;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+// -------------------------------------------------------
+// |            Basic Typography Class Styles            |
+// -------------------------------------------------------
+
+p {
+	margin: 0 0 1rem;
+	font-size: $p;
+	line-height: 1.6;
+	text-rendering: optimizeLegibility;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	margin: 0 0 8px;
+	line-height: 1.4;
+	font-style: normal;
+	font-weight: normal;
+	color: inherit;
+	text-rendering: optimizeLegibility;
+}
+
+// -------------------------------------------------------
+// |            Default sans-serif typography            |
+// -------------------------------------------------------
+
+
+p,
+.p {
+	font-size: $p;
+}
+
+h1,
+.h1 {
+	font-size: $h1;
+}
+
+h2,
+.h2 {
+	font-size: $h2;
+}
+
+h3,
+.h3 {
+	font-size: $h3;
+}
+
+h4,
+.h4 {
+	font-size: $h4;
+}
+
+h5,
+.h5 {
+	font-size: $h5;
+}
+
+h6,
+.h6 {
+	font-size: $h6;
+}
+
+@media print, screen and (min-width: 40em) {
+	h1,
+	.h1 {
+		font-size: $h1-medium;
+	}
+
+	h2,
+	.h2 {
+		font-size: $h2-medium;
+	}
+
+	h3,
+	.h3 {
+		font-size: $h3-medium;
+	}
+
+	h4,
+	.h4 {
+		font-size: $h4-medium;
+	}
+
+	h5,
+	.h5 {
+		font-size: $h5-medium;
+	}
+
+	h6,
+	.h6 {
+		font-size: $h6-medium;
+	}
+}
+
+// ----------------------------------------------------------------
+// |            .Cursive Typography Sizes (Parisienne)            |
+// ----------------------------------------------------------------
+
+h1.cursive,
+.h1.cursive {
+	font-size: $h1-cursive;
+}
+
+h2.cursive,
+.h2.cursive {
+	font-size: $h2-cursive;
+}
+
+h3.cursive,
+.h3.cursive {
+	font-size: $h3-cursive;
+}
+
+h4.cursive,
+.h4.cursive {
+	font-size: $h4-cursive;
+}
+
+@media print, screen and (min-width: 40em) {
+	h1.cursive,
+	.h1.cursive {
+		font-size: $h1-cursive-medium;
+	}
+
+	h2.cursive,
+	.h2.cursive {
+		font-size: $h2-cursive-medium;
+	}
+
+	h3.cursive,
+	.h3.cursive {
+		font-size: $h3-cursive-medium;
+	}
+
+	h4.cursive,
+	.h4.cursive {
+		font-size: $h4-cursive-medium;
+	}
+}
