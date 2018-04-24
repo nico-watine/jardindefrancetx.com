@@ -3099,7 +3099,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_about.scss": {
+	"\/scss\/pages\/index-2\/_about.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3112,7 +3112,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_conservatory.scss": {
+	"\/scss\/pages\/index-2\/_conservatory.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3125,7 +3125,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_garden.scss": {
+	"\/scss\/pages\/index-2\/_garden.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3138,7 +3138,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_hip.scss": {
+	"\/scss\/pages\/index-2\/_hip.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3151,7 +3151,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_index.scss": {
+	"\/scss\/pages\/index-2\/_index.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3164,7 +3164,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_interior.scss": {
+	"\/scss\/pages\/index-2\/_interior.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3177,7 +3177,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_location.scss": {
+	"\/scss\/pages\/index-2\/_location.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3190,7 +3190,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_milieu-banner.scss": {
+	"\/scss\/pages\/index-2\/_milieu-banner.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3203,7 +3203,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_splash.scss": {
+	"\/scss\/pages\/index-2\/_splash.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
