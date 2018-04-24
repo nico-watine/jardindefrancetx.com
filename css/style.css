@@ -2247,9 +2247,9 @@ h5#credit a:hover {
 }
 
 header {
-  background: #697B99;
-  -webkit-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.3);
-          box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.3);
+  background: #697b99;
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+          box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
   height: 55px;
   width: 100%;
   position: fixed;
@@ -2279,7 +2279,7 @@ header {
 }
 
 .logo h1 {
-  text-shadow: 0px 6px 10px rgba(0, 0, 0, 0.3);
+  text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
   margin: 0;
   top: 0;
   left: 28px;
@@ -2400,12 +2400,12 @@ header {
 }
 
 .nav-collapse a:hover {
-  background: #FFFEB3;
+  background: #fffeb3;
 }
 
 .nav-collapse li.active a {
   text-decoration: underline;
-  background: #FFFEB3;
+  background: #fffeb3;
 }
 
 .nav-toggle {
@@ -2421,13 +2421,13 @@ header {
 }
 
 .nav-toggle:before {
-  font: normal 28px/52px "nav";
+  font: normal 28px/52px 'nav';
   color: #fff;
   text-transform: none;
   text-align: center;
   position: absolute;
   text-shadow: 1px 1px 1px #000;
-  content: "\2261";
+  content: '\2261';
   /* Hamburger icon */
   text-indent: 0;
   speak: none;
@@ -2438,7 +2438,7 @@ header {
 
 .nav-toggle.active:before {
   font-size: 30px;
-  content: "\78";
+  content: '\78';
   /* Close icon */
 }
 
