@@ -2014,7 +2014,7 @@ h5 {
 }
 
 h6 {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 @media screen and (max-width: 830px) {
@@ -2032,10 +2032,10 @@ h6 {
     font-size: 16px;
   }
   h5 {
-    font-size: 12px;
+    font-size: 14px;
   }
   h6 {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
