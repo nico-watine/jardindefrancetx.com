@@ -2807,6 +2807,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/index-2.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/index-2.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/neat\/_grid-settings.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -3106,7 +3119,20 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_about.scss": {
+	"\/scss\/pages\/index-2\/_index-2.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_index-2.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_about.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3119,7 +3145,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_conservatory.scss": {
+	"\/scss\/pages\/index\/_conservatory.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3132,7 +3158,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_garden.scss": {
+	"\/scss\/pages\/index\/_garden.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3145,7 +3171,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_hip.scss": {
+	"\/scss\/pages\/index\/_hip.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3158,7 +3184,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_index.scss": {
+	"\/scss\/pages\/index\/_index.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3171,7 +3197,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_interior.scss": {
+	"\/scss\/pages\/index\/_interior.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3184,7 +3210,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_location.scss": {
+	"\/scss\/pages\/index\/_location.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3197,7 +3223,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_milieu-banner.scss": {
+	"\/scss\/pages\/index\/_milieu-banner.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3210,7 +3236,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_splash.scss": {
+	"\/scss\/pages\/index\/_splash.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
