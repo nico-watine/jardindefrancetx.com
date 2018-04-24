@@ -1,0 +1,14 @@
+.foundation-mq {
+	font-family: 'small=0em&medium=40em&large=64em&xlarge=75em&xxlarge=90em';
+}
+
+html {
+	box-sizing: border-box;
+	font-size: 100%;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
