@@ -53,10 +53,10 @@
 <body id="index-2">
 
 <section class="splash">
-	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="backgroundVideo">
+<!-- 	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="backgroundVideo">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
-	</video>
+	</video> -->
 </section>
 <!-- <section class="splash bgvid-container" id="welcome">
 	<div class="verbiage">
