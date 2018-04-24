@@ -1981,6 +1981,10 @@ h6,
   }
 }
 
+.cursive {
+  font-family: "Parisienne", cursive;
+}
+
 h1.cursive,
 .h1.cursive {
   font-size: 70px;
