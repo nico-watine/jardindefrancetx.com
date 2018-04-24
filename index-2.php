@@ -60,6 +60,8 @@
 		<!-- <a href="#gardens" class="button" data-scroll>Come Visit Us!</a> -->
 	</div>
 
+	<div class="bgScrim"></div>
+
 	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="bgvid">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
