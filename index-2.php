@@ -53,27 +53,15 @@
 <body id="index-2">
 
 <section class="splash-2">
-	<div class="row">
-		<h1 class="cursive text-center">Jardin de France</h1>
+	<div class="row text-center">
+		<h1 class="cursive">Jardin de France</h1>
+		<h2 class="h3" style="max-width: 540px; width: 100%; margin: 0 auto;"><strong>French Antiques and Plants for the Home &amp; Patio</strong></h2>
 	</div>
 <!-- 	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="backgroundVideo">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video> -->
 </section>
-<!-- <section class="splash bgvid-container" id="welcome">
-	<div class="verbiage">
-		<h1 class="title">Jardin de France</h1>
-		<h2 class="slogan">French Antiques and Plants for the <span class="inline-block">Home &amp; Patio</span></h2>
-		<h3 class="tag">Bringing to Houston the beauty of original French Country antiques &amp; quaint <span class="inline-block">garden design</span></h3>
-		<a href="#gardens" class="button" data-scroll>Come Visit Us!</a>
-	</div>
-
-	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="bgvid">
-		<source src="/img/index/splash/splash.webm" type="video/webm">
-		<source src="/img/index/splash/splash.mp4" type="video/mp4">
-	</video>
-</section> -->
 
 </body>
 </html>
