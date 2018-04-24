@@ -1,5 +1,5 @@
-@import "../settings/_settings.scss";
-@import "_fonts.scss";
+@import '../settings/_settings.scss';
+@import '_fonts.scss';
 
 
 // body {
@@ -28,9 +28,9 @@ a:visited {
 	}
 }
 
-h1, 
-h2, 
-h3, 
+h1,
+h2,
+h3,
 h4,
 h5,
 h6 {
@@ -85,7 +85,6 @@ h6 {
 
 
 @include media($maxWidth-830) {
-	
 	h1 {
 		font-size: $h2-size;
 	}
@@ -278,23 +277,23 @@ h4.cursive,
 }
 
 @media print, screen and (min-width: 40em) {
-	h1,
-	.h1 {
-		font-size: $h1-medium;
+	h1.cursive,
+	.h1.cursive {
+		font-size: $h1-cursive-medium;
 	}
 
-	h2,
-	.h2 {
-		font-size: $h2-medium;
+	h2.cursive,
+	.h2.cursive {
+		font-size: $h2-cursive-medium;
 	}
 
-	h3,
-	.h3 {
-		font-size: $h3-medium;
+	h3.cursive,
+	.h3.cursive {
+		font-size: $h3-cursive-medium;
 	}
 
-	h4,
-	.h4 {
-		font-size: $h4-medium;
+	h4.cursive,
+	.h4.cursive {
+		font-size: $h4-cursive-medium;
 	}
 }

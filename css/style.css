@@ -2062,21 +2062,21 @@ h4.cursive,
 }
 
 @media print, screen and (min-width: 40em) {
-  h1,
-  .h1 {
+  h1.cursive,
+  .h1.cursive {
+    font-size: 70px;
+  }
+  h2.cursive,
+  .h2.cursive {
     font-size: 50px;
   }
-  h2,
-  .h2 {
+  h3.cursive,
+  .h3.cursive {
     font-size: 38px;
   }
-  h3,
-  .h3 {
+  h4.cursive,
+  .h4.cursive {
     font-size: 28px;
-  }
-  h4,
-  .h4 {
-    font-size: 21px;
   }
 }
 
