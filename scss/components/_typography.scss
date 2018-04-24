@@ -1,140 +1,6 @@
 @import '../settings/_settings.scss';
 @import '_fonts.scss';
-
-
-// body {
-// 	-webkit-font-smoothing: antialiased;
-// 	text-rendering: optimizeLegibility;
-// 	-moz-osx-font-smoothing: grayscale;
-// }
-
-// body {
-// 	color: $white;
-// 	font-family: $body-font-family;
-// 	line-height: 1.5;
-// }
-
-// p {
-// 	margin-bottom: $baseline;
-// 	line-height: 1.6;
-// }
-
-a,
-a:visited {
-	color: $white;
-
-	&:hover {
-		text-decoration: none;
-	}
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	line-height: 1.4;
-	margin: 0 0 8px;
-	font-weight: $body-font-weight;
-}
-
-h5,
-h6 {
-	letter-spacing: $h5-h6-letter-spacing;
-	text-transform: uppercase;
-}
-
-.title {
-	font-family: $header-font-family;
-	font-weight: $header-font-weight;
-}
-
-h1.title {
-	font-size: 62px;
-}
-
-p.large {
-	line-height: 1.4;
-	font-size: $p-large-size;
-}
-
-h1 {
-	font-size: $h1-size;
-}
-
-h2 {
-	font-size: $h2-size;
-}
-
-h3 {
-	font-size: $h3-size;
-}
-
-h4 {
-	font-size: $h4-size;
-}
-
-h5 {
-	font-size: $h5-size;
-}
-
-h6 {
-	font-size: $h6-size;
-}
-
-
-@include media($maxWidth-830) {
-	h1 {
-		font-size: $h2-size;
-	}
-
-	h2 {
-		font-size: $h3-size;
-	}
-
-	h3,
-	p.large {
-		font-size: $h4-size;
-	}
-
-	h4 {
-		font-size: $h5-size;
-	}
-
-	h5 {
-		font-size: $h6-size;
-	}
-
-	h6 {
-		font-size: $h6-size;
-	}
-}
-
-
-@include media($maxWidth-500) {
-	h1.title {
-		font-size: 50px;
-	}
-}
-
-h3 {
-	span {
-		display: inline-block;
-	}
-}
-
-.text-shadow {
-	text-shadow: 0 6px 10px rgba(0,0,0,1.0);
-}
-
-.no-shadow {
-	text-shadow: none !important;
-}
-
-// -------------------------------------------------------------
-// |            Below will replace everything above            |
-// -------------------------------------------------------------
+@import '_typography-deprecated.scss';
 
 body {
 	margin: 0;
@@ -220,6 +86,14 @@ h6,
 	font-size: $h6;
 }
 
+h5,
+.h5,
+h6,
+.h6 {
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
 @media print, screen and (min-width: 40em) {
 	h1,
 	.h1 {
@@ -255,6 +129,10 @@ h6,
 // ----------------------------------------------------------------
 // |            .Cursive Typography Sizes (Parisienne)            |
 // ----------------------------------------------------------------
+
+.cursive {
+	font-family: $cursive-font-family;
+}
 
 h1.cursive,
 .h1.cursive {
