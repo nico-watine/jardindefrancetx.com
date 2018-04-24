@@ -1734,7 +1734,7 @@
 	"\/dev.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/dev.php",
 		"oF": 0
 		},
@@ -2506,7 +2506,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/scripts-min-min.js",
+		"oAP": "\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2516,7 +2516,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/src\/fastclick-min.js",
+		"oAP": "\/js\/src\/nav\/fastclick-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2526,7 +2526,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/src\/fixed-responsive-nav-min.js",
+		"oAP": "\/js\/src\/nav\/fixed-responsive-nav-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2536,7 +2536,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/src\/responsive-nav-min.js",
+		"oAP": "\/js\/src\/nav\/responsive-nav-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2546,7 +2546,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/src\/scroll-min.js",
+		"oAP": "\/js\/src\/nav\/scroll-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2566,7 +2566,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/vendor\/jquery\/jquery-min-min.js",
+		"oAP": "\/js\/vendor\/jquery\/1-11-3\/jquery-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2607,7 +2607,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_body.css",
+		"oAP": "\/scss\/css\/_body.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2620,7 +2620,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_footer.css",
+		"oAP": "\/scss\/css\/_footer.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2633,7 +2633,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_header.css",
+		"oAP": "\/scss\/css\/_header.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2646,7 +2646,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_nav.css",
+		"oAP": "\/scss\/css\/_nav.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2659,7 +2659,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_buttons.css",
+		"oAP": "\/scss\/css\/_buttons.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2672,7 +2672,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_extras.css",
+		"oAP": "\/scss\/css\/_extras.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2685,7 +2685,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_fonts.css",
+		"oAP": "\/scss\/css\/_fonts.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2698,7 +2698,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_resets.css",
+		"oAP": "\/scss\/css\/_resets.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2711,7 +2711,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_typography.css",
+		"oAP": "\/scss\/css\/_typography.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2724,7 +2724,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_utility-classes.css",
+		"oAP": "\/scss\/css\/_utility-classes.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2737,7 +2737,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_code-blocks.css",
+		"oAP": "\/scss\/components\/css\/_code-blocks.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2750,7 +2750,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_sticky-footer.css",
+		"oAP": "\/scss\/components\/css\/_sticky-footer.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2763,7 +2763,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_slick-theme.css",
+		"oAP": "\/scss\/components\/css\/_slick-theme.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -2776,21 +2776,10 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_slick.css",
+		"oAP": "\/scss\/components\/css\/_slick.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
-		},
-<<<<<<< HEAD
-	"\/scss\/css\/resets.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/scss\/css\/resets-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/scss\/dev.scss": {
 		"aP": 0,
@@ -2802,13 +2791,10 @@
 		"oA": 0,
 		"oAP": "\/css\/dev.css",
 		"oF": 0,
-		"oS": 1,
+		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/foundation-6\/grid.scss": {
-=======
 	"\/scss\/foundation-6\/_grid.scss": {
->>>>>>> feature/foundation-6-grids/_base
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3141,7 +3127,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_about.css",
+		"oAP": "\/scss\/pages\/css\/_about.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3154,7 +3140,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_conservatory.css",
+		"oAP": "\/scss\/pages\/css\/_conservatory.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3167,7 +3153,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_garden.css",
+		"oAP": "\/scss\/pages\/css\/_garden.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3180,7 +3166,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_hip.css",
+		"oAP": "\/scss\/pages\/css\/_hip.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3193,7 +3179,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_index.css",
+		"oAP": "\/scss\/pages\/css\/_index.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3206,7 +3192,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_interior.css",
+		"oAP": "\/scss\/pages\/css\/_interior.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3219,7 +3205,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_location.css",
+		"oAP": "\/scss\/pages\/css\/_location.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3245,7 +3231,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_splash.css",
+		"oAP": "\/scss\/pages\/css\/_splash.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3258,7 +3244,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_development-styles.css",
+		"oAP": "\/scss\/css\/_development-styles.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3271,7 +3257,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_normalize.css",
+		"oAP": "\/scss\/css\/_normalize.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3284,7 +3270,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/css\/_settings.css",
+		"oAP": "\/scss\/css\/_settings.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
@@ -3382,7 +3368,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -3793,7 +3779,7 @@
 			},
 		"array-callback-return": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowImplicit': false}"
 			},
 		"array-element-newline": {
 			"active": 0,
@@ -3957,7 +3943,7 @@
 			},
 		"indent": {
 			"active": 0,
-			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1, }"
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1 }"
 			},
 		"init-declarations": {
 			"active": 0,
@@ -4184,8 +4170,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false}"
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -4204,7 +4190,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -4412,7 +4398,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -4433,14 +4419,14 @@
 			},
 		"no-sync": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowAtRootLevel': false}"
 			},
 		"no-tabs": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -4457,7 +4443,7 @@
 			},
 		"no-trailing-spaces": {
 			"active": 0,
-			"optionString": "{'skipBlankLines': false}"
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
 			},
 		"no-undef": {
 			"active": 1,
@@ -4473,7 +4459,7 @@
 			},
 		"no-underscore-dangle": {
 			"active": 0,
-			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
 			},
 		"no-unexpected-multiline": {
 			"active": 1,
@@ -4496,12 +4482,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -4509,18 +4495,18 @@
 			},
 		"no-unused-vars": {
 			"active": 1,
-			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
 			},
 		"no-use-before-define": {
 			"active": 0,
-			"optionString": "{'functions': true, 'classes': true}"
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
 			},
 		"no-useless-call": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -4577,7 +4563,7 @@
 			},
 		"object-property-newline": {
 			"active": 0,
-			"optionString": "{'allowMultiplePropertiesPerLine': true}"
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
 			},
 		"object-shorthand": {
 			"active": 0,
@@ -4645,7 +4631,7 @@
 			},
 		"quotes": {
 			"active": 0,
-			"optionString": "'double', 'avoid-escape'"
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
 			},
 		"radix": {
 			"active": 0,
@@ -4657,10 +4643,10 @@
 			},
 		"require-jsdoc": {
 			"active": 0,
-			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -4773,7 +4759,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/jardin-de-france.local",
+	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -5139,19 +5125,19 @@
 		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"outputStyle": 3,
+		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.gif",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -5175,7 +5161,7 @@
 		"useUnixNewlines": 0
 		},
 	"languageDefaultsJPG": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.jpg",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -5187,13 +5173,13 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "..\/",
+		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 1,
+		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
@@ -5210,8 +5196,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
 		"shouldRunCacheBuster": 0
 		},
@@ -5222,8 +5208,8 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -5235,7 +5221,7 @@
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -5255,7 +5241,7 @@
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.*",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -5264,7 +5250,7 @@
 		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -5294,7 +5280,7 @@
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 1
@@ -5319,7 +5305,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"importCSS": 0,
@@ -5329,7 +5315,7 @@
 		"shouldRunBless": 0
 		},
 	"languageDefaultsSVG": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.svg",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -5343,13 +5329,13 @@
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
 		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
-		"moduleType": 0,
+		"moduleType": 2,
 		"noImplicitAny": 0,
 		"preserveConstEnums": 0,
 		"removeComments": 0,
@@ -5360,7 +5346,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/dist",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
@@ -5486,7 +5472,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
