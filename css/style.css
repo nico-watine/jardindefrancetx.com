@@ -335,18 +335,6 @@ template {
   display: none;
 }
 
-body {
-  margin: 0;
-  padding: 0;
-  background: #fefefe;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: normal;
-  line-height: 1.5;
-  color: #0a0a0a;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 img {
   display: inline-block;
   vertical-align: middle;
@@ -1804,14 +1792,6 @@ a.button:hover {
 html,
 body {
   height: 100%;
-}
-
-img {
-  display: inline-block;
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
-  -ms-interpolation-mode: bicubic;
 }
 
 ::-moz-selection {
