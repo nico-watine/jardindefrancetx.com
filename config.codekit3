@@ -1731,13 +1731,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/dev.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/dev.php",
-		"oF": 0
-		},
 	"\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -2779,19 +2772,6 @@
 		"oAP": "\/scss\/components\/css\/_slick.css",
 		"oF": 0,
 		"oS": 1,
-		"uL": 1
-		},
-	"\/scss\/dev.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/dev.css",
-		"oF": 0,
-		"oS": 0,
 		"uL": 1
 		},
 	"\/scss\/foundation-6\/_grid.scss": {
