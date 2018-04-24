@@ -2774,6 +2774,16 @@
 		"oS": 1,
 		"uL": 1
 		},
+	"\/scss\/css\/resets.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/scss\/css\/resets-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/scss\/foundation-6\/grid.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -2783,6 +2793,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/css\/grid.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
+	"\/scss\/foundation-6\/resets.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/scss\/css\/resets.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
