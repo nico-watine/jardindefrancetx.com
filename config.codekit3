@@ -2781,6 +2781,7 @@
 		"oS": 1,
 		"uL": 1
 		},
+<<<<<<< HEAD
 	"\/scss\/css\/resets.css": {
 		"aP": 0,
 		"bl": 0,
@@ -2805,6 +2806,9 @@
 		"uL": 1
 		},
 	"\/scss\/foundation-6\/grid.scss": {
+=======
+	"\/scss\/foundation-6\/_grid.scss": {
+>>>>>>> feature/foundation-6-grids/_base
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2812,12 +2816,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/css\/grid.css",
+		"oAP": "\/scss\/css\/_grid.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/foundation-6\/resets.scss": {
+	"\/scss\/foundation-6\/_resets.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2825,7 +2829,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/scss\/css\/resets.css",
+		"oAP": "\/scss\/css\/_resets.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
