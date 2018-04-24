@@ -2487,6 +2487,13 @@
 		"oAP": "\/img\/social-media\/milieu\/spring-2017-my-houston.pdf",
 		"oF": 0
 		},
+	"\/index-2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index-2.php",
+		"oF": 0
+		},
 	"\/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -2800,6 +2807,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/index-2.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/index-2.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/neat\/_grid-settings.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -3097,6 +3117,19 @@
 		"oAP": "\/scss\/neat\/css\/_visual-grid.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/scss\/pages\/index-2\/_index-2.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_index-2.css",
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/scss\/pages\/index\/_about.scss": {
