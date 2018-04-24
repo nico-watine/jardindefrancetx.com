@@ -2774,15 +2774,18 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/foundation-6\/grid.css": {
+	"\/scss\/foundation-6\/grid.scss": {
 		"aP": 0,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
-		"oA": 2,
-		"oAP": "\/scss\/foundation-6\/grid-min.css",
+		"oA": 0,
+		"oAP": "\/scss\/css\/grid.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 1,
+		"uL": 1
 		},
 	"\/scss\/neat\/_grid-settings.scss": {
 		"aP": 0,
