@@ -1518,7 +1518,8 @@ h6,
 
 h1.cursive,
 .h1.cursive {
-  font-size: 70px; }
+  font-size: 70px;
+  letter-spacing: -.2px; }
 
 h2.cursive,
 .h2.cursive {
