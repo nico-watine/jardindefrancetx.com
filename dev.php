@@ -12,7 +12,7 @@
 	<link href="url" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
-	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
+	<link href="<?php autoVer('/css/dev.css'); ?>" rel="stylesheet">
 		
 </head>
 <body>
