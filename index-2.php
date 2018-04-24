@@ -52,7 +52,7 @@
 </head>
 <body id="index-2">
 
-<section class="splash bgvid-container" id="welcome">
+<!-- <section class="splash bgvid-container" id="welcome">
 	<div class="verbiage">
 		<h1 class="title">Jardin de France</h1>
 		<h2 class="slogan">French Antiques and Plants for the <span class="inline-block">Home &amp; Patio</span></h2>
@@ -64,7 +64,7 @@
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video>
-</section>
+</section> -->
 
 </body>
 </html>
