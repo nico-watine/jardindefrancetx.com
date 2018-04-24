@@ -1,30 +1,28 @@
 // NORMALIZE.CSS
-@import "settings/_normalize.scss";
-@import "foundation-6/_foundation-6.scss";
+@import 'settings/_normalize.scss';
+@import 'foundation-6/_foundation-6.scss';
 
 // BOURBON-NEAT FILES
-@import "neat/_grid-settings.scss";
-@import "neat/_neat.scss";
+@import 'neat/_grid-settings.scss';
+@import 'neat/_neat.scss';
 
 // STYLE COMPONENTS
-@import "components/_buttons.scss";
-@import "components/_extras.scss";
-@import "components/_resets.scss";
-@import "components/_typography.scss";
-@import "components/_utility-classes.scss";
-@import "components/slider/_slick.scss";
-@import "components/slider/_slick-theme.scss";
+@import 'components/_typography.scss';
+@import 'components/_resets.scss';
+@import 'components/_utility-classes.scss';
+@import 'components/_buttons.scss';
+@import 'components/slider/_slick.scss';
+@import 'components/slider/_slick-theme.scss';
 
 // STANDARD PAGE BLOCKS
-@import "blocks/_body.scss";
-@import "blocks/_footer.scss";
-@import "blocks/_header.scss";
-@import "blocks/_nav.scss"; 
+@import 'blocks/_body.scss';
+@import 'blocks/_footer.scss';
+@import 'blocks/_header.scss';
+@import 'blocks/_nav.scss';
 
 // INDIVIDUAL PAGE STYLES
-@import "pages/index/_index.scss";
+@import 'pages/index/_index.scss';
 
 
 // LASTLY IMPORT DEVELOPMENT STYLES, TO BE REMOVED UPON PRODUCTION
 // @import "settings/_development-styles.scss";
-

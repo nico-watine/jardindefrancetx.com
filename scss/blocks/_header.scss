@@ -1,8 +1,8 @@
-@import "../settings/_settings.scss";
+@import '../settings/_settings.scss';
 
 header {
-	background: #697B99;
-	box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.20), 0px 6px 10px 0px rgba(0,0,0,0.30);
+	background: #697b99;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.20), 0 6px 10px 0 rgba(0,0,0,.30);
 	height: 55px;
 	width: 100%;
 	position: fixed;
@@ -24,19 +24,10 @@ header {
 	}
 
 	h1 {
-		text-shadow: 0px 6px 10px rgba(0,0,0,0.30);
+		text-shadow: 0 6px 10px rgba(0,0,0,.30);
 		margin: 0;
 		top: 0;
 		left: 28px;
 		z-index: 55;
 	}
 }
-
-
-
-
-
-
-
-
-
