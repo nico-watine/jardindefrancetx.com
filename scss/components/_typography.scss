@@ -2,22 +2,22 @@
 @import "_fonts.scss";
 
 
-body {
-	-webkit-font-smoothing: antialiased;
-	text-rendering: optimizeLegibility;
-	-moz-osx-font-smoothing: grayscale;
-}
+// body {
+// 	-webkit-font-smoothing: antialiased;
+// 	text-rendering: optimizeLegibility;
+// 	-moz-osx-font-smoothing: grayscale;
+// }
 
-body {
-	color: $white;
-	font-family: $body-font-family;
-	line-height: 1.5;
-}
+// body {
+// 	color: $white;
+// 	font-family: $body-font-family;
+// 	line-height: 1.5;
+// }
 
-p {
-	margin-bottom: $baseline;
-	line-height: 1.6;
-}
+// p {
+// 	margin-bottom: $baseline;
+// 	line-height: 1.6;
+// }
 
 a,
 a:visited {
@@ -131,6 +131,54 @@ h3 {
 
 .no-shadow {
 	text-shadow: none !important;
+}
+
+// -------------------------------------------------------------
+// |            Below will replace everything above            |
+// -------------------------------------------------------------
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #fefefe;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #0a0a0a;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+// -------------------------------------------------------
+// |            Basic Typography Class Styles            |
+// -------------------------------------------------------
+
+p {
+	margin: 0 0 1rem;
+	font-size: $p;
+	line-height: 1.6;
+	text-rendering: optimizeLegibility;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	margin: 0 0 8px;
+	line-height: 1.4;
+	font-style: normal;
+	font-weight: normal;
+	color: inherit;
+	text-rendering: optimizeLegibility;
 }
 
 // -------------------------------------------------------

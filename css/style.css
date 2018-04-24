@@ -378,13 +378,6 @@ td {
   padding: 0;
 }
 
-p {
-  margin-bottom: 1rem;
-  font-size: inherit;
-  line-height: 1.6;
-  text-rendering: optimizeLegibility;
-}
-
 em,
 i {
   font-style: italic;
@@ -1841,23 +1834,6 @@ img {
   font-weight: 400;
 }
 
-body {
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-body {
-  color: #fefefe;
-  font-family: "Open Sans", sans-serif;
-  line-height: 1.5;
-}
-
-p {
-  margin-bottom: 22px;
-  line-height: 1.6;
-}
-
 a,
 a:visited {
   color: #fefefe;
@@ -1961,6 +1937,46 @@ h3 span {
 
 .no-shadow {
   text-shadow: none !important;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fefefe;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #0a0a0a;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  margin: 0 0 1rem;
+  font-size: 16px;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0 0 8px;
+  line-height: 1.4;
+  font-style: normal;
+  font-weight: normal;
+  color: inherit;
+  text-rendering: optimizeLegibility;
 }
 
 p,
