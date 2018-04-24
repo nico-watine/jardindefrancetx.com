@@ -1844,23 +1844,6 @@ a:visited:hover {
   text-decoration: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  line-height: 1.4;
-  margin: 0 0 8px;
-  font-weight: 600;
-}
-
-h5,
-h6 {
-  letter-spacing: 1px;
-  text-transform: uppercase;
-}
-
 .title {
   font-family: "Parisienne", cursive;
   font-weight: 400;
@@ -1868,57 +1851,6 @@ h6 {
 
 h1.title {
   font-size: 62px;
-}
-
-p.large {
-  line-height: 1.4;
-  font-size: 26px;
-}
-
-h1 {
-  font-size: 50px;
-}
-
-h2 {
-  font-size: 38px;
-}
-
-h3 {
-  font-size: 28px;
-}
-
-h4 {
-  font-size: 21px;
-}
-
-h5 {
-  font-size: 16px;
-}
-
-h6 {
-  font-size: 14px;
-}
-
-@media screen and (max-width: 830px) {
-  h1 {
-    font-size: 38px;
-  }
-  h2 {
-    font-size: 28px;
-  }
-  h3,
-  p.large {
-    font-size: 21px;
-  }
-  h4 {
-    font-size: 16px;
-  }
-  h5 {
-    font-size: 14px;
-  }
-  h6 {
-    font-size: 14px;
-  }
 }
 
 @media screen and (max-width: 500px) {

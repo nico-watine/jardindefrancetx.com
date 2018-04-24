@@ -10,22 +10,22 @@ a:visited {
 	}
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	line-height: 1.4;
-	margin: 0 0 8px;
-	font-weight: $body-font-weight;
-}
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// h6 {
+// 	line-height: 1.4;
+// 	margin: 0 0 8px;
+// 	font-weight: $body-font-weight;
+// }
 
-h5,
-h6 {
-	letter-spacing: $h5-h6-letter-spacing;
-	text-transform: uppercase;
-}
+// h5,
+// h6 {
+// 	letter-spacing: $h5-h6-letter-spacing;
+// 	text-transform: uppercase;
+// }
 
 .title {
 	font-family: $header-font-family;
@@ -36,62 +36,62 @@ h1.title {
 	font-size: 62px;
 }
 
-p.large {
-	line-height: 1.4;
-	font-size: $p-large-size;
-}
+// p.large {
+// 	line-height: 1.4;
+// 	font-size: $p-large-size;
+// }
 
-h1 {
-	font-size: $h1-size;
-}
+// h1 {
+// 	font-size: $h1-size;
+// }
 
-h2 {
-	font-size: $h2-size;
-}
+// h2 {
+// 	font-size: $h2-size;
+// }
 
-h3 {
-	font-size: $h3-size;
-}
+// h3 {
+// 	font-size: $h3-size;
+// }
 
-h4 {
-	font-size: $h4-size;
-}
+// h4 {
+// 	font-size: $h4-size;
+// }
 
-h5 {
-	font-size: $h5-size;
-}
+// h5 {
+// 	font-size: $h5-size;
+// }
 
-h6 {
-	font-size: $h6-size;
-}
+// h6 {
+// 	font-size: $h6-size;
+// }
 
 
-@include media($maxWidth-830) {
-	h1 {
-		font-size: $h2-size;
-	}
+// @include media($maxWidth-830) {
+// 	h1 {
+// 		font-size: $h2-size;
+// 	}
 
-	h2 {
-		font-size: $h3-size;
-	}
+// 	h2 {
+// 		font-size: $h3-size;
+// 	}
 
-	h3,
-	p.large {
-		font-size: $h4-size;
-	}
+// 	h3,
+// 	p.large {
+// 		font-size: $h4-size;
+// 	}
 
-	h4 {
-		font-size: $h5-size;
-	}
+// 	h4 {
+// 		font-size: $h5-size;
+// 	}
 
-	h5 {
-		font-size: $h6-size;
-	}
+// 	h5 {
+// 		font-size: $h6-size;
+// 	}
 
-	h6 {
-		font-size: $h6-size;
-	}
-}
+// 	h6 {
+// 		font-size: $h6-size;
+// 	}
+// }
 
 
 @include media($maxWidth-500) {
