@@ -2014,6 +2014,14 @@ h6,
   font-size: 14px;
 }
 
+h5,
+.h5,
+h6,
+.h6 {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
 @media print, screen and (min-width: 40em) {
   h1,
   .h1 {
