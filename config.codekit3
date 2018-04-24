@@ -2791,6 +2791,19 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/scss\/dev.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/dev.css",
+		"oF": 0,
+		"oS": 1,
+		"uL": 1
+		},
 	"\/scss\/foundation-6\/grid.scss": {
 		"aP": 0,
 		"bl": 0,
