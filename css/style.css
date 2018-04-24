@@ -1963,50 +1963,63 @@ h3 span {
   text-shadow: none !important;
 }
 
+p,
 .p {
   font-size: 16px;
 }
 
+h1,
 .h1 {
   font-size: 50px;
 }
 
+h2,
 .h2 {
   font-size: 38px;
 }
 
+h3,
 .h3 {
   font-size: 28px;
 }
 
+h4,
 .h4 {
   font-size: 21px;
 }
 
+h5,
 .h5 {
   font-size: 16px;
 }
 
+h6,
 .h6 {
   font-size: 14px;
 }
 
-@media screen and (max-width: medium) {
+@media print, screen and (min-width: 40em) {
+  h1,
   .h1 {
     font-size: 50px;
   }
+  h2,
   .h2 {
     font-size: 38px;
   }
+  h3,
   .h3 {
     font-size: 28px;
   }
+  h4,
   .h4 {
     font-size: 21px;
   }
+  h5,
   .h5 {
     font-size: 16px;
   }
+  h6,
   .h6 {
     font-size: 14px;
   }
