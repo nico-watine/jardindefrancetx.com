@@ -17,7 +17,13 @@
 </head>
 <body>
 
-
+<div class="row">
+	<br>
+	<br>
+	<div class="large-8 columns large-push-2 end">
+		<h3 style="font-family: Arial;font-size: 28px;color: #0A0A0A;text-align: center;line-height: 1.4; font-weight: 400;">There is an even larger selection of indoor plants available at our online plant shop.</h3>
+	</div>
+</div>
 
 
 
