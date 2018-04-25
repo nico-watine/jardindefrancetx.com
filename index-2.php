@@ -52,6 +52,27 @@
 </head>
 <body id="index-2">
 
+<header>
+	<div class="outer-container">
+		<div class="row">
+			<div class="logo">
+				<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+				<a href="#welcome" data-scroll><h1 class="title">JdF</h1></a>
+			</div>
+			<nav class="nav-collapse">
+				<ul>
+					<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
+					<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
+					<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
+					<li class="menu-item"><a href="#interiorGallery" data-scroll>The Interior Gallery</a></li>
+					<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
+					<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</header>
+
 <section class="splash bgvid-container" id="welcome">
 	<div class="prose white flex absolute">
 		<div class="row text-center">
@@ -70,7 +91,7 @@
 	</video>
 </section>
 
-<section class="gardens relative" id="gardens-2">
+<section class="gardens relative" id="gardens">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Gardens</h2>
 		<h4>Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
@@ -78,7 +99,7 @@
 	<img src="/img/index-2/gardens/garden-1.jpg" alt="">
 </section>
 
-<section class="conservatory relative" id="conservatory-2">
+<section class="conservatory relative" id="conservatory">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Conservatory</h2>
 		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
@@ -98,7 +119,7 @@
 	</div>
 </section>
 
-<section class="interiorGallery relative">
+<section class="interiorGallery relative" id="interiorGallery">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Interior Gallery</h2>
 		<h4>In addition to our plants and garden items, we also have fine French Country antiques.</h4>
@@ -106,7 +127,7 @@
 	<img src="/img/index-2/interiorGallery/interiorGallery.jpg" alt="">
 </section>
 
-<section class="about" style="padding: 40px 0;">
+<section class="about" style="padding: 40px 0;" id="about">
 	<div class="row">
 		<div class="columns">
 			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
@@ -122,7 +143,7 @@
 	</div>
 </section>
 
-<section class="locationBanner" style="padding: 90px 0;">
+<section class="locationBanner" style="padding: 90px 0;" id="location">
 	<div class="row">
 		<div class="medium-11 columns medium-push-1">
 			<div class="prose white" style="max-width: 370px; width: 100%;">
@@ -151,6 +172,10 @@
 		<a class="h6" href="#">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 </body>
 </html>

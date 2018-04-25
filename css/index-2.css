@@ -36,7 +36,7 @@
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%); }
 
-#index-2 .gardens#gardens-2 .scrim {
+#index-2 .gardens#gardens .scrim {
   width: 100%;
   bottom: 0;
   background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#000));
@@ -44,15 +44,15 @@
   z-index: 10;
   padding: 40px 20px; }
 
-#index-2 .gardens#gardens-2 h4 {
+#index-2 .gardens#gardens h4 {
   max-width: 670px;
   width: 100%;
   margin: 0 auto 8px; }
 
-#index-2 .gardens#gardens-2 img {
+#index-2 .gardens#gardens img {
   width: 100%; }
 
-#index-2 .conservatory#conservatory-2 .scrim {
+#index-2 .conservatory#conservatory .scrim {
   width: 100%;
   bottom: 0;
   background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#000));
@@ -60,12 +60,12 @@
   z-index: 10;
   padding: 40px 20px; }
 
-#index-2 .conservatory#conservatory-2 h4 {
+#index-2 .conservatory#conservatory h4 {
   max-width: 570px;
   width: 100%;
   margin: 0 auto 8px; }
 
-#index-2 .conservatory#conservatory-2 img {
+#index-2 .conservatory#conservatory img {
   width: 100%; }
 
 .hipBanner {
