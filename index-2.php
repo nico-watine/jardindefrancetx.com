@@ -57,7 +57,7 @@
 		<div class="row text-center">
 			<h1 class="cursive" style="text-shadow: 0 2px 4px #000;margin-bottom: 32px;">Jardin de France</h1>
 			<h2 class="h3" style="text-shadow: 0 2px 4px #000;max-width: 540px; width: 100%; margin: 0 auto 16px;"><strong>French Antiques and Plants for the Home &amp; Patio</strong></h2>
-			<h3 class="h4" style="text-shadow: 0 2px 4px #000;max-width: 570px; width: 100%; margin: 0 auto;">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design</h3>
+			<h3 class="h4" style="text-shadow: 0 2px 4px #000;max-width: 570px; width: 100%; margin: 0 auto 32px;">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design</h3>
 			<a href="#gardens" class="button" data-scroll>Come Visit Us!</a>
 		</div>
 	</div>
