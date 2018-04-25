@@ -86,5 +86,8 @@
 	<img src="/img/index-2/conservatory/conservatory-1.jpg" alt="">
 </section>
 
+<section class="hipBanner">
+	
+</section>
 </body>
 </html>
