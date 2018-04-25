@@ -114,8 +114,8 @@
 				<p class="h4">Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing patrimoine.</p>
 			</div>
 			<div class="bioPhoto text-center">
-				<img class="margin-X" src="/img/index-2/about/nicolas-watine.png" alt="">
-				<img class="margin-X" src="/img/index-2/about/patrice-watine.png" alt="">
+				<img class="margin-XY" src="/img/index-2/about/nicolas-watine.png" alt="">
+				<img class="margin-XY" src="/img/index-2/about/patrice-watine.png" alt="">
 			</div>
 		</div>
 	</div>
