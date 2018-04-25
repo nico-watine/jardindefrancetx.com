@@ -143,7 +143,7 @@
 	</div>
 </section>
 
-<section class="locationBanner" style="padding: 90px 0;">
+<section class="locationBanner" style="padding: 90px 0;" id="location">
 	<div class="row">
 		<div class="medium-11 columns medium-push-1">
 			<div class="prose white" style="max-width: 370px; width: 100%;">
