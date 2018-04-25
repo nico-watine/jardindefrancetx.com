@@ -87,7 +87,14 @@
 </section>
 
 <section class="hipBanner">
-	
+	<div class="row">
+		<div class="columns">
+			<div class="prose text-center">
+				<p class="h3">There is an even larger selection of indoor plants available at our online plant shop.</p>
+			</div>	
+		</div>
+	</div>
 </section>
+
 </body>
 </html>

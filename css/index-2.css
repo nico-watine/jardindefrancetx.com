@@ -67,3 +67,9 @@
 
 #index-2 .conservatory#conservatory-2 img {
   width: 100%; }
+
+.hipBanner {
+  padding: 60px 0; }
+  .hipBanner .prose {
+    max-width: 770px;
+    margin: 0 auto; }
