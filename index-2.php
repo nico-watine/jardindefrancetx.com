@@ -130,9 +130,9 @@
 				<p class="h4" style="margin-bottom: 16px;">We are conveniently located 2 blocks south of Washington Ave &amp; Durham Dr</p>
 				<p class="h3" style="margin-bottom: 24px;"><strong>Look for the French flag!</strong></p>
 				<div class="contactInfo" style="padding: 10px; border: 3px solid #fff;">
-					<address class="h4"><strong>4819 Blossom St. <br>
+					<address class="h4"><strong><a href="#">4819 Blossom St. <br>
 					Houston, TX <br>
-					77007</strong></address>
+					77007</a></strong></address>
 					<p class="h4"><strong><a href="#">Shop@JDFTX.com</a></strong></p>
 					<span class="h4"><strong>832-651-3136</strong></span>
 				</div>
