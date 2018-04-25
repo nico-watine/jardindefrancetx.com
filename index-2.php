@@ -127,6 +127,8 @@
 		<div class="medium-11 columns medium-push-1">
 			<div class="prose white" style="max-width: 370px; width: 100%;">
 				<h2 class="h1 cursive">Location</h2>
+				<p class="h4">We are conveniently located 2 blocks south of Washington Ave &amp; Durham Dr</p>
+				<p class="h3"><strong>Look for the French flag!</strong></p>
 			</div>
 		</div>
 	</div>
