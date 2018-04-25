@@ -78,5 +78,13 @@
 	<img src="/img/index-2/gardens/garden-1.jpg" alt="">
 </section>
 
+<section class="conservatory relative" id="conservatory-2">
+	<div class="scrim absolute text-center white">
+		<h2 class="h1 cursive">The Conservatory</h2>
+		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
+	</div>
+	<img src="/img/index-2/conservatory/conservatory-1.jpg" alt="">
+</section>
+
 </body>
 </html>
