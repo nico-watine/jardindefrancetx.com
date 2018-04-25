@@ -2545,6 +2545,39 @@
 		"oAP": "\/img\/index\/splash\/splash.webm",
 		"oF": 0
 		},
+	"\/img\/sharing\/facebook.png": {
+		"ft": 32768,
+		"iS": 1843,
+		"oA": 1,
+		"oAP": "\/img\/sharing\/facebook.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sharing\/instagram.png": {
+		"ft": 32768,
+		"iS": 2439,
+		"oA": 1,
+		"oAP": "\/img\/sharing\/instagram.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/sharing\/pinterest.png": {
+		"ft": 32768,
+		"iS": 3566,
+		"oA": 1,
+		"oAP": "\/img\/sharing\/pinterest.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/social-media\/milieu\/og-image.png": {
 		"ft": 32768,
 		"iS": 631813,

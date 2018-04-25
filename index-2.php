@@ -142,7 +142,12 @@
 </section>
 
 <footer style="padding: 40px 0;">
-	
+	<div class="socialMediaLinks text-center">
+		<a href="#"><img src="/img/sharing/instagram.png" alt=""></a>
+		<a class="margin-XY" href="#"><img src="/img/sharing/facebook.png" alt=""></a>
+		<a href="#"><img src="/img/sharing/pinterest.png" alt=""></a>
+	</div>
+
 </footer>
 
 </body>
