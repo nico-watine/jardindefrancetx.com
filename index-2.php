@@ -122,7 +122,7 @@
 	</div>
 </section>
 
-<section class="location">
+<section class="locationBanner">
 	
 </section>
 
