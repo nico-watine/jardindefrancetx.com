@@ -141,5 +141,16 @@
 	</div>
 </section>
 
+<footer style="padding: 40px 0;">
+	<div class="socialMediaLinks text-center margin-Y">
+		<a href="#"><img src="/img/sharing/instagram.png" alt=""></a>
+		<a class="margin-X" href="#"><img src="/img/sharing/facebook.png" alt=""></a>
+		<a href="#"><img src="/img/sharing/pinterest.png" alt=""></a>
+	</div>
+	<div class="colophon text-center padding-Y">
+		<a class="h6" href="#">A <span>Studio N</span> Creation</a>
+	</div>
+</footer>
+
 </body>
 </html>
