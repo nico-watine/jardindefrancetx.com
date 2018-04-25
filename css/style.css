@@ -1725,6 +1725,58 @@ a.button {
   .slick-next:before {
     content: url("/img/assets/slick/arrow-next-small.png"); } }
 
+.outer-container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto; }
+  .outer-container::after {
+    clear: both;
+    content: "";
+    display: block; }
+
+.row {
+  display: block; }
+  .row::after {
+    clear: both;
+    content: "";
+    display: block; }
+
+.padding {
+  padding: 0 16px; }
+
+.inline-block {
+  display: inline-block; }
+
+.underline {
+  text-decoration: underline; }
+
+.margin-bottom {
+  margin-bottom: 20px; }
+
+.padding-0 {
+  padding: 0; }
+
+.padding-X {
+  padding: 0 15px; }
+
+.padding-Y {
+  padding: 15px 0; }
+
+.padding-XY {
+  padding: 15px; }
+
+.margin-0 {
+  margin: 0; }
+
+.margin-X {
+  margin: 0 15px; }
+
+.margin-Y {
+  margin: 15px 0; }
+
+.margin-XY {
+  margin: 15px; }
+
 body {
   background: url("/img/assets/backgrounds/linen.jpg") repeat; }
 
