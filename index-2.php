@@ -141,5 +141,9 @@
 	</div>
 </section>
 
+<footer style="padding: 40px 0;">
+	
+</footer>
+
 </body>
 </html>
