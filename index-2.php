@@ -122,8 +122,14 @@
 	</div>
 </section>
 
-<section class="locationBanner">
-	
+<section class="locationBanner" style="padding: 90px 0;">
+	<div class="row">
+		<div class="medium-11 columns medium-push-1">
+			<div class="prose white" style="max-width: 370px; width: 100%;">
+				<h2 class="h1 cursive">Location</h2>
+			</div>
+		</div>
+	</div>
 </section>
 
 </body>
