@@ -70,5 +70,27 @@
 	</video>
 </section>
 
+<section class="gardens" id="gardens">
+		<div class="section-content">
+			<div class="outer-container">
+				<div class="row padding">
+					<h1 class="title">The Gardens</h1>
+					<h3>Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h3>
+				</div>
+			</div>
+		</div>
+		<div class="section-bg slick-slider">
+			<div class="slide-1">
+				<img src="/img/index/gardens/default/garden-1.jpg" alt="Jardin de France Fountain Garden">
+			</div>
+			<div class="slide-2">
+				<img src="/img/index/gardens/default/garden-2.jpg" alt="Jardin de France Patio Garden">
+			</div>
+			<div class="slide-3">
+				<img src="/img/index/gardens/default/garden-3.jpg" alt="Jardin de France Entrance Path">
+			</div>
+		</div>
+</section>
+
 </body>
 </html>
