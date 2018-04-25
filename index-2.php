@@ -64,7 +64,7 @@
 
 	<div class="bgScrim"></div>
 
-	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="bgvid">
+	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="backgroundVideo">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video>
