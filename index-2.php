@@ -127,7 +127,7 @@
 	<img src="/img/index-2/interiorGallery/interiorGallery.jpg" alt="">
 </section>
 
-<section class="about" style="padding: 40px 0;">
+<section class="about" style="padding: 40px 0;" id="about">
 	<div class="row">
 		<div class="columns">
 			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
