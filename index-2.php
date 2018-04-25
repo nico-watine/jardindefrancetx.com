@@ -71,7 +71,7 @@
 </section>
 
 <section class="gardens relative" id="gardens-2">
-	<div class="prose absolute text-center white">
+	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Gardens</h2>
 		<h4 style="max-width: 670px; width: 100%; margin: 0 auto;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
 	</div>

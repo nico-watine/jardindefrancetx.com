@@ -19,13 +19,13 @@
   top: 0;
   left: 0; }
 
-#index-2 .gardens#gardens-2 .prose {
+#index-2 .gardens#gardens-2 .scrim {
   width: 100%;
   bottom: 0;
   background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#000));
   background-image: linear-gradient(-180deg, transparent 0%, #000 100%);
   z-index: 10;
-  padding-bottom: 40px; }
+  padding: 40px 0; }
 
 #index-2 .gardens#gardens-2 img {
   width: 100%; }
