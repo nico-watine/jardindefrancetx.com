@@ -148,7 +148,7 @@
 		<a href="#"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
 	<div class="colophon text-center padding-Y">
-		<a class="h6" href="#">A STUDIO N CREATION</a>
+		<a class="h6" href="#">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
 
