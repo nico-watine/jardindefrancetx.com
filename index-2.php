@@ -122,5 +122,9 @@
 	</div>
 </section>
 
+<section class="location">
+	
+</section>
+
 </body>
 </html>
