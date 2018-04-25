@@ -91,7 +91,7 @@
 	</video>
 </section>
 
-<section class="gardens relative" id="gardens-2">
+<section class="gardens relative" id="gardens">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Gardens</h2>
 		<h4>Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
