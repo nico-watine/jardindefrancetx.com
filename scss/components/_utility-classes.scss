@@ -1,27 +1,59 @@
-@import "../settings/_settings.scss";
+@import '../settings/_settings.scss';
 
 
-.outer-container {
-	@include outer-container;
-}
-
-.row {
-	@include row;
-}
-
-.padding {
-	padding: 0 16px;
-}
+// ---------------------------------
+// |            Display            |
+// ---------------------------------
 
 .inline-block {
 	display: inline-block;
 }
 
-.underline {
-	text-decoration: underline;
+.block {
+	display: block;
 }
 
-.margin-bottom {
-	margin-bottom: 20px;
+.flex {
+	display: flex;
 }
 
+// ---------------------------------------------------------------------- //
+
+
+// ------------------------------------
+// |            box-shadow            |
+// ------------------------------------
+
+.boxShadow-1 {
+	box-shadow: $z-1;
+}
+
+.boxShadow-2 {
+	box-shadow: $z-2;
+}
+
+.boxShadow-3 {
+	box-shadow: $z-3;
+}
+
+.boxShadow-4 {
+	box-shadow: $z-4;
+}
+
+.boxShadow-5 {
+	box-shadow: $z-5;
+}
+
+// ---------------------------------------------------------------------- //
+
+// ----------------------------------
+// |            Position            |
+// ----------------------------------
+
+.relative {
+	position: relative;
+}
+
+.absolute {
+	position: absolute;
+}

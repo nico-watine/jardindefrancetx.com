@@ -1547,6 +1547,12 @@ h4.cursive,
   .h4.cursive {
     font-size: 28px; } }
 
+.white {
+  color: #fefefe; }
+
+.black {
+  color: #0a0a0a; }
+
 html,
 body {
   height: 100%; }
@@ -1559,33 +1565,35 @@ body {
   background: #b3d4fc;
   text-shadow: none; }
 
-.outer-container {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto; }
-  .outer-container::after {
-    clear: both;
-    content: "";
-    display: block; }
-
-.row {
-  display: block; }
-  .row::after {
-    clear: both;
-    content: "";
-    display: block; }
-
-.padding {
-  padding: 0 16px; }
-
 .inline-block {
   display: inline-block; }
 
-.underline {
-  text-decoration: underline; }
+.block {
+  display: block; }
 
-.margin-bottom {
-  margin-bottom: 20px; }
+.flex {
+  display: flex; }
+
+.boxShadow-1 {
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37); }
+
+.boxShadow-2 {
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
+
+.boxShadow-3 {
+  box-shadow: 0 11px 7px 0 rgba(0, 0, 0, 0.19), 0 13px 25px 0 rgba(0, 0, 0, 0.3); }
+
+.boxShadow-4 {
+  box-shadow: 0 14px 12px 0 rgba(0, 0, 0, 0.17), 0 20px 40px 0 rgba(0, 0, 0, 0.3); }
+
+.boxShadow-5 {
+  box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3); }
+
+.relative {
+  position: relative; }
+
+.absolute {
+  position: absolute; }
 
 a.button {
   border: none;

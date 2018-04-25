@@ -1,0 +1,20 @@
+#index-2 {
+	.splash {
+		.prose {
+			z-index: 10;
+			width: 100%;
+			height: 100%;
+			justify-content: center;
+			flex-direction: column;
+		}
+		.bgScrim {
+			background-image: radial-gradient(48% 195%, rgba(105,123,153,.40) 57%, rgba(0,0,0,.30) 100%);
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			z-index: -1;
+			top: 0;
+			left: 0;
+		}
+	}
+}
