@@ -1783,42 +1783,6 @@ body {
 .linen-bg {
   background: url("/img/assets/backgrounds/linen.jpg") repeat; }
 
-footer {
-  text-align: center;
-  padding: 20px 0 50px; }
-
-ul.share-buttons {
-  padding: 0; }
-  ul.share-buttons li {
-    display: inline-block;
-    margin: 0 15px; }
-    ul.share-buttons li img {
-      width: 50px;
-      height: 50px; }
-    ul.share-buttons li img.hover {
-      display: none;
-      visibility: hidden; }
-    ul.share-buttons li:hover img.normal {
-      display: none;
-      visibility: hidden; }
-    ul.share-buttons li:hover img.hover {
-      display: inline-block;
-      visibility: visible; }
-
-h5#credit {
-  font-size: 12px;
-  letter-spacing: .5px;
-  text-transform: uppercase;
-  margin-top: 30px; }
-  h5#credit a {
-    text-decoration: none;
-    color: #888; }
-    h5#credit a span {
-      text-decoration: underline; }
-    h5#credit a:hover {
-      color: #444;
-      text-decoration: underline; }
-
 header {
   background: #697b99;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
