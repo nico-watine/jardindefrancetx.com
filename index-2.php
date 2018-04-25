@@ -106,6 +106,21 @@
 	<img src="/img/index-2/interiorGallery/interiorGallery.jpg" alt="">
 </section>
 
+<section class="about" style="padding: 40px 0;">
+	<div class="row">
+		<div class="columns">
+			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
+				<h2 class="h1 cursive" style="margin-bottom: 32px;">Our Story</h2>
+				<p class="h4">Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing patrimoine.</p>
+			</div>
+			<br>
+			<div class="bioPhoto text-center">
+				<img class="margin-XY" src="/img/index-2/about/nicolas-watine.png" alt="">
+				<img class="margin-XY" src="/img/index-2/about/patrice-watine.png" alt="">
+			</div>
+		</div>
+	</div>
+</section>
 
 </body>
 </html>
