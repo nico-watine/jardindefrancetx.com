@@ -1547,6 +1547,12 @@ h4.cursive,
   .h4.cursive {
     font-size: 28px; } }
 
+.white {
+  color: #fefefe; }
+
+.black {
+  color: #0a0a0a; }
+
 html,
 body {
   height: 100%; }
