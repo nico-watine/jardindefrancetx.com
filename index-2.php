@@ -91,6 +91,7 @@
 		<div class="columns">
 			<div class="prose text-center">
 				<p class="h3">There is an even larger selection of indoor plants available at our online plant shop.</p>
+				<a href="http://www.houstoninteriorplants.com" target="_blank" class="button">www.<span>H</span>ouston<span>I</span>nterior<span>P</span>lants.com</a>
 			</div>	
 		</div>
 	</div>
