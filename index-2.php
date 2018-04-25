@@ -64,7 +64,7 @@
 
 	<div class="bgScrim"></div>
 
-	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="bgvid">
+	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="backgroundVideo">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video>
@@ -84,6 +84,18 @@
 		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
 	</div>
 	<img src="/img/index-2/conservatory/conservatory-1.jpg" alt="">
+</section>
+
+<section class="hipBanner">
+	<div class="row">
+		<div class="columns">
+			<div class="prose text-center">
+				<p class="h3">There is an even larger selection of indoor plants available at our online plant shop.</p>
+				<br>
+				<a href="http://houstoninteriorplants.com" target="_blank" class="button"><strong>www.HoustonInteriorPlants.com</strong></a>
+			</div>	
+		</div>
+	</div>
 </section>
 
 </body>
