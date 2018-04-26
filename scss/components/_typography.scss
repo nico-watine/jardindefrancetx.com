@@ -1,6 +1,6 @@
 @import '../settings/_settings.scss';
 @import '_fonts.scss';
-@import '_typography-deprecated.scss';
+// @import '_typography-deprecated.scss';
 
 body {
 	margin: 0;
@@ -188,4 +188,28 @@ h4.cursive,
 
 .black {
 	color: $black;
+}
+
+// --------------------------------------------------
+// |            Deprecated to be removed            |
+// --------------------------------------------------
+
+a,
+a:visited {
+	color: $white;
+
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+h1.title {
+	font-size: 62px;
+}
+
+
+@include media($maxWidth-500) {
+	h1.title {
+		font-size: 50px;
+	}
 }

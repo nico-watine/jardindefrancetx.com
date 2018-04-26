@@ -57,7 +57,7 @@
 		<div class="row">
 			<div class="logo">
 				<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-				<a href="#welcome" data-scroll><h1 class="title">JdF</h1></a>
+				<a href="#welcome" data-scroll><h1 class="cursive">JdF</h1></a>
 			</div>
 			<nav class="nav-collapse">
 				<ul>

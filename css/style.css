@@ -1394,33 +1394,6 @@ html {
   font-style: normal;
   font-weight: 400; }
 
-a,
-a:visited {
-  color: #fefefe; }
-  a:hover,
-  a:visited:hover {
-    text-decoration: none; }
-
-.title {
-  font-family: "Parisienne", cursive;
-  font-weight: 400; }
-
-h1.title {
-  font-size: 62px; }
-
-@media screen and (max-width: 500px) {
-  h1.title {
-    font-size: 50px; } }
-
-h3 span {
-  display: inline-block; }
-
-.text-shadow {
-  text-shadow: 0 6px 10px black; }
-
-.no-shadow {
-  text-shadow: none !important; }
-
 body {
   margin: 0;
   padding: 0;
@@ -1553,6 +1526,20 @@ h4.cursive,
 
 .black {
   color: #0a0a0a; }
+
+a,
+a:visited {
+  color: #fefefe; }
+  a:hover,
+  a:visited:hover {
+    text-decoration: none; }
+
+h1.title {
+  font-size: 62px; }
+
+@media screen and (max-width: 500px) {
+  h1.title {
+    font-size: 50px; } }
 
 html,
 body {
