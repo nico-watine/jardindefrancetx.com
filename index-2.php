@@ -52,7 +52,7 @@
 </head>
 <body id="index-2">
 
-<!-- <header>
+<header>
 	<div class="outer-container">
 		<div class="row">
 			<div class="logo">
@@ -119,7 +119,7 @@
 			</div>	
 		</div>
 	</div>
-</section> -->
+</section>
 
 <section class="interiorGallery relative" id="interiorGallery">
 	<div class="scrim absolute text-center white">
@@ -129,7 +129,7 @@
 	<img src="/img/index-2/interiorGallery/interiorGallery.jpg" alt="">
 </section>
 
-<!-- <section class="about" style="padding: 40px 0;" id="about">
+<section class="about" style="padding: 40px 0;" id="about">
 	<div class="row">
 		<div class="columns">
 			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
@@ -173,7 +173,7 @@
 	<div class="colophon text-center padding-Y">
 		<a class="h6" href="#">A <span>Studio N</span> Creation</a>
 	</div>
-</footer> -->
+</footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
