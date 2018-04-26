@@ -1514,7 +1514,8 @@ h6,
     font-size: 14px; } }
 
 .cursive {
-  font-family: "Parisienne", cursive; }
+  font-family: "Parisienne", cursive;
+  line-height: 1; }
 
 h1.cursive,
 .h1.cursive {
