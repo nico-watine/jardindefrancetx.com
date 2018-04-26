@@ -1786,10 +1786,6 @@ header {
     left: 28px;
     z-index: 55; }
 
-@media screen and (max-width: 890px) {
-  .logo h1 {
-    font-size: 40px; } }
-
 @-webkit-viewport {
   width: device-width; }
 
