@@ -337,16 +337,6 @@ b {
   font-weight: bold;
   line-height: inherit; }
 
-a {
-  line-height: inherit;
-  color: #2ba6cb;
-  text-decoration: none;
-  cursor: pointer; }
-
-a:hover,
-a:focus {
-  color: #258faf; }
-
 a img {
   border: 0; }
 
