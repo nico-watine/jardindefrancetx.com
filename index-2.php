@@ -166,9 +166,9 @@
 
 <footer style="padding: 40px 0;">
 	<div class="socialMediaLinks text-center margin-Y">
-		<a href="#"><img src="/img/sharing/instagram.png" alt=""></a>
-		<a class="margin-X" href="#"><img src="/img/sharing/facebook.png" alt=""></a>
-		<a href="#"><img src="/img/sharing/pinterest.png" alt=""></a>
+		<a target="_blank" href="https://instagram.com/gloria_jardindefrance/"><img src="/img/sharing/instagram.png" alt=""></a>
+		<a class="margin-X" target="_blank" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a>
+		<a target="_blank" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
 	<div class="text-center padding-Y">
 		<a class="colophon h6" href="#">A <span>Studio N</span> Creation</a>
