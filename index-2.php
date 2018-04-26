@@ -23,7 +23,6 @@
 
 	<!-- <link href="<?php autoVer('/css/opt/style.css'); ?>" rel="stylesheet"> -->
 	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
-	<link href="<?php autoVer('/css/index-2.css'); ?>" rel="stylesheet">
 
 	<script type="application/ld+json">
 	{
