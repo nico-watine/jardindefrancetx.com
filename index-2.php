@@ -77,9 +77,9 @@
 	<div class="prose white flex absolute">
 		<div class="row text-center">
 			<div class="columns">
-				<h1 class="cursive" style="text-shadow: 0 2px 4px #000;margin-bottom: 32px; font-size: 70px;">Jardin de France</h1>
-				<h2 class="h3" style="text-shadow: 0 2px 4px #000;max-width: 540px; width: 100%; margin: 0 auto 16px;"><strong>French Antiques and Plants for the Home &amp; Patio</strong></h2>
-				<h3 class="h4" style="text-shadow: 0 2px 4px #000;max-width: 570px; width: 100%; margin: 0 auto 32px;">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design</h3>
+				<h1 class="cursive">Jardin de France</h1>
+				<h2 class="h3"><strong>French Antiques and Plants for the Home &amp; Patio</strong></h2>
+				<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design</h3>
 				<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
 			</div>
 		</div>
@@ -93,15 +93,15 @@
 	</video>
 </section>
 
-<section class="gardens relative" id="gardens">
+<section class="bannerSection gardens relative" id="gardens">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Gardens</h2>
-		<h4>Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
+		<h4 style="max-width: 670px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
 	</div>
 	<img src="/img/index-2/gardens/garden-1.jpg" alt="">
 </section>
 
-<section class="conservatory relative" id="conservatory">
+<section class="bannerSection conservatory relative" id="conservatory">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Conservatory</h2>
 		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
@@ -121,7 +121,7 @@
 	</div>
 </section>
 
-<section class="interiorGallery relative" id="interiorGallery">
+<section class="bannerSection interiorGallery relative" id="interiorGallery">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Interior Gallery</h2>
 		<h4>In addition to our plants and garden items, we also have fine French Country antiques.</h4>

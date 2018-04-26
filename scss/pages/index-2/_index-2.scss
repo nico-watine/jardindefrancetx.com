@@ -1,8 +1,36 @@
 @import '../../settings/_settings.scss';
 
+.bannerSection {
+	overflow: hidden;
+
+	.scrim {
+		width: 100%;
+		bottom: 0;
+		background-image: linear-gradient(-180deg, rgba(0,0,0,.00) 0%, #000 100%);
+		z-index: 10;
+		padding: 40px 20px;
+	}
+
+	h4 {
+		max-width: 570px;
+		width: 100%;
+		margin: 0 auto 8px;
+	}
+
+	img {
+		height: 580px;
+		max-width: none;
+	}
+
+	@media #{$medium} {
+		img {
+			width: 100%;
+			height: auto;
+			max-width: 100%;
+		}
+	}
+}
+
 @import '_splash.scss';
-@import '_gardens.scss';
-@import '_conservatory.scss';
 @import '_hipBanner.scss';
-@import '_interiorGallery.scss';
 @import '_location.scss';
