@@ -1,0 +1,43 @@
+@import '../settings/_settings.scss';
+
+$header-font-family: 'Parisienne', cursive;
+$header-font-weight: 400;
+
+// a,
+// a:visited {
+// 	color: $white;
+
+// 	&:hover {
+// 		text-decoration: none;
+// 	}
+// }
+
+.title {
+	font-family: $header-font-family;
+	font-weight: $header-font-weight;
+}
+
+h1.title {
+	font-size: 62px;
+}
+
+
+@include media($maxWidth-500) {
+	h1.title {
+		font-size: 50px;
+	}
+}
+
+h3 {
+	span {
+		display: inline-block;
+	}
+}
+
+.text-shadow {
+	text-shadow: 0 6px 10px rgba(0,0,0,1.0);
+}
+
+.no-shadow {
+	text-shadow: none !important;
+}
