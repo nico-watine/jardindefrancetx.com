@@ -98,7 +98,7 @@
 		<h2 class="h1 cursive">The Gardens</h2>
 		<h4 style="max-width: 670px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
 	</div>
-	<img src="/img/index-2/gardens/garden-1.jpg" alt="">
+	<img src="/img/index-2/gardens/garden-1.jpg" alt="Jardin de France Houston TX Gardens">
 </section>
 
 <section class="bannerSection conservatory relative" id="conservatory">
@@ -106,7 +106,7 @@
 		<h2 class="h1 cursive">The Conservatory</h2>
 		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
 	</div>
-	<img src="/img/index-2/conservatory/conservatory-1.jpg" alt="">
+	<img src="/img/index-2/conservatory/conservatory-1.jpg" alt="Jardin de France Houston TX Conservatory">
 </section>
 
 <section class="hipBanner">
@@ -126,7 +126,7 @@
 		<h2 class="h1 cursive">The Interior Gallery</h2>
 		<h4>In addition to our plants and garden items, we also have fine French Country antiques.</h4>
 	</div>
-	<img src="/img/index-2/interiorGallery/interiorGallery.jpg" alt="">
+	<img src="/img/index-2/interiorGallery/interiorGallery.jpg" alt="Jardin de France Houston TX Interior Gallery">
 </section>
 
 <section class="about" style="padding: 40px 0;" id="about">
@@ -138,8 +138,8 @@
 			</div>
 			<br>
 			<div class="bioPhoto text-center">
-				<img class="margin-XY" src="/img/index-2/about/nicolas-watine.png" alt="">
-				<img class="margin-XY" src="/img/index-2/about/patrice-watine.png" alt="">
+				<img class="margin-XY" src="/img/index-2/about/nicolas-watine.png" alt="Nicolas Watine">
+				<img class="margin-XY" src="/img/index-2/about/patrice-watine.png" alt="Patrice Watine">
 			</div>
 		</div>
 	</div>
