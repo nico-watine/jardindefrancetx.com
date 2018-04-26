@@ -14,12 +14,13 @@
 @import 'components/slider/_slick.scss';
 @import 'components/slider/_slick-theme.scss';
 
-@import "components/_utility-classes-deprecated.scss";
-@import "components/_metrics.scss";
+@import 'components/_utility-classes-deprecated.scss';
+@import 'components/_metrics.scss';
 
 // STANDARD PAGE BLOCKS
 @import 'blocks/_body.scss';
-// @import 'blocks/_footer.scss';
+@import 'blocks/_footer.scss';
+// @import 'blocks/_footer-deprecated.scss';
 @import 'blocks/_header.scss';
 @import 'blocks/_nav.scss';
 

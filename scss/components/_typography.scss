@@ -1,6 +1,6 @@
 @import '../settings/_settings.scss';
 @import '_fonts.scss';
-@import '_typography-deprecated.scss';
+// @import '_typography-deprecated.scss';
 
 body {
 	margin: 0;
@@ -188,4 +188,36 @@ h4.cursive,
 
 .black {
 	color: $black;
+}
+
+
+// ------------------------------------------
+// |            <a> style resets            |
+// ------------------------------------------
+
+a {
+	line-height: inherit;
+	color: #2ba6cb;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+a:hover,
+a:focus {
+	color: #258faf;
+}
+
+
+// -------------------------------------------
+// |            Specific Elements            |
+// -------------------------------------------
+
+a.colophon {
+	span {
+		text-decoration: underline;
+	}
+
+	&:hover {
+		text-decoration: underline;
+	}
 }

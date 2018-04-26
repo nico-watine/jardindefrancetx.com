@@ -337,16 +337,6 @@ b {
   font-weight: bold;
   line-height: inherit; }
 
-a {
-  line-height: inherit;
-  color: #2ba6cb;
-  text-decoration: none;
-  cursor: pointer; }
-
-a:hover,
-a:focus {
-  color: #258faf; }
-
 a img {
   border: 0; }
 
@@ -1394,33 +1384,6 @@ html {
   font-style: normal;
   font-weight: 400; }
 
-a,
-a:visited {
-  color: #fefefe; }
-  a:hover,
-  a:visited:hover {
-    text-decoration: none; }
-
-.title {
-  font-family: "Parisienne", cursive;
-  font-weight: 400; }
-
-h1.title {
-  font-size: 62px; }
-
-@media screen and (max-width: 500px) {
-  h1.title {
-    font-size: 50px; } }
-
-h3 span {
-  display: inline-block; }
-
-.text-shadow {
-  text-shadow: 0 6px 10px black; }
-
-.no-shadow {
-  text-shadow: none !important; }
-
 body {
   margin: 0;
   padding: 0;
@@ -1553,6 +1516,22 @@ h4.cursive,
 
 .black {
   color: #0a0a0a; }
+
+a {
+  line-height: inherit;
+  color: #2ba6cb;
+  text-decoration: none;
+  cursor: pointer; }
+
+a:hover,
+a:focus {
+  color: #258faf; }
+
+a.colophon span {
+  text-decoration: underline; }
+
+a.colophon:hover {
+  text-decoration: underline; }
 
 html,
 body {
@@ -1799,8 +1778,6 @@ header {
   width: 23.6815916074%; }
   .logo:last-child {
     margin-right: 0; }
-  .logo a {
-    text-decoration: none; }
   .logo img {
     max-width: 65px;
     height: auto;
@@ -1811,7 +1788,8 @@ header {
     margin: 0;
     top: 0;
     left: 28px;
-    z-index: 55; }
+    z-index: 55;
+    color: #fefefe; }
 
 @-webkit-viewport {
   width: device-width; }
@@ -1994,10 +1972,6 @@ header {
   .nav-collapse a {
     padding: 0 10px;
     font-size: 17px; } }
-
-@media screen and (max-width: 890px) {
-  .logo h1 {
-    font-size: 40px; } }
 
 @media screen and (max-width: 1000px) {
   .logo {
