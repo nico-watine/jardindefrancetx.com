@@ -2036,9 +2036,20 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/index-2\/gardens\/garden-1.jpg": {
+		"ft": 16384,
+		"iS": 195585,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/index-2\/gardens\/garden-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/index-2\/interiorGallery\/interiorGallery.jpg": {
 		"ft": 16384,
-		"iS": 188273,
+		"iS": 93108,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index-2\/interiorGallery\/interiorGallery.jpg",
@@ -2049,7 +2060,7 @@
 		},
 	"\/img\/index-2\/location\/location.jpg": {
 		"ft": 16384,
-		"iS": 243274,
+		"iS": 120876,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index-2\/location\/location.jpg",
