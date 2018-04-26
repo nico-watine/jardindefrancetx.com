@@ -1791,6 +1791,16 @@ header {
     z-index: 55;
     color: #fefefe; }
 
+@media screen and (min-width: 751px) {
+  .logo h1 {
+    display: none;
+    visibility: hidden; } }
+
+@media screen and (min-width: 920px) {
+  .logo h1 {
+    display: block;
+    visibility: visible; } }
+
 @-webkit-viewport {
   width: device-width; }
 
