@@ -52,7 +52,7 @@
 </head>
 <body id="index-2">
 
-<!-- <header>
+<header>
 	<div class="outer-container">
 		<div class="row">
 			<div class="logo">
@@ -91,7 +91,7 @@
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video>
-</section> -->
+</section>
 
 <section class="gardens relative" id="gardens">
 	<div class="scrim absolute text-center white">
@@ -101,7 +101,7 @@
 	<img src="/img/index-2/gardens/garden-1.jpg" alt="">
 </section>
 
-<!-- <section class="conservatory relative" id="conservatory">
+<section class="conservatory relative" id="conservatory">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Conservatory</h2>
 		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
@@ -173,7 +173,7 @@
 	<div class="colophon text-center padding-Y">
 		<a class="h6" href="#">A <span>Studio N</span> Creation</a>
 	</div>
-</footer> -->
+</footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
