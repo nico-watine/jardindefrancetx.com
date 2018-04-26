@@ -1782,7 +1782,8 @@ header {
     margin: 0;
     top: 0;
     left: 28px;
-    z-index: 55; }
+    z-index: 55;
+    color: #fefefe; }
 
 @-webkit-viewport {
   width: device-width; }
