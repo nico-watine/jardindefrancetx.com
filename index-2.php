@@ -52,7 +52,7 @@
 </head>
 <body id="index-2">
 
-<header>
+<!-- <header>
 	<div class="outer-container">
 		<div class="row">
 			<div class="logo">
@@ -99,7 +99,7 @@
 		<h4>Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
 	</div>
 	<img src="/img/index-2/gardens/garden-1.jpg" alt="">
-</section>
+</section> -->
 
 <section class="conservatory relative" id="conservatory">
 	<div class="scrim absolute text-center white">
@@ -109,7 +109,7 @@
 	<img src="/img/index-2/conservatory/conservatory-1.jpg" alt="">
 </section>
 
-<section class="hipBanner">
+<!-- <section class="hipBanner">
 	<div class="row">
 		<div class="columns">
 			<div class="prose text-center">
@@ -173,7 +173,7 @@
 	<div class="colophon text-center padding-Y">
 		<a class="h6" href="#">A <span>Studio N</span> Creation</a>
 	</div>
-</footer>
+</footer> -->
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
