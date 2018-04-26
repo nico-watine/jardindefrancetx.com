@@ -85,7 +85,7 @@
 		</div>
 	</div>
 
-	<div class="bgScrim"></div>
+	<div class="bgScrim">&nbsp;</div>
 
 	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="backgroundVideo">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
