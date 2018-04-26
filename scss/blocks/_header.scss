@@ -29,3 +29,11 @@ header {
 	}
 }
 
+@media screen and (min-width: 751px) {
+	.logo {
+		h1 {
+			display: none;
+			visibility: hidden;
+		}
+	}
+}
