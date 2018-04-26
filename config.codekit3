@@ -2047,17 +2047,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/index-2\/gardens\/small\/garden-1.jpg": {
-		"ft": 16384,
-		"iS": 74552,
-		"jF": 0,
-		"oA": 1,
-		"oAP": "\/img\/index-2\/gardens\/small\/garden-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/index-2\/interiorGallery\/interiorGallery.jpg": {
 		"ft": 16384,
 		"iS": 188273,
@@ -2728,6 +2717,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/css\/_body.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/blocks\/_footer-deprecated.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/css\/_footer-deprecated.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
