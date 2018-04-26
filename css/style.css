@@ -1527,6 +1527,12 @@ a:hover,
 a:focus {
   color: #258faf; }
 
+a.colophon span {
+  text-decoration: underline; }
+
+a.colophon:hover {
+  text-decoration: underline; }
+
 html,
 body {
   height: 100%; }
