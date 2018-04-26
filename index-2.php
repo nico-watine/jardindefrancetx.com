@@ -93,15 +93,15 @@
 	</video>
 </section>
 
-<section class="gardens relative" id="gardens">
+<section class="bannerSection gardens relative" id="gardens">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Gardens</h2>
-		<h4>Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
+		<h4 style="max-width: 670px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
 	</div>
 	<img src="/img/index-2/gardens/garden-1.jpg" alt="">
 </section>
 
-<section class="conservatory relative" id="conservatory">
+<section class="bannerSection conservatory relative" id="conservatory">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Conservatory</h2>
 		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
@@ -121,7 +121,7 @@
 	</div>
 </section>
 
-<section class="interiorGallery relative" id="interiorGallery">
+<section class="bannerSection interiorGallery relative" id="interiorGallery">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Interior Gallery</h2>
 		<h4>In addition to our plants and garden items, we also have fine French Country antiques.</h4>
