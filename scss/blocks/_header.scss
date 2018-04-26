@@ -37,3 +37,12 @@ header {
 		}
 	}
 }
+
+@media screen and (min-width: 920px) {
+	.logo {
+		h1 {
+			display: block;
+			visibility: visible;
+		}
+	}
+}
