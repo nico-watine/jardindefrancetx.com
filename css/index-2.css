@@ -17,6 +17,21 @@
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column; }
+  #index-2 .splash h1,
+  #index-2 .splash h2,
+  #index-2 .splash h3 {
+    text-shadow: 0 2px 4px #000; }
+  #index-2 .splash h1 {
+    font-size: 70px;
+    margin-bottom: 32px; }
+  #index-2 .splash h2 {
+    max-width: 540px;
+    width: 100%;
+    margin: 0 auto 16px; }
+  #index-2 .splash h3 {
+    max-width: 570px;
+    width: 100%;
+    margin: 0 auto 32px; }
   #index-2 .splash .bgScrim {
     background: rgba(105, 123, 153, 0.4);
     width: 100%;
