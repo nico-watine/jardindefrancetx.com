@@ -50,21 +50,21 @@
 	}
 	</script>
 </head>
-<body id="index">
+<body id="index-2">
 
 <header>
 	<div class="outer-container">
 		<div class="row">
 			<div class="logo">
 				<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-				<a href="#welcome" data-scroll><h1 class="title">JdF</h1></a>
+				<a href="#welcome" data-scroll><h1 class="cursive">JdF</h1></a>
 			</div>
 			<nav class="nav-collapse">
 				<ul>
 					<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
 					<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
 					<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
-					<li class="menu-item"><a href="#interior_gallery" data-scroll>The Interior Gallery</a></li>
+					<li class="menu-item"><a href="#interiorGallery" data-scroll>The Interior Gallery</a></li>
 					<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
 					<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
 				</ul>
@@ -74,161 +74,110 @@
 </header>
 
 <section class="splash bgvid-container" id="welcome">
-	<div class="featureFocus-milieu" id="default">
-		<p>We will be featured in the Spring 2018 issue of MILIEU Mag!</p>
-		<a href="http://milieu-mag.com/Story/MY_HOUSTON/279"><img srcset="/img/index/milieu-banner/logo_2x.png 2x" src="/img/index/milieu-banner/logo.png" alt="Milieu Mag Logo"></a>
-		<a href="/img/social-media/milieu/spring-2017-my-houston.pdf" class="buttonGhost">Here is our Spring 2017 Milieu ad</a>
-	</div>
-	<div class="verbiage">
-		<h1 class="title">Jardin de France</h1>
-		<h2 class="slogan">French Antiques and Plants for the <span class="inline-block">Home &amp; Patio</span></h2>
-		<h3 class="tag">Bringing to Houston the beauty of original French Country antiques &amp; quaint <span class="inline-block">garden design</span></h3>
-		<a href="#gardens" class="button" data-scroll>Come Visit Us!</a>
+	<div class="prose white flex absolute">
+		<div class="row text-center">
+			<div class="columns">
+				<h1 class="cursive">Jardin de France</h1>
+				<h2 class="h3"><strong>French Antiques and Plants for the Home &amp; Patio</strong></h2>
+				<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design</h3>
+				<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
+			</div>
+		</div>
 	</div>
 
-	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="bgvid">
+	<div class="bgScrim">&nbsp;</div>
+
+	<video autoplay loop preload="auto" poster="/img/index/splash/poster.jpg" id="backgroundVideo">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video>
 </section>
 
-<section class="featureFocus-milieu" id="small">
-	<p>We are featured in the Spring 2017 issue of <span class="inline-block">MILIEU Mag!</span></p>
-	<a href="http://milieu-mag.com/Story/MY_HOUSTON/279"><img srcset="/img/index/milieu-banner/logo_2x.png 2x" src="/img/index/milieu-banner/logo.png" alt="Milieu Mag Logo"></a>
-	<a href="/img/social-media/milieu/spring-2017-my-houston.pdf" class="buttonGhost">Read the full article</a>
+<section class="bannerSection gardens relative" id="gardens">
+	<div class="scrim absolute text-center white">
+		<h2 class="h1 cursive">The Gardens</h2>
+		<h4 style="max-width: 670px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h4>
+	</div>
+	<img src="/img/index-2/gardens/garden-1.jpg" alt="Jardin de France Houston TX Gardens">
 </section>
 
-<section class="gardens" id="gardens">
-		<div class="section-content">
-			<div class="outer-container">
-				<div class="row padding">
-					<h1 class="title">The Gardens</h1>
-					<h3>Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</h3>
-				</div>
-			</div>
-		</div>
-		<div class="section-bg slick-slider">
-			<div class="slide-1">
-				<img src="/img/index/gardens/default/garden-1.jpg" alt="Jardin de France Fountain Garden">
-			</div>
-			<div class="slide-2">
-				<img src="/img/index/gardens/default/garden-2.jpg" alt="Jardin de France Patio Garden">
-			</div>
-			<div class="slide-3">
-				<img src="/img/index/gardens/default/garden-3.jpg" alt="Jardin de France Entrance Path">
-			</div>
-		</div>
+<section class="bannerSection conservatory relative" id="conservatory">
+	<div class="scrim absolute text-center white">
+		<h2 class="h1 cursive">The Conservatory</h2>
+		<h4>We have a variety of beautiful plants and lovely succulents for sale in The Conservatory</h4>
+	</div>
+	<img src="/img/index-2/conservatory/conservatory-1.jpg" alt="Jardin de France Houston TX Conservatory">
 </section>
 
-<section class="conservatory" id="conservatory">
-		<div class="section-content">
-			<div class="outer-container">
-				<div class="row padding">
-					<h1 class="title">The Conservatory</h1>
-					<h3>We have a variety of beautiful indoor plants and lovely succulents for sale in The Conservatory</h3>
-				</div>
-			</div>
-		</div>
-		<div class="section-bg slick-slider">
-			<div class="slide-1">
-				<img src="/img/index/conservatory/default/conservatory-1.jpg" alt="Jardin de France Conservatory Building">
-			</div>
-			<div class="slide-2">
-				<img src="/img/index/conservatory/default/conservatory-2.jpg" alt="Pottery and Plants in the Conservatory">
-			</div>
-			<div class="slide-3">
-				<img src="/img/index/conservatory/default/conservatory-3.jpg" alt="A stone fountain filled with plants">
-			</div>
-		</div>
-</section>
-
-<section class="hip-banner linen-bg">
-	<div class="outer-container">
-		<div class="row padding">
-			<h3 class="no-shadow">There is an even larger selection of indoor plants available at our <span>online plant shop</span></h3>
-			<a href="http://www.houstoninteriorplants.com" target="_blank" class="button">www.<span>H</span>ouston<span>I</span>nterior<span>P</span>lants.com</a>
+<section class="hipBanner">
+	<div class="row">
+		<div class="columns">
+			<div class="prose text-center">
+				<p class="h3">There is an even larger selection of indoor plants available at our online plant shop.</p>
+				<br>
+				<a href="https://houstoninteriorplants.com" target="_blank" class="button"><strong>www.HoustonInteriorPlants.com</strong></a>
+			</div>	
 		</div>
 	</div>
 </section>
 
-<section class="interior_gallery" id="interior_gallery">
-		<div class="section-content">
-			<div class="outer-container">
-				<div class="row padding">
-					<h1 class="title">The Interior Gallery</h1>
-					<h3>In addition to our plants and garden items, we also have fine French Country antiques</h3>
-				</div>
-			</div>
-		</div>
-		<div class="section-bg slick-slider">
-			<div class="slide-1">
-				<img src="/img/index/interior_gallery/default/interior_gallery.jpg" alt="Jardin de France Interior Gallery">
-			</div>
-		</div>
+<section class="bannerSection interiorGallery relative" id="interiorGallery">
+	<div class="scrim absolute text-center white">
+		<h2 class="h1 cursive">The Interior Gallery</h2>
+		<h4>In addition to our plants and garden items, we also have fine French Country antiques.</h4>
+	</div>
+	<img src="/img/index-2/interiorGallery/interiorGallery.jpg" alt="Jardin de France Houston TX Interior Gallery">
 </section>
 
-<section class="about linen-bg" id="about">
-	<div class="outer-container">
-		<div class="row padding" id="story">
-			<h1 class="title no-shadow">Our Story</h1>
-			<h3 class="no-shadow">Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing heritage.</h3>
-		</div>
-		<div class="row" id="pics">
-			<div class="profile-pic" id="patrice">
-				<img src="/img/index/about/patrice.png" alt="Patrice Watine">
+<section class="about" style="padding: 40px 0;" id="about">
+	<div class="row">
+		<div class="columns">
+			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
+				<h2 class="h1 cursive" style="margin-bottom: 32px;">Our Story</h2>
+				<p class="h4">Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing patrimoine.</p>
 			</div>
-			<div class="profile-pic" id="nicolas">
-				<img src="/img/index/about/nicolas.png" alt="Nicolas Watine">
+			<br>
+			<div class="bioPhoto text-center">
+				<img class="margin-XY" src="/img/index-2/about/nicolas-watine.png" alt="Nicolas Watine">
+				<img class="margin-XY" src="/img/index-2/about/patrice-watine.png" alt="Patrice Watine">
 			</div>
 		</div>
 	</div>
 </section>
 
-<section class="location" id="location">
-	<div class="outer-container">
-		<div class="row">
-			<div class="section-content">
-				<div class="location-verbiage">
-					<h1 class="title">Location</h1>
-					<h4>We are conveniently located 2 blocks south of Washington Ave &amp; Durham Dr</h4>
-					<h3>Look for the French flag!</h3>
-					<p class="large">Tuesday - Saturday <br> 10AM - 5PM</p>
-					<p class="large"><a id="phone" href="tel://832-651-3136" class="phone-number">832-651-3136</a></p>
-					<p class="large"><a href="mailto:shop@jdftx.com?Subject=Bonjour!" target="_top">Shop@JDFTX.com</a></p>
-					<p class="large"><a id="map-link" href="https://www.google.com/maps/place/4819+Blossom+St,+Houston,+TX+77007/@29.767306,-95.410378,17z/data=!3m1!4b1!4m2!3m1!1s0x8640c0b46e30ca21:0x9fb821a40a5d7107" target="_blank">4819 Blossom St. <br>Houston, TX <br>77007</a></p>
+<section class="locationBanner" style="padding: 90px 0;" id="location">
+	<div class="row">
+		<div class="medium-11 columns medium-push-1">
+			<div class="prose white" style="max-width: 370px; width: 100%;">
+				<h2 class="h1 cursive">Location</h2>
+				<p class="h4" style="margin-bottom: 16px;">We are conveniently located 2 blocks south of Washington Ave &amp; Durham Dr</p>
+				<p class="h3" style="margin-bottom: 24px;"><strong>Look for the French flag!</strong></p>
+				<div class="contactInfo" style="padding: 10px; border: 3px solid #fff;">
+					<address class="h4"><strong><a href="https://goo.gl/maps/NtUtThFb2JA2" target="_blank">4819 Blossom St. <br>
+					Houston, TX <br>
+					77007</a></strong></address>
+					<p class="h4"><strong><a href="mailto:shop@jdftx.com">Shop@JDFTX.com</a></strong></p>
+					<span class="h4"><strong>832-651-3136</strong></span>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
 
-<!-- <div class="map-banner"></div> -->
-
-<footer class="linen-bg">
-	<div class="outer-container">
-		<div class="row">
-			<ul class="share-buttons">
-				<li><a href="https://www.facebook.com/jardindefrancetx" target="_blank"><img class="normal" src="/img/assets/social/facebook.png" alt="Facebook"><img class="hover" src="/img/assets/social/facebook-hover.png" alt="Facebook"></a></li>
-				<li><a href="https://instagram.com/gloria_jardindefrance/" target="_blank"><img class="normal" src="/img/assets/social/instagram.png" alt="Instagram"><img class="hover" src="/img/assets/social/instagram-hover.png" alt="Instagram"></a></li>
-				<li><a href="https://www.pinterest.com/patglo68/" target="_blank"><img class="normal" src="/img/assets/social/pinterest.png" alt="Pinterest"><img class="hover" src="/img/assets/social/pinterest-hover.png" alt="Pinterest"></a></li>
-			</ul>
-		</div>
-		<div class="row">
-			<h5 id="credit"><a class="no-shadow" href="http://studioncreations.com" target="_blank">A <span>Studio N</span> Creation</a></h5>
-		</div>
+<footer style="padding: 40px 0;">
+	<div class="socialMediaLinks text-center margin-Y">
+		<!-- <a target="_blank" href="https://instagram.com/gloria_jardindefrance/"><img src="/img/sharing/instagram.png" alt=""></a> -->
+		<a class="margin-X" target="_blank" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a>
+		<a class="margin-X" target="_blank" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
+	</div>
+	<div class="text-center padding-Y">
+		<a class="colophon h6" href="#">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
 
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-12-4/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
-
-<script>
-    window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
-    ga('create','UA-85408517-2','auto');ga('send','pageview')
-</script>
-<script src="https://www.google-analytics.com/analytics.js" async defer></script>
 
 </body>
 </html>

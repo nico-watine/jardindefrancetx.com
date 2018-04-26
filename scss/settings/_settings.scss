@@ -1,17 +1,23 @@
+// ---------------------------------------
+// |            Media Queries            |
+// ---------------------------------------
+$medium: "only screen and (min-width : 40em)";
+$large: "only screen and (min-width : 64em)";
 
 // -------------------------------------------
 // |            Typography Styles            |
 // -------------------------------------------
 $p: 16px;
 
-// Font Sizes (Perfect Fourth - 1.333) ---------------------------------- //
-$h1: 50px;
-$h2: 38px;
-$h3: 28px;
+// Font Sizes (Major Third - 1.250) ---------------------------------- //
+$h1: 39px;
+$h2: 31px;
+$h3: 25px;
 $h4: 21px;
 $h5: 16px;
 $h6: 14px;
 
+// Font Sizes (Perfect Fourth - 1.333) ---------------------------------- //
 $h1-medium: 50px;
 $h2-medium: 38px;
 $h3-medium: 28px;
@@ -19,7 +25,7 @@ $h4-medium: 21px;
 $h5-medium: 16px;
 $h6-medium: 14px;
 
-$h1-cursive: 70px;
+$h1-cursive: 60px;
 $h2-cursive: 50px;
 $h3-cursive: 38px;
 $h4-cursive: 28px;

@@ -160,6 +160,7 @@
 
 // @media screen and (min-width: 850px)
 @media screen and (min-width: 751px) {
+// @media screen and (min-width: 940px) {
 	.js .nav-collapse {
 		position: relative;
 	}
@@ -225,14 +226,6 @@
 		a {
 			padding: 0 10px;
 			font-size: 17px;
-		}
-	}
-}
-
-@media screen and (max-width: 890px) {
-	.logo {
-		h1 {
-			font-size: 40px;
 		}
 	}
 }

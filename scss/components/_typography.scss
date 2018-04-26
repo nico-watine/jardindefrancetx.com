@@ -1,6 +1,6 @@
 @import '../settings/_settings.scss';
 @import '_fonts.scss';
-@import '_typography-deprecated.scss';
+// @import '_typography-deprecated.scss';
 
 body {
 	margin: 0;
@@ -132,6 +132,7 @@ h6,
 
 .cursive {
 	font-family: $cursive-font-family;
+	line-height: 1;
 }
 
 h1.cursive,
@@ -174,5 +175,49 @@ h4.cursive,
 	h4.cursive,
 	.h4.cursive {
 		font-size: $h4-cursive-medium;
+	}
+}
+
+// --------------------------------
+// |            Colors            |
+// --------------------------------
+
+.white {
+	color: $white;
+}
+
+.black {
+	color: $black;
+}
+
+
+// ------------------------------------------
+// |            <a> style resets            |
+// ------------------------------------------
+
+a {
+	line-height: inherit;
+	color: #2ba6cb;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+a:hover,
+a:focus {
+	color: #258faf;
+}
+
+
+// -------------------------------------------
+// |            Specific Elements            |
+// -------------------------------------------
+
+a.colophon {
+	span {
+		text-decoration: underline;
+	}
+
+	&:hover {
+		text-decoration: underline;
 	}
 }
