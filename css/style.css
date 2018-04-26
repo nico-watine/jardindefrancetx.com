@@ -1517,6 +1517,16 @@ h4.cursive,
 .black {
   color: #0a0a0a; }
 
+a {
+  line-height: inherit;
+  color: #2ba6cb;
+  text-decoration: none;
+  cursor: pointer; }
+
+a:hover,
+a:focus {
+  color: #258faf; }
+
 html,
 body {
   height: 100%; }
