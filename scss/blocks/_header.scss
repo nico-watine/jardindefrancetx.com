@@ -26,6 +26,7 @@ header {
 		left: 28px;
 		z-index: 55;
 		color: $white;
+		font-size: $h1-cursive;
 	}
 }
 
@@ -43,6 +44,14 @@ header {
 		h1 {
 			display: block;
 			visibility: visible;
+		}
+	}
+}
+
+@media #{$medium} {
+	.logo {
+		h1 {
+			font-size: $h1-cursive-medium;
 		}
 	}
 }
