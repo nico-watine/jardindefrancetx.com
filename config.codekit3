@@ -3377,7 +3377,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_index-2.scss": {
+	"\/scss\/pages\/index\/_index.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3385,7 +3385,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_index-2.css",
+		"oAP": "\/scss\/pages\/css\/_index.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
