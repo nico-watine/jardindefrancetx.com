@@ -1711,16 +1711,6 @@
 		"oAP": "\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/css\/index-2.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/index-2-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/css\/opt\/style.css": {
 		"aP": 0,
 		"bl": 0,
@@ -2596,13 +2586,6 @@
 		"oAP": "\/img\/social-media\/milieu\/spring-2017-my-houston.pdf",
 		"oF": 0
 		},
-	"\/index-2.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/index-2.php",
-		"oF": 0
-		},
 	"\/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -2965,19 +2948,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/index-2.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/index-2.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/scss\/neat\/_grid-settings.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -3277,59 +3247,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-2\/_hipBanner.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_hipBanner.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index-2\/_index-2.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_index-2.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index-2\/_location.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_location.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index-2\/_splash.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_splash.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/pages\/index\/_about.scss": {
+	"\/scss\/pages\/index-deprecated\/_about.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3342,7 +3260,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_conservatory.scss": {
+	"\/scss\/pages\/index-deprecated\/_conservatory.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3355,7 +3273,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_garden.scss": {
+	"\/scss\/pages\/index-deprecated\/_garden.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3368,7 +3286,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_hip.scss": {
+	"\/scss\/pages\/index-deprecated\/_hip.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3381,7 +3299,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_index.scss": {
+	"\/scss\/pages\/index-deprecated\/_index-deprecated.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3389,12 +3307,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_index.css",
+		"oAP": "\/scss\/pages\/css\/_index-deprecated.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_interior.scss": {
+	"\/scss\/pages\/index-deprecated\/_interior.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3407,7 +3325,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_location.scss": {
+	"\/scss\/pages\/index-deprecated\/_location.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3420,7 +3338,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_milieu-banner.scss": {
+	"\/scss\/pages\/index-deprecated\/_milieu-banner.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3433,7 +3351,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index\/_splash.scss": {
+	"\/scss\/pages\/index-deprecated\/_splash.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3444,6 +3362,58 @@
 		"oAP": "\/scss\/pages\/css\/_splash.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_hipBanner.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_hipBanner.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_index.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_index.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_location.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_location.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_splash.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_splash.css",
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/scss\/settings\/_development-styles.scss": {

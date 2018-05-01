@@ -1,0 +1,101 @@
+@import "../../settings/_settings.scss";
+
+$max-800: "only screen and (max-width : 50.000em)";
+
+#bgvid {
+	position: absolute;
+	z-index: -5;
+	top: 50%;
+	left: 50%;
+	min-width: 100%;
+	min-height: 100%;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+
+.splash {
+	position: relative;
+	top: 0;
+	left: 0;
+	padding-bottom: 120px;
+	text-align: center;
+	min-height: 100%;
+	overflow: hidden;
+
+	.verbiage {
+		padding-top: 255px;
+	}
+
+	h1 {
+		margin-bottom: 16px;
+	}
+
+	h2 {
+		font-size: 22px;
+		margin-bottom: 34px;
+	}
+
+	h3 {
+		margin-bottom: 55px;
+	}
+
+	h2,
+	h3 {
+		width: 66%;
+		margin-left: 17%;
+	}
+
+	a.button {
+		color: #0a0a0a;
+		font-family: $header-font-family;
+		font-size: $h3-size;
+	}
+}
+
+
+
+@media #{$max-800} {
+	#bgvid {
+		display: none;
+		visiblity: hidden;
+	}
+	.splash {
+		background: url('/img/index/splash/splash-medium.jpg') no-repeat;
+		background-position: 50%;
+		background-size: cover;
+	}
+}
+
+@include media($maxWidth-750) {
+	.splash {
+		h2,
+		h3 {
+			width: 84%;
+			margin-left: 8%;
+		}
+	}
+}
+
+@include media($maxWidth-500) {
+	.splash {
+		background: url('/img/index/splash/splash-small.jpg') no-repeat;
+		background-position: 50%;
+		background-size: cover;
+
+		h1 {
+			font-size: 38px;
+		}
+
+		h2,
+		h3 {
+			width: 100%;
+			margin-left: 0;
+			padding: 0 10px;
+		}
+
+		.verbiage {
+			padding-top: 140px;
+		}
+	}
+}
+
