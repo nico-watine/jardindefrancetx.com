@@ -178,6 +178,28 @@ h4.cursive,
 	}
 }
 
+@media #{$large} {
+	h1.cursive,
+	.h1.cursive {
+		font-size: $h1-cursive-large;
+	}
+
+	h2.cursive,
+	.h2.cursive {
+		font-size: $h2-cursive-large;
+	}
+
+	h3.cursive,
+	.h3.cursive {
+		font-size: $h3-cursive-large;
+	}
+
+	h4.cursive,
+	.h4.cursive {
+		font-size: $h4-cursive-large;
+	}
+}
+
 // --------------------------------
 // |            Colors            |
 // --------------------------------
