@@ -1711,16 +1711,6 @@
 		"oAP": "\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/css\/index-2.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/index-2-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/css\/opt\/style.css": {
 		"aP": 0,
 		"bl": 0,
@@ -2961,19 +2951,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/css\/_typography.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/index-2.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/index-2.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
