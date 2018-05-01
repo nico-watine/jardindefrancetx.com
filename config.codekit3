@@ -2701,6 +2701,19 @@
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
+	"\/scss\/_deprecated\/blocks\/_footer-deprecated.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/_deprecated\/css\/_footer-deprecated.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/blocks\/_body.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -2710,19 +2723,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/css\/_body.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/blocks\/_footer-deprecated.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/scss\/css\/_footer-deprecated.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
