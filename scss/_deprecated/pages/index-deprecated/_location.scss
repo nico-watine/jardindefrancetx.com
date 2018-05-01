@@ -1,0 +1,49 @@
+@import "../../settings/_settings.scss";
+
+
+.location {
+	background: url('/img/index/location/default/location.jpg');
+	overflow: hidden;
+	height: 640px;
+
+	.section-content {
+		position: relative;
+		@include span-columns(16 of 16);
+		padding-top: 50px;
+	}
+
+	p.large {
+		a#phone {
+			text-decoration: none;
+
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+
+.location-verbiage {
+	width: 390px;
+	position: absolute;
+	right: 10px;
+	text-align: center;
+}
+
+
+.map-banner {
+	background: url('/img/index/location/map-banner.png') center center no-repeat;
+	background-size: cover;
+	height: 320px;
+}
+
+
+@include media($maxWidth-500) {
+	.location-verbiage {
+		width: 300px;
+	}
+	.map-banner {
+		background: url('/img/index/location/map-banner-small.png') center center no-repeat;
+	}
+}
