@@ -3299,7 +3299,7 @@
 		"oS": 1,
 		"uL": 1
 		},
-	"\/scss\/pages\/index-deprecated\/_index.scss": {
+	"\/scss\/pages\/index-deprecated\/_index-deprecated.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -3307,7 +3307,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/scss\/pages\/css\/_index.css",
+		"oAP": "\/scss\/pages\/css\/_index-deprecated.css",
 		"oF": 0,
 		"oS": 1,
 		"uL": 1
