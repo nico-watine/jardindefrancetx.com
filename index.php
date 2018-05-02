@@ -177,8 +177,8 @@
 <section class="interiorGallery">
 	<div class="row collapse">
 		<div class="medium-6 columns imgWrap">
-			<img src="/img/index-2/interiorGallery/_dev/1.jpg" alt="">
-			<img class="hide-for-medium" style="float: left;" src="/img/index-2/interiorGallery/_dev/2.jpg" alt="">
+			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="">
+			<img class="hide-for-medium" style="float: left;" src="/img/index-2/interiorGallery/jardin-de-france-houston-interiors.jpg" alt="">
 		</div>
 		<div class="medium-6 columns proseWrap">
 			<div class="prose">
