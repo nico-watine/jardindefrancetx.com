@@ -18,5 +18,11 @@
 			flex-direction: column;
 			justify-content: center;
 		}
+
+		h1 {
+			span {
+				font-size: $h3;
+			}
+		}
 	}
 }
