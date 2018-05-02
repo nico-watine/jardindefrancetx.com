@@ -176,7 +176,7 @@
 
 <section class="interiorGallery" style="background: #697b99;">
 	<div class="row flex" style="max-width: 1366px;">
-		<div class="medium-6 columns">
+		<div class="medium-6 columns" style="max-height: 760px; overflow: hidden;">
 			<img src="/img/index-2/interiorGallery/_dev/1.jpg" alt="">
 		</div>
 		<div class="medium-6 columns" style="display: flex;flex-direction: column;justify-content: center;">
