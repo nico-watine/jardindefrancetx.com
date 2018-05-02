@@ -120,13 +120,29 @@
 	</div>
 </section>
 
-<section class="bannerSection relative" id="interiorGallery">
+<section class="interiorGallery" id="interiorGallery">
+	<div class="row collapse">
+		<div class="medium-6 columns imgWrap">
+			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="Jardin de France Houston Antiques">
+			<img class="hide-for-medium" style="float: left;" src="/img/index-2/interiorGallery/jardin-de-france-houston-interiors.jpg" alt="Jardin de France Houston Interior Design">
+		</div>
+		<div class="medium-6 columns proseWrap">
+			<div class="prose">
+				<h1 class="cursive white"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
+				<span class="yellow-bar"></span>
+				<h4 class="white">In addition to our plants and garden items, we also have fine French Country antiques.</h4>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- <section class="bannerSection relative" id="interiorGallery">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Interior Gallery</h2>
 		<h4>In addition to our plants and garden items, we also have fine French Country antiques.</h4>
 	</div>
 	<img src="/img/index-2/interiorGallery/interiorGallery.jpg" alt="Jardin de France Houston TX Interior Gallery">
-</section>
+</section> -->
 
 <section class="about" style="padding: 40px 0;" id="about">
 	<div class="row">
@@ -173,22 +189,6 @@
 		<a class="colophon h6" href="#">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
-
-<section class="interiorGallery">
-	<div class="row collapse">
-		<div class="medium-6 columns imgWrap">
-			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="Jardin de France Houston Antiques">
-			<img class="hide-for-medium" style="float: left;" src="/img/index-2/interiorGallery/jardin-de-france-houston-interiors.jpg" alt="Jardin de France Houston Interior Design">
-		</div>
-		<div class="medium-6 columns proseWrap">
-			<div class="prose">
-				<h1 class="cursive white"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
-				<span class="yellow-bar"></span>
-				<h4 class="white">In addition to our plants and garden items, we also have fine French Country antiques.</h4>
-			</div>
-		</div>
-	</div>
-</section>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-12-4/jquery-min.js"><\/script>')</script>
