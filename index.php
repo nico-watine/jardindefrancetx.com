@@ -175,11 +175,12 @@
 </footer>
 
 <section class="interiorGallery">
-	<div class="row flex">
+	<div class="row">
 		<div class="medium-6 columns imgWrap">
 			<img src="/img/index-2/interiorGallery/_dev/1.jpg" alt="">
+			<img src="/img/index-2/interiorGallery/_dev/2.jpg" alt="">
 		</div>
-		<div class="medium-6 columns proseWrap flex">
+		<div class="medium-6 columns proseWrap">
 			<h1 class="cursive white"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
 			<span class="yellow-bar"></span>
 			<h4 class="white">In addition to our plants and garden items, we also have fine French Country antiques.</h4>

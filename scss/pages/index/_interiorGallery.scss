@@ -13,12 +13,17 @@
 
 @media #{$medium} {
 	.interiorGallery {
+		.row {
+			display: flex;
+		}
+
 		.imgWrap {
 			max-height: 760px;
 			overflow: hidden;
 		}
 
 		.proseWrap {
+			display: flex;
 			flex-direction: column;
 			justify-content: center;
 		}
