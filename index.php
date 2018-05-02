@@ -177,7 +177,7 @@
 <section class="interiorGallery">
 	<div class="row expanded collapse">
 		<div class="medium-6 columns">
-			
+			<img src="/img/index-2/interiorGallery/_dev/1.jpg" alt="">
 		</div>
 		<div class="medium-6 columns">
 			
