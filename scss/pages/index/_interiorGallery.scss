@@ -9,7 +9,13 @@
 	.imgWrap {
 		img {
 			width: 50%;
+		}
+	}
 
+	h1 {
+		span {
+			margin-bottom: 12px;
+			text-transform: uppercase;
 		}
 	}
 
@@ -38,8 +44,6 @@
 		h1 {
 			span {
 				font-size: $h3;
-				margin-bottom: 12px;
-				text-transform: uppercase;
 			}
 		}
 
