@@ -9,9 +9,14 @@
 
 @media #{$medium} {
 	.interiorGallery {
-	.imgWrap {
-		max-height: 760px; 
-		overflow: hidden;
-	}
+		.imgWrap {
+			max-height: 760px;
+			overflow: hidden;
+		}
+
+		.proseWrap {
+			flex-direction: column;
+			justify-content: center;
+		}
 	}
 }

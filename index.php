@@ -179,7 +179,7 @@
 		<div class="medium-6 columns imgWrap">
 			<img src="/img/index-2/interiorGallery/_dev/1.jpg" alt="">
 		</div>
-		<div class="medium-6 columns" style="display: flex;flex-direction: column;justify-content: center;">
+		<div class="medium-6 columns proseWrap flex">
 			<h1 class="cursive white"><span class="h2 block"><strong>THE</strong></span> Interior Gallery</h1>
 			<span class="yellow-bar" style="background: #FFFEB3; width: 170px; height: 10px; margin: 30px 0 45px;"></span>
 			<h4 class="h3 white" style="max-width: 470px; width: 100%;">In addition to our plants and garden items, we also have fine French Country antiques.</h4>
