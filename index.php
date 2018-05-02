@@ -174,6 +174,17 @@
 	</div>
 </footer>
 
+<section class="interiorGallery">
+	<div class="row expanded collapse">
+		<div class="medium-6 columns">
+			
+		</div>
+		<div class="medium-6 columns">
+			
+		</div>
+	</div>
+</section>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-12-4/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
