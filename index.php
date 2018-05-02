@@ -181,7 +181,7 @@
 			<img style="float: left;" src="/img/index-2/interiorGallery/_dev/2.jpg" alt="">
 		</div>
 		<div class="medium-6 columns proseWrap">
-			<div class="prose padding-XY" style="max-width: 400px; width: 100%; margin: 0 auto;">
+			<div class="prose padding-XY">
 				<h1 class="cursive white"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
 				<span class="yellow-bar"></span>
 				<h4 class="white">In addition to our plants and garden items, we also have fine French Country antiques.</h4>
