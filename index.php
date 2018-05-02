@@ -180,7 +180,7 @@
 			<img src="/img/index-2/interiorGallery/_dev/1.jpg" alt="">
 		</div>
 		<div class="medium-6 columns" style="display: flex;flex-direction: column;justify-content: center;">
-			<h1 class="cursive white">Interior Gallery</h1>
+			<h1 class="cursive white"><span class="h2 block"><strong>THE</strong></span> Interior Gallery</h1>
 		</div>
 	</div>
 </section>
