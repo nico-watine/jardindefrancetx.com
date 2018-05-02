@@ -1,4 +1,8 @@
 
 .interiorGallery {
 	background: $dark-blue;
+
+	.row {
+		max-width: 1366px;
+	}
 }
