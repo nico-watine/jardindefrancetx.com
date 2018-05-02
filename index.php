@@ -174,7 +174,7 @@
 	</div>
 </footer>
 
-<section class="interiorGallery" style="background: #697b99;">
+<section class="interiorGallery">
 	<div class="row flex" style="max-width: 1366px;">
 		<div class="medium-6 columns" style="max-height: 760px; overflow: hidden;">
 			<img src="/img/index-2/interiorGallery/_dev/1.jpg" alt="">
