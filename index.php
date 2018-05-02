@@ -182,7 +182,7 @@
 		<div class="medium-6 columns proseWrap flex">
 			<h1 class="cursive white"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
 			<span class="yellow-bar"></span>
-			<h4 class="h3 white" style="max-width: 470px; width: 100%;">In addition to our plants and garden items, we also have fine French Country antiques.</h4>
+			<h4 class="white" style="max-width: 470px; width: 100%;">In addition to our plants and garden items, we also have fine French Country antiques.</h4>
 		</div>
 	</div>
 </section>
