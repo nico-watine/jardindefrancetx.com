@@ -120,7 +120,7 @@
 	</div>
 </section>
 
-<section class="bannerSection interiorGallery relative" id="interiorGallery">
+<section class="bannerSection relative" id="interiorGallery">
 	<div class="scrim absolute text-center white">
 		<h2 class="h1 cursive">The Interior Gallery</h2>
 		<h4>In addition to our plants and garden items, we also have fine French Country antiques.</h4>
