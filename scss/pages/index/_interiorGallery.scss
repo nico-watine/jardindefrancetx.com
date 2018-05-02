@@ -12,6 +12,10 @@
 		}
 	}
 
+	.proseWrap {
+		padding: 20px;
+	}
+
 	h1 {
 		span {
 			margin-bottom: 12px;
@@ -21,6 +25,10 @@
 
 	.yellow-bar {
 		background: $yellow;
+		width: 170px;
+		margin: 20px 0 30px;
+		height: 6px;
+		display: block;
 	}
 }
 
