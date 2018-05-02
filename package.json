@@ -17,11 +17,11 @@
     "url": "https://github.com/nico-watine/jardin-de-france/issues"
   },
   "homepage": "https://github.com/nico-watine/jardin-de-france#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
     "gulp-cssnano": "^2.1.2",
     "gulp-uncss": "^1.0.6"
-  },
-  "dependencies": {
-    "gulp": "^3.9.1"
   }
 }
