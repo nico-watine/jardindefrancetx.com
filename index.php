@@ -174,8 +174,8 @@
 	</div>
 </footer>
 
-<section class="interiorGallery">
-	<div class="row expanded collapse">
+<section class="interiorGallery" style="height: 750px; overflow: hidden;">
+	<div class="row collapse">
 		<div class="medium-6 columns">
 			<img src="/img/index-2/interiorGallery/_dev/1.jpg" alt="">
 		</div>
