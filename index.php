@@ -136,14 +136,6 @@
 	</div>
 </section>
 
-<!-- <section class="bannerSection relative" id="interiorGallery">
-	<div class="scrim absolute text-center white">
-		<h2 class="h1 cursive">The Interior Gallery</h2>
-		<h4>In addition to our plants and garden items, we also have fine French Country antiques.</h4>
-	</div>
-	<img src="/img/index-2/interiorGallery/interiorGallery.jpg" alt="Jardin de France Houston TX Interior Gallery">
-</section> -->
-
 <section class="about" style="padding: 40px 0;" id="about">
 	<div class="row">
 		<div class="columns">
