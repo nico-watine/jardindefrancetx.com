@@ -5,6 +5,10 @@
 	.row {
 		max-width: 1366px;
 	}
+
+	.yellow-bar {
+		background: $yellow;
+	}
 }
 
 @media #{$medium} {
