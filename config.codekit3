@@ -1711,6 +1711,16 @@
 		"oAP": "\/browserconfig.xml",
 		"oF": 0
 		},
+	"\/css\/opt\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/opt\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/css\/style.css": {
 		"aP": 0,
 		"bl": 0,

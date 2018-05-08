@@ -163,6 +163,7 @@
 					<address class="h4"><strong><a href="https://goo.gl/maps/NtUtThFb2JA2" target="_blank">4819 Blossom St. <br>
 					Houston, TX <br>
 					77007</a></strong></address>
+					<span class="h4 block" style="margin-bottom: 8px;"><strong>Tue - Sat | 10 - 5</strong></span>
 					<p class="h4"><strong><a href="mailto:shop@jdftx.com">Shop@JDFTX.com</a></strong></p>
 					<span class="h4"><strong>832-651-3136</strong></span>
 				</div>
