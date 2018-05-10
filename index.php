@@ -142,7 +142,7 @@
 			<img class="hide-for-medium" style="float: left;" src="/img/index-2/interiorGallery/jardin-de-france-houston-interiors.jpg" alt="Jardin de France Houston Interior Design">
 		</div>
 		<div class="medium-6 columns" style="display: flex; flex-direction: column; justify-content: center;">
-			<div style="padding: 0 0 30px 30px; background: white; height: 100%; align-items: flex-end; display: flex;">
+			<div style="background: linear-gradient(rgba(244,242,242,.60),rgba(244,242,242,.60)), url('img/index-2/interiorGallery/interior-gallery-pottery-collection.jpg') center center/cover no-repeat; padding: 0 0 30px 30px;height: 100%; align-items: flex-end; display: flex;">
 				<h1 class="cursive"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
 			</div>
 			<div style="padding: 30px 30px 80px;">
