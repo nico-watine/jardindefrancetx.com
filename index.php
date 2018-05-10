@@ -143,10 +143,10 @@
 			<img style="border-right: 3px solid #fff;" src="/img/index-2/interiorGallery/product/antique-french-knives-set.jpg" alt="">
 		</div>
 		<div class="medium-4 large-3 columns">
-			<img style="border-right: 3px solid #fff;" src="/img/index-2/interiorGallery/product/antique-home-pottery.jpg" alt="">
+			<img style="border-right: 3px solid #fff;" src="/img/index-2/interiorGallery/product/french-vintage-home-goods.jpg" alt="">
 		</div>
 		<div class="medium-4 large-3 columns">
-			<img style="border-right: 3px solid #fff;" src="/img/index-2/interiorGallery/product/french-vintage-home-goods.jpg" alt="">
+			<img style="border-right: 3px solid #fff;" src="/img/index-2/interiorGallery/product/antique-home-pottery.jpg" alt="">
 		</div>
 		<div class="show-for-large large-3 columns">
 			<img style="border-right: 3px solid transparent;" src="/img/index-2/interiorGallery/product/vintage-french-books-lamp.jpg" alt="">
