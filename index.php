@@ -122,20 +122,6 @@
 
 <section class="interiorGallery" id="interiorGallery">
 	<br>
-	<div class="row collapse">
-		<div class="medium-6 columns imgWrap">
-			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="Jardin de France Houston Antiques">
-			<img class="hide-for-medium" style="float: left;" src="/img/index-2/interiorGallery/jardin-de-france-houston-interiors.jpg" alt="Jardin de France Houston Interior Design">
-		</div>
-		<div class="medium-6 columns proseWrap">
-			<div class="prose">
-				<h1 class="cursive white"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
-				<span class="yellow-bar"></span>
-				<h4 class="white">In addition to our plants and garden items, we also have fine French Country antiques.</h4>
-			</div>
-		</div>
-	</div>
-	<br>
 	<div class="row">
 		<div class="medium-6 columns imgWrap">
 			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="Jardin de France Houston Antiques">
