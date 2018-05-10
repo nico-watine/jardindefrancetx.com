@@ -121,6 +121,7 @@
 </section>
 
 <section class="interiorGallery" id="interiorGallery">
+	<br>
 	<div class="row collapse">
 		<div class="medium-6 columns imgWrap">
 			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="Jardin de France Houston Antiques">
@@ -132,6 +133,21 @@
 				<span class="yellow-bar"></span>
 				<h4 class="white">In addition to our plants and garden items, we also have fine French Country antiques.</h4>
 			</div>
+		</div>
+	</div>
+	<br>
+	<div class="row collapse" style="max-width: 1440px;">
+		<div class="medium-4 large-3 columns">
+			<img src="http://via.placeholder.com/500x350" alt="500x350">
+		</div>
+		<div class="medium-4 large-3 columns">
+			<img src="http://via.placeholder.com/500x350" alt="500x350">
+		</div>
+		<div class="medium-4 large-3 columns">
+			<img src="http://via.placeholder.com/500x350" alt="500x350">
+		</div>
+		<div class="show-for-large large-3 columns">
+			<img src="http://via.placeholder.com/500x350" alt="500x350">
 		</div>
 	</div>
 </section>
