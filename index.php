@@ -124,7 +124,7 @@
 	<div class="row collapse sectionIntro">
 		<div class="medium-6 columns imgWrap">
 			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="Jardin de France Houston Antiques">
-			<img class="hide-for-medium" style="float: left;" src="/img/index-2/interiorGallery/jardin-de-france-houston-interiors.jpg" alt="Jardin de France Houston Interior Design">
+			<img class="hide-for-medium" src="/img/index-2/interiorGallery/jardin-de-france-houston-interiors.jpg" alt="Jardin de France Houston Interior Design">
 		</div>
 		<div class="medium-6 columns proseWrap">
 			<div class="prose">
@@ -136,18 +136,18 @@
 	</div>
 	<div class="imageBanner">
 		<div class="row collapse">
-			<div class="medium-4 large-3 columns">
+			<div class="show-for-medium medium-4 large-3 columns">
 				<img src="/img/index-2/interiorGallery/product/antique-french-knives-set.jpg" alt="Antique French knives set">
 			</div>
-			<div class="medium-4 large-3 columns">
+			<div class="small-10 small-push-1 medium-4 large-3 columns">
 				<img src="/img/index-2/interiorGallery/product/french-vintage-home-goods.jpg" alt="French vintage home goods">
 			</div>
-			<div class="medium-4 large-3 columns">
+			<div class="small-10 small-pull-1 medium-4 large-3 columns">
 				<img src="/img/index-2/interiorGallery/product/antique-home-pottery.jpg" alt="Antique home pottery">
 			</div>
-			<div class="show-for-large large-3 columns">
+			<!-- <div class="show-for-xlarge large-3 columns">
 				<img src="/img/index-2/interiorGallery/product/vintage-french-books-lamp.jpg" alt="Vintage French books by lamp">
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<br>

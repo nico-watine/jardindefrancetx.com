@@ -1,6 +1,7 @@
 
 .interiorGallery {
 	background: $dark-blue;
+	padding-top: 10px;
 
 	.row.sectionIntro {
 		max-width: 1366px;
@@ -9,6 +10,11 @@
 	.imgWrap {
 		img {
 			width: 50%;
+			border: 3px solid $white;
+		}
+
+		img.hide-for-medium {
+			float: left;
 		}
 	}
 
