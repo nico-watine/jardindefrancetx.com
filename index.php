@@ -134,8 +134,7 @@
 			</div>
 		</div>
 	</div>
-	<br>
-	<div class="whiteWrapper" style="background: #fff;">
+	<div class="whiteWrapper" style="background: #fff; border: 3px solid #fff;">
 		<div class="row collapse" style="max-width: 1600px;">
 			<div class="medium-4 large-3 columns">
 				<img style="border-right: 3px solid #fff;" src="/img/index-2/interiorGallery/product/antique-french-knives-set.jpg" alt="">
@@ -151,6 +150,7 @@
 			</div>
 		</div>
 	</div>
+	<br>
 </section>
 
 <section class="about" style="padding: 40px 0;" id="about">
