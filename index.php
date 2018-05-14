@@ -134,19 +134,19 @@
 			</div>
 		</div>
 	</div>
-	<div class="whiteWrapper" style="background: #fff; border: 3px solid #fff;">
+	<div class="whiteWrapper" style="background: #fff;">
 		<div class="row collapse" style="max-width: 1600px;">
 			<div class="medium-4 large-3 columns">
-				<img style="border-right: 3px solid #fff;" src="/img/index-2/interiorGallery/product/antique-french-knives-set.jpg" alt="">
+				<img style="border: 3px solid #fff;" src="/img/index-2/interiorGallery/product/antique-french-knives-set.jpg" alt="">
 			</div>
 			<div class="medium-4 large-3 columns">
-				<img style="border-right: 3px solid #fff;" src="/img/index-2/interiorGallery/product/french-vintage-home-goods.jpg" alt="">
+				<img style="border: 3px solid #fff;" src="/img/index-2/interiorGallery/product/french-vintage-home-goods.jpg" alt="">
 			</div>
 			<div class="medium-4 large-3 columns">
-				<img style="border-right: 3px solid #fff;" src="/img/index-2/interiorGallery/product/antique-home-pottery.jpg" alt="">
+				<img style="border: 3px solid #fff;" src="/img/index-2/interiorGallery/product/antique-home-pottery.jpg" alt="">
 			</div>
 			<div class="show-for-large large-3 columns">
-				<img style="border-right: 3px solid transparent;" src="/img/index-2/interiorGallery/product/vintage-french-books-lamp.jpg" alt="">
+				<img style="border: 3px solid #fff;" src="/img/index-2/interiorGallery/product/vintage-french-books-lamp.jpg" alt="">
 			</div>
 		</div>
 	</div>
