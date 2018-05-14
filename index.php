@@ -134,7 +134,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="whiteWrapper" style="background: #fff;">
+	<div class="imageBanner">
 		<div class="row collapse" style="max-width: 1600px;">
 			<div class="medium-4 large-3 columns">
 				<img style="border: 3px solid #fff;" src="/img/index-2/interiorGallery/product/antique-french-knives-set.jpg" alt="Antique French knives set">

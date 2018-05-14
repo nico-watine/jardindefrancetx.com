@@ -33,6 +33,10 @@
 		height: 6px;
 		display: block;
 	}
+
+	.imageBanner {
+		background: $white;
+	}
 }
 
 @media #{$medium} {
