@@ -121,7 +121,7 @@
 </section>
 
 <section class="interiorGallery" id="interiorGallery">
-	<div class="row collapse">
+	<div class="row collapse sectionIntro">
 		<div class="medium-6 columns imgWrap">
 			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="Jardin de France Houston Antiques">
 			<img class="hide-for-medium" style="float: left;" src="/img/index-2/interiorGallery/jardin-de-france-houston-interiors.jpg" alt="Jardin de France Houston Interior Design">

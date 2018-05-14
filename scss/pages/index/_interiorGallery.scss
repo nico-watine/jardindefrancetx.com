@@ -2,7 +2,7 @@
 .interiorGallery {
 	background: $dark-blue;
 
-	.row {
+	.row.sectionIntro {
 		max-width: 1366px;
 	}
 
@@ -37,7 +37,7 @@
 
 @media #{$medium} {
 	.interiorGallery {
-		.row {
+		.row.sectionIntro {
 			display: flex;
 		}
 
