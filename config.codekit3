@@ -2037,6 +2037,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/index-2\/interiorGallery\/interior-gallery-pottery-collection.jpg": {
+		"ft": 16384,
+		"iS": 114019,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/index-2\/interiorGallery\/interior-gallery-pottery-collection.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/index-2\/interiorGallery\/interiorGallery.jpg": {
 		"ft": 16384,
 		"iS": 93108,
@@ -2065,6 +2076,50 @@
 		"jF": 0,
 		"oA": 1,
 		"oAP": "\/img\/index-2\/interiorGallery\/jardin-de-france-houston-interiors.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index-2\/interiorGallery\/product\/antique-french-knives-set.jpg": {
+		"ft": 16384,
+		"iS": 68618,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/index-2\/interiorGallery\/product\/antique-french-knives-set.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index-2\/interiorGallery\/product\/antique-home-pottery.jpg": {
+		"ft": 16384,
+		"iS": 67107,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/index-2\/interiorGallery\/product\/antique-home-pottery.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index-2\/interiorGallery\/product\/french-vintage-home-goods.jpg": {
+		"ft": 16384,
+		"iS": 79710,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/index-2\/interiorGallery\/product\/french-vintage-home-goods.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index-2\/interiorGallery\/product\/vintage-french-books-lamp.jpg": {
+		"ft": 16384,
+		"iS": 79460,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/index-2\/interiorGallery\/product\/vintage-french-books-lamp.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3521,7 +3576,7 @@
 		"oA": 0,
 		"oAP": "\/css\/style.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"\/sitemap.xml": {

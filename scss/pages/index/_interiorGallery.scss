@@ -1,14 +1,20 @@
 
 .interiorGallery {
 	background: $dark-blue;
+	padding-top: 10px;
 
-	.row {
+	.row.sectionIntro {
 		max-width: 1366px;
 	}
 
 	.imgWrap {
 		img {
 			width: 50%;
+			border: 3px solid $white;
+		}
+
+		img.hide-for-medium {
+			float: left;
 		}
 	}
 
@@ -33,11 +39,25 @@
 		height: 6px;
 		display: block;
 	}
+
+	.imageBanner {
+		background: $white;
+
+		.row {
+			max-width: 1600px;
+		}
+
+		img {
+			border: 3px solid $white;
+		}
+	}
 }
 
 @media #{$medium} {
 	.interiorGallery {
-		.row {
+		padding: 0;
+
+		.row.sectionIntro {
 			display: flex;
 		}
 
@@ -47,6 +67,8 @@
 
 			img {
 				width: auto;
+				border-top: 0;
+				border-bottom: 0;
 			}
 		}
 
