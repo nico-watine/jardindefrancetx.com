@@ -145,7 +145,7 @@
 			<div class="medium-4 large-3 columns">
 				<img src="/img/index-2/interiorGallery/product/antique-home-pottery.jpg" alt="Antique home pottery">
 			</div>
-			<div class="show-for-large large-3 columns">
+			<div class="show-for-xlarge large-3 columns">
 				<img src="/img/index-2/interiorGallery/product/vintage-french-books-lamp.jpg" alt="Vintage French books by lamp">
 			</div>
 		</div>
