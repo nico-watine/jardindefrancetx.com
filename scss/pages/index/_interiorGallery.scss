@@ -56,7 +56,7 @@
 @media #{$medium} {
 	.interiorGallery {
 		padding: 0;
-		
+
 		.row.sectionIntro {
 			display: flex;
 		}
@@ -67,6 +67,8 @@
 
 			img {
 				width: auto;
+				border-top: 0;
+				border-bottom: 0;
 			}
 		}
 
