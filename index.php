@@ -21,8 +21,8 @@
 	<meta property="og:site_name" content="Jardin de France">
 	<meta property="og:image" content="http://jardindefrancetx.com/img/social-media/milieu/og-image.png">
 
-	<link href="<?php autoVer('/css/opt/style.css'); ?>" rel="stylesheet">
-	<!-- <link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet"> -->
+	<!-- <link href="<?php autoVer('/css/opt/style.css'); ?>" rel="stylesheet"> -->
+	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
 
 	<script type="application/ld+json">
 	{
@@ -153,8 +153,14 @@
 	<br>
 </section>
 
-<section class="roundTop" style="background: rgba(105,123,153,0.80);">
-	<h1 class="cursive white"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
+<section class="roundTop-section">
+	<div class="row">
+		<div class="columns">
+			<div class="prose" style="max-width: 500px;">
+				<h2 class="cursive white"><span class="h4 block"><strong>The</strong></span> Round Top Antique Show</h2>
+			</div>
+		</div>
+	</div>
 </section>
 
 <section class="about" style="padding: 40px 0;" id="about">

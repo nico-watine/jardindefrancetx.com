@@ -2864,3 +2864,13 @@ header {
     margin: 50px 0;
   }
 }
+
+.roundTop-section {
+  background: rgba(105, 123, 153, 0.8);
+}
+
+@media screen and (max-width: medium) {
+  .roundTop-section h2 {
+    font-size: 70px;
+  }
+}

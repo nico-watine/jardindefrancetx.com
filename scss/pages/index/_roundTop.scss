@@ -1,0 +1,13 @@
+@import '../../settings/_settings.scss';
+
+.roundTop-section {
+	background: rgba(105,123,153,.80);
+}
+
+@include breakpoint(medium) {
+	.roundTop-section {
+		h2 {
+			font-size: $h1-cursive-medium;
+		}
+	}
+}
