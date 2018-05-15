@@ -2868,11 +2868,11 @@ header {
 .roundTop-section {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(105, 123, 153, 0.8)), to(rgba(105, 123, 153, 0.8))), url("/img/index/round-top/2018/spring/marburger-farms/background.jpg") center/cover no-repeat;
   background: linear-gradient(rgba(105, 123, 153, 0.8), rgba(105, 123, 153, 0.8)), url("/img/index/round-top/2018/spring/marburger-farms/background.jpg") center/cover no-repeat;
-  padding: 50px 0;
 }
 
 .roundTop-section .prose {
   max-width: 500px;
+  padding: 50px 0;
 }
 
 @media screen and (max-width: medium) {
