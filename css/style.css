@@ -2871,6 +2871,10 @@ header {
   padding: 50px 0;
 }
 
+.roundTop-section .prose {
+  max-width: 500px;
+}
+
 @media screen and (max-width: medium) {
   .roundTop-section h2 {
     font-size: 70px;

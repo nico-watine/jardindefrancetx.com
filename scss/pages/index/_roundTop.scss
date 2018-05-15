@@ -6,6 +6,10 @@
 	rgba(105,123,153,.80)
 	), url("/img/index/round-top/2018/spring/marburger-farms/background.jpg") center/cover no-repeat;
 	padding: 50px 0;
+
+	.prose {
+		max-width: 500px;
+	}
 }
 
 @include breakpoint(medium) {

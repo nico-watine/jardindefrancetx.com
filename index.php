@@ -156,7 +156,7 @@
 <section class="roundTop-section">
 	<div class="row">
 		<div class="columns">
-			<div class="prose" style="max-width: 500px;">
+			<div class="prose padding-X">
 				<h2 class="cursive white"><span class="h4 block"><strong>The</strong></span> Round Top Antique Show</h2>
 				<h3 class="white">Spring 2018 Booth | <strong>Marburger Farm</strong></h3>
 			</div>
