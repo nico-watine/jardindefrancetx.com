@@ -162,6 +162,12 @@
 			</div>
 		</div>
 	</div>
+	<div id="masonryGrid" class="row small-up-2 medium-up-3">
+		<br>
+		<div class="tile column column-block">
+			<img src="/img/index/round-top/2018/spring/marburger-farms/marburger-farm-1.jpg" alt="Jardin de France Marburger Farm booth">
+		</div>
+	</div>
 </section>
 
 <section class="about" style="padding: 40px 0;" id="about">
