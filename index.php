@@ -214,5 +214,7 @@
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-12-4/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
+
 </body>
 </html>
