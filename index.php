@@ -153,6 +153,10 @@
 	<br>
 </section>
 
+<section class="roundTop" style="background: rgba(105,123,153,0.80);">
+	<h1 class="cursive white"><span class="h4 block"><strong>The</strong></span> Interior Gallery</h1>
+</section>
+
 <section class="about" style="padding: 40px 0;" id="about">
 	<div class="row">
 		<div class="columns">
