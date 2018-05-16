@@ -63,7 +63,7 @@
 					<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
 					<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
 					<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
-					<li class="menu-item"><a href="#interiorGallery" data-scroll>The Interior Gallery</a></li>
+					<li class="menu-item"><a href="#interior-gallery" data-scroll>The Interior Gallery</a></li>
 					<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
 					<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
 				</ul>
@@ -120,7 +120,7 @@
 	</div>
 </section>
 
-<section class="interiorGallery" id="interiorGallery">
+<section class="interiorGallery" id="interior-gallery">
 	<div class="row collapse sectionIntro">
 		<div class="medium-6 columns imgWrap">
 			<img src="/img/index-2/interiorGallery/jardin-de-france-houston-antiques.jpg" alt="Jardin de France Houston Antiques">
