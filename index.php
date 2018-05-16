@@ -239,7 +239,7 @@
 		<a class="margin-X" target="_blank" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
 	<div class="text-center padding-Y">
-		<a class="colophon h6" href="#">A <span>Studio N</span> Creation</a>
+		<a class="colophon h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
 
