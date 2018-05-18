@@ -30,7 +30,7 @@
 		</div>
 	</div>
 	<br>
-	<div class="row gallery">
+	<div class="row gallery text-center">
 		<div class="small-10 small-push-1 medium-6 medium-push-0 large-4 columns">
 			<img src="/img/gardens/portrait/view-of-jardin-de-france-garden-pathway.jpg" alt="">
 		</div>
@@ -42,6 +42,17 @@
 		</div>
 		<div class="small-10 small-push-1 medium-6 medium-push-0 large-4 columns end show-for-medium">
 			<img src="/img/gardens/portrait/patio-chairs-in-garden.jpg" alt="">
+		</div>
+	</div>
+	<br>
+	<div class="imageBanner">
+		<div class="row collapse">
+			<div class="small-10 small-push-1 medium-4 medium-push-0 large-3 columns">
+				<img src="/img/gardens/landscape/succulents-for-sale-shelf.jpg" alt="">
+			</div>
+			<div class="small-10 small-push-1 medium-4 medium-push-0 large-3 columns end">
+				<img src="/img/gardens/landscape/quaint-sitting-garden.jpg" alt="">
+			</div>
 		</div>
 	</div>
 </section>

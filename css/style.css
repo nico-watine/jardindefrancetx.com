@@ -2900,13 +2900,29 @@ header {
   border-radius: 3px;
   -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
           box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
-  border: 4px solid #fff;
+  border: 4px solid #fefefe;
   margin-bottom: 30px;
+  max-width: 340px;
+  width: 100%;
+}
+
+#index-2 .gardensSection .imageBanner,
+#index .gardensSection .imageBanner {
+  background: #697b99;
+}
+
+#index-2 .gardensSection .imageBanner img,
+#index .gardensSection .imageBanner img {
+  border: 4px solid #fefefe;
 }
 
 @media only screen and (min-width: 40em) {
   #index-2 .gardensSection .header,
   #index .gardensSection .header {
     padding: 90px 0;
+  }
+  #index-2 .gardensSection .gallery img,
+  #index .gardensSection .gallery img {
+    max-width: none;
   }
 }
