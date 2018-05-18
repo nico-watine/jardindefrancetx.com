@@ -2921,10 +2921,6 @@ header {
   #index .gardensSection .header {
     padding: 90px 0;
   }
-  #index-2 .gardensSection .gallery img,
-  #index .gardensSection .gallery img {
-    max-width: none;
-  }
   #index-2 .gardensSection .imageBanner,
   #index .gardensSection .imageBanner {
     padding-bottom: 20px;

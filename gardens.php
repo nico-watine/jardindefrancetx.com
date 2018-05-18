@@ -31,16 +31,16 @@
 	</div>
 	<br>
 	<div class="row gallery text-center">
-		<div class="small-10 small-push-1 medium-6 medium-push-0 large-4 columns">
+		<div class="small-10 small-push-1 medium-6 medium-push-0 large-3 columns medium-text-right">
 			<img src="/img/gardens/portrait/view-of-jardin-de-france-garden-pathway.jpg" alt="">
 		</div>
-		<div class="medium-6 large-4 columns show-for-medium">
+		<div class="medium-6 large-3 columns show-for-medium medium-text-left">
 			<img src="/img/gardens/portrait/floral-arrangement-with-vintage-water-pitcher.jpg" alt="">
 		</div>
-		<div class="small-10 small-push-1 medium-6 medium-push-0 large-4 columns">
+		<div class="small-10 small-push-1 medium-6 medium-push-0 large-3 columns medium-text-right">
 			<img src="/img/gardens/portrait/jardin-de-france-garden-entry.jpg" alt="">
 		</div>
-		<div class="medium-6 large-4 columns end show-for-medium">
+		<div class="medium-6 large-3 columns end show-for-medium medium-text-left">
 			<img src="/img/gardens/portrait/patio-chairs-in-garden.jpg" alt="">
 		</div>
 	</div>
@@ -55,6 +55,9 @@
 			</div>
 			<div class="medium-4 large-3 columns end show-for-medium">
 				<img src="/img/gardens/landscape/peaceful-gazebo.jpg" alt="">
+			</div>
+			<div class="large-3 columns end show-for-large">
+				<img src="/img/gardens/landscape/various-succulents-cacti.jpg" alt="">
 			</div>
 		</div>
 	</div>
