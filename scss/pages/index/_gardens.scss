@@ -1,6 +1,8 @@
 #index-2,
 #index {
 	.gardensSection {
+		border-top: 20px solid $white;
+		
 		.header {
 			padding: 60px 0;
 			background: linear-gradient(
@@ -37,13 +39,6 @@
 			.header {
 				padding: 90px 0;
 			}
-
-			.gallery {
-				img {
-					// max-width: none;
-				}
-			}
-
 			.imageBanner {
 				padding-bottom: 20px;
 			}

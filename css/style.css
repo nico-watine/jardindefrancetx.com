@@ -2888,6 +2888,11 @@ header {
   border: 4px solid #fefefe;
 }
 
+#index-2 .gardensSection,
+#index .gardensSection {
+  border-top: 20px solid #fefefe;
+}
+
 #index-2 .gardensSection .header,
 #index .gardensSection .header {
   padding: 60px 0;
