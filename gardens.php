@@ -30,8 +30,19 @@
 		</div>
 	</div>
 	<br>
-	<div class="row">
-		
+	<div class="row gallery">
+		<div class="small-10 small-push-1 columns">
+			<img src="/img/gardens/portrait/view-of-jardin-de-france-garden-pathway.jpg" alt="">
+		</div>
+		<div class="small-10 small-push-1 columns show-for-medium">
+			<img src="/img/gardens/portrait/floral-arrangement-with-vintage-water-pitcher.jpg" alt="">
+		</div>
+		<div class="small-10 small-push-1 columns">
+			<img src="/img/gardens/portrait/jardin-de-france-garden-entry.jpg" alt="">
+		</div>
+		<div class="small-10 small-push-1 columns end show-for-medium">
+			<img src="/img/gardens/portrait/patio-chairs-in-garden.jpg" alt="">
+		</div>
 	</div>
 </section>
 
