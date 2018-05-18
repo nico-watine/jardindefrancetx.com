@@ -17,8 +17,8 @@
 </head>
 <body id="index-2">
 
-<section class="gardens">
-	<div class="header">
+<section class="gardensSection">
+	<div class="header" style="padding: 90px 0;">
 		<h2 class="h1 cursive text-center">The Gardens</h2>
 	</div>
 </section>
