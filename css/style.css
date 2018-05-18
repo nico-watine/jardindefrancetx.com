@@ -2890,6 +2890,14 @@ header {
 
 #index-2 .gardensSection .header,
 #index .gardensSection .header {
+  padding: 60px 0;
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(105, 123, 153, 0.7)), to(rgba(105, 123, 153, 0.7))), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center center/cover no-repeat;
   background: linear-gradient(rgba(105, 123, 153, 0.7), rgba(105, 123, 153, 0.7)), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center center/cover no-repeat;
+}
+
+@media only screen and (min-width: 40em) {
+  #index-2 .gardensSection .header,
+  #index .gardensSection .header {
+    padding: 90px 0;
+  }
 }

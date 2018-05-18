@@ -2,10 +2,22 @@
 #index {
 	.gardensSection {
 		.header {
+			padding: 60px 0;
 			background: linear-gradient(
 			rgba(105,123,153,.70),
 			rgba(105,123,153,.70)
 			), url('/img/gardens/jardin-de-france-gardens-entry.jpg') center center/cover no-repeat;
+		}
+	}
+}
+
+@media #{$medium} {
+	#index-2,
+	#index {
+		.gardensSection {
+			.header {
+				padding: 90px 0;
+			}
 		}
 	}
 }
