@@ -2000,6 +2000,105 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/gardens\/jardin-de-france-gardens-entry.jpg": {
+		"ft": 16384,
+		"iS": 195585,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/gardens\/jardin-de-france-gardens-entry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gardens\/landscape\/peaceful-gazebo.jpg": {
+		"ft": 16384,
+		"iS": 124490,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/gardens\/landscape\/peaceful-gazebo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gardens\/landscape\/quaint-sitting-garden.jpg": {
+		"ft": 16384,
+		"iS": 118735,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/gardens\/landscape\/quaint-sitting-garden.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gardens\/landscape\/succulents-for-sale-shelf.jpg": {
+		"ft": 16384,
+		"iS": 92540,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/gardens\/landscape\/succulents-for-sale-shelf.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gardens\/landscape\/various-succulents-cacti.jpg": {
+		"ft": 16384,
+		"iS": 97638,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/gardens\/landscape\/various-succulents-cacti.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gardens\/portrait\/floral-arrangement-with-vintage-water-pitcher.jpg": {
+		"ft": 16384,
+		"iS": 77711,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/gardens\/portrait\/floral-arrangement-with-vintage-water-pitcher.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gardens\/portrait\/jardin-de-france-garden-entry.jpg": {
+		"ft": 16384,
+		"iS": 77620,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/gardens\/portrait\/jardin-de-france-garden-entry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gardens\/portrait\/patio-chairs-in-garden.jpg": {
+		"ft": 16384,
+		"iS": 114595,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/gardens\/portrait\/patio-chairs-in-garden.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/gardens\/portrait\/view-of-jardin-de-france-garden-pathway.jpg": {
+		"ft": 16384,
+		"iS": 98300,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/img\/gardens\/portrait\/view-of-jardin-de-france-garden-pathway.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/index-2\/about\/nicolas-watine.png": {
 		"ft": 32768,
 		"iS": 41136,
@@ -3570,6 +3669,19 @@
 		"oAP": "\/scss\/neat\/css\/_visual-grid.css",
 		"oF": 0,
 		"oS": 1,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_gardens.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_gardens.css",
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/scss\/pages\/index\/_hipBanner.scss": {
