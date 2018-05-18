@@ -17,6 +17,11 @@
 </head>
 <body id="index-2">
 
+<section class="gardens">
+	<div class="header">
+		<h2 class="h1 cursive text-center">The Gardens</h2>
+	</div>
+</section>
 
 
 
