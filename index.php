@@ -44,7 +44,7 @@
 	    "https://www.google.com/+JardindeFranceHouston",
 	    "https://www.facebook.com/jardindefrancetx/",
 	    "https://www.pinterest.com/lebasi68/jardin-de-france/",
-	    "https://www.instagram.com/gloria_jardindefrance/"
+	    "https://www.instagram.com/jardindefrancetx/"
 	  ]
 	}
 	</script>
@@ -272,7 +272,7 @@
 
 <footer style="padding: 40px 0;">
 	<div class="socialMediaLinks text-center margin-Y">
-		<!-- <a target="_blank" href="https://instagram.com/gloria_jardindefrance/"><img src="/img/sharing/instagram.png" alt=""></a> -->
+		<a target="_blank" href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
 		<a class="margin-X" target="_blank" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a>
 		<a class="margin-X" target="_blank" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
