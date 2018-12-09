@@ -42,7 +42,6 @@
 	  },
 	  "sameAs" : [
 	    "https://www.google.com/+JardindeFranceHouston",
-	    "https://www.facebook.com/jardindefrancetx/",
 	    "https://www.pinterest.com/lebasi68/jardin-de-france/",
 	    "https://www.instagram.com/jardindefrancetx/"
 	  ]
@@ -273,7 +272,7 @@
 <footer style="padding: 40px 0;">
 	<div class="socialMediaLinks text-center margin-Y">
 		<a href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
-		<a class="margin-X" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a>
+		<!-- <a class="margin-X" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a> -->
 		<a class="margin-X" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
 	<div class="text-center padding-Y">
