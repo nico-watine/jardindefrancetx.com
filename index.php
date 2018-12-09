@@ -272,9 +272,9 @@
 
 <footer style="padding: 40px 0;">
 	<div class="socialMediaLinks text-center margin-Y">
-		<a target="_blank" href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
-		<a class="margin-X" target="_blank" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a>
-		<a class="margin-X" target="_blank" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
+		<a href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
+		<a class="margin-X" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a>
+		<a class="margin-X" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
 	<div class="text-center padding-Y">
 		<a class="colophon h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
