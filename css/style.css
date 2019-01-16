@@ -2160,7 +2160,7 @@ a.button:hover {
 }
 
 .slick-track:before, .slick-track:after {
-  content: "";
+  content: '';
   display: table;
 }
 
@@ -2215,8 +2215,8 @@ a.button:hover {
   position: absolute;
   display: block;
   height: 75px;
-  line-height: 0px;
-  font-size: 0px;
+  line-height: 0;
+  font-size: 0;
   cursor: pointer;
   background: transparent;
   bottom: 30px;
