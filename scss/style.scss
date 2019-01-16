@@ -1,7 +1,7 @@
 @import '_var.scss';
 
 // NORMALIZE.CSS
-@import "../bower_components/normalize-css/normalize";
+@import '../bower_components/normalize-css/normalize';
 @import 'foundation-6/_foundation-6.scss';
 
 // BOURBON-NEAT FILES
@@ -27,8 +27,3 @@
 // INDIVIDUAL PAGE STYLES
 
 @import 'pages/index/_index.scss';
-
-
-
-// LASTLY IMPORT DEVELOPMENT STYLES, TO BE REMOVED UPON PRODUCTION
-// @import "settings/_development-styles.scss";
