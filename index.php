@@ -51,23 +51,21 @@
 <body id="index-2">
 
 <header>
-	<div class="outer-container">
-		<div class="row">
-			<div class="logo">
-				<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-				<a href="#welcome" data-scroll><h1 class="cursive">JdF</h1></a>
-			</div>
-			<nav class="nav-collapse">
-				<ul>
-					<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
-					<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
-					<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
-					<li class="menu-item"><a href="#interior-gallery" data-scroll>The Interior Gallery</a></li>
-					<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
-					<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
-				</ul>
-			</nav>
+	<div class="row">
+		<div class="logo">
+			<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+			<a href="#welcome" data-scroll><h1 class="cursive">JdF</h1></a>
 		</div>
+		<nav class="nav-collapse">
+			<ul>
+				<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
+				<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
+				<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
+				<li class="menu-item"><a href="#interior-gallery" data-scroll>The Interior Gallery</a></li>
+				<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
+				<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
+			</ul>
+		</nav>
 	</div>
 </header>
 
