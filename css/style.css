@@ -3071,18 +3071,6 @@ header {
   }
 }
 
-@media screen and (max-width: 100px) {
-  .logo img {
-    position: absolute;
-    left: 5px;
-  }
-  .logo h1 {
-    position: absolute;
-    top: 5px;
-    left: 20px;
-  }
-}
-
 .bannerSection {
   overflow: hidden;
 }
