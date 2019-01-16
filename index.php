@@ -1,4 +1,4 @@
-<?php 
+<?php
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
@@ -12,7 +12,7 @@
 	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
 	<link href="http://jardindefrancetx.com" rel="canonical">
 	<link href="/humans.txt" rel="author">
-	
+
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Jardin de France - featured in MILIEU-MAG.com">
@@ -100,7 +100,7 @@
 		<div class="columns">
 			<div class="prose text-center" style="max-width: 670px; margin: 0 auto;">
 				<p class="h4">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
-			</div>	
+			</div>
 		</div>
 	</div>
 	<br>
@@ -152,7 +152,7 @@
 				<p class="h3">There is an even larger selection of indoor plants available at our online plant shop.</p>
 				<br>
 				<a href="https://houstoninteriorplants.com" target="_blank" class="button"><strong>www.HoustonInteriorPlants.com</strong></a>
-			</div>	
+			</div>
 		</div>
 	</div>
 </section>
@@ -193,7 +193,7 @@
 <section class="roundTop-section">
 	<div class="row">
 		<div class="columns">
-			<div class="prose padding-X">
+			<div class="prose">
 				<h2 class="cursive white"><span class="h4 block"><strong>The</strong></span> Round Top Antique Show</h2>
 				<h3 class="white">Spring 2018 Booth | <strong>Marburger Farm</strong></h3>
 			</div>
@@ -275,7 +275,7 @@
 		<!-- <a class="margin-X" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a> -->
 		<a class="margin-X" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
-	<div class="text-center padding-Y">
+	<div class="text-center py-16">
 		<a class="colophon h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>
