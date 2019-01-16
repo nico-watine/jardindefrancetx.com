@@ -2297,30 +2297,6 @@ a.button:hover {
   width: 100%;
 }
 
-.padding-X {
-  padding: 0 15px;
-}
-
-.padding-Y {
-  padding: 15px 0;
-}
-
-.padding-XY {
-  padding: 15px;
-}
-
-.margin-X {
-  margin: 0 15px;
-}
-
-.margin-Y {
-  margin: 15px 0;
-}
-
-.margin-XY {
-  margin: 15px;
-}
-
 .p-0 {
   padding: 0;
 }

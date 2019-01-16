@@ -243,8 +243,8 @@
 			</div>
 			<br>
 			<div class="bioPhoto text-center">
-				<img class="margin-XY" src="/img/index-2/about/nicolas-watine.png" alt="Nicolas Watine">
-				<img class="margin-XY" src="/img/index-2/about/patrice-watine.png" alt="Patrice Watine">
+				<img class="m-16" src="/img/index-2/about/nicolas-watine.png" alt="Nicolas Watine">
+				<img class="m-16" src="/img/index-2/about/patrice-watine.png" alt="Patrice Watine">
 			</div>
 		</div>
 	</div>
@@ -270,10 +270,10 @@
 </section>
 
 <footer style="padding: 40px 0;">
-	<div class="socialMediaLinks text-center margin-Y">
+	<div class="socialMediaLinks text-center my-16">
 		<a href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
-		<!-- <a class="margin-X" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a> -->
-		<a class="margin-X" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
+		<!-- <a class="mx-16" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a> -->
+		<a class="mx-16" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
 	<div class="text-center py-16">
 		<a class="colophon h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
