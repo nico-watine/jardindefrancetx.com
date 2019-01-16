@@ -118,7 +118,7 @@
 	</div>
 	<br>
 	<div class="imageBanner">
-		<div class="row collapse" style="max-width: 1440px;">
+		<div class="row collapse expanded">
 			<div class="small-10 small-push-1 medium-4 medium-push-0 large-3 columns">
 				<img src="/img/gardens/landscape/succulents-for-sale-shelf.jpg" alt="">
 			</div>
