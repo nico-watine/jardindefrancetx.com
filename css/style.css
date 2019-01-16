@@ -3300,7 +3300,7 @@ header {
   padding: 50px 0;
 }
 
-@media screen and (min-width: 40em) {
+@media only screen and (min-width: 40em) {
   .roundTop-section h2 {
     font-size: 70px;
   }
