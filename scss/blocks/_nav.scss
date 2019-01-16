@@ -209,7 +209,7 @@
 
 @media screen and (min-width: 1002px) {
 	.nav-collapse {
-		@include span-columns(12 of 16);
+		// @include span-columns(12 of 16);
 
 		a {
 			padding: 0 10px;
@@ -228,9 +228,10 @@
 }
 
 
-@include media($maxWidth-1000) {
+// @include media($maxWidth-1000) {
+@media screen and (max-width: 100px) {
 	.logo {
-		@include span-columns(0 of 16);
+		// @include span-columns(0 of 16);
 
 		img {
 			position: absolute;
@@ -244,7 +245,7 @@
 		}
 	}
 
-	.nav-collapse {
-		@include span-columns(16 of 16);
-	}
+	// .nav-collapse {
+	// 	@include span-columns(16 of 16);
+	// }
 }

@@ -1809,14 +1809,6 @@ html {
   }
 }
 
-html {
-  box-sizing: border-box;
-}
-
-*, *::after, *::before {
-  box-sizing: inherit;
-}
-
 @font-face {
   font-family: 'nav';
   src: url("/fonts/nav/nav.eot");
@@ -2835,17 +2827,6 @@ header {
   z-index: 100;
 }
 
-.logo {
-  float: left;
-  display: block;
-  margin-right: 1.7578778568%;
-  width: 23.6815916074%;
-}
-
-.logo:last-child {
-  margin-right: 0;
-}
-
 .logo img {
   max-width: 65px;
   height: auto;
@@ -3078,15 +3059,6 @@ header {
 }
 
 @media screen and (min-width: 1002px) {
-  .nav-collapse {
-    float: left;
-    display: block;
-    margin-right: 1.7578778568%;
-    width: 74.5605305358%;
-  }
-  .nav-collapse:last-child {
-    margin-right: 0;
-  }
   .nav-collapse a {
     padding: 0 10px;
     font-size: 18px;
@@ -3100,16 +3072,7 @@ header {
   }
 }
 
-@media screen and (max-width: 1000px) {
-  .logo {
-    float: left;
-    display: block;
-    margin-right: 1.7578778568%;
-    width: -1.7578778568%;
-  }
-  .logo:last-child {
-    margin-right: 0;
-  }
+@media screen and (max-width: 100px) {
   .logo img {
     position: absolute;
     left: 5px;
@@ -3118,15 +3081,6 @@ header {
     position: absolute;
     top: 5px;
     left: 20px;
-  }
-  .nav-collapse {
-    float: left;
-    display: block;
-    margin-right: 1.7578778568%;
-    width: 100%;
-  }
-  .nav-collapse:last-child {
-    margin-right: 0;
   }
 }
 
@@ -3359,7 +3313,7 @@ header {
   padding: 50px 0;
 }
 
-@media screen and (max-width: medium) {
+@media screen and (min-width: 40em) {
   .roundTop-section h2 {
     font-size: 70px;
   }
