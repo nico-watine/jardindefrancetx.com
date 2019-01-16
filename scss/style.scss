@@ -1,5 +1,7 @@
+@import '_var.scss';
+
 // NORMALIZE.CSS
-@import 'settings/_normalize.scss';
+@import '../bower_components/normalize-css/normalize';
 @import 'foundation-6/_foundation-6.scss';
 
 // BOURBON-NEAT FILES
@@ -15,6 +17,7 @@
 @import 'components/slider/_slick-theme.scss';
 
 @import 'components/_metrics.scss';
+@import 'components/_padding-margin.scss';
 
 // STANDARD PAGE BLOCKS
 @import 'blocks/_body.scss';
@@ -24,9 +27,4 @@
 
 // INDIVIDUAL PAGE STYLES
 
-@import "pages/index/_index.scss";
-
-
-
-// LASTLY IMPORT DEVELOPMENT STYLES, TO BE REMOVED UPON PRODUCTION
-// @import "settings/_development-styles.scss";
+@import 'pages/index/_index.scss';
