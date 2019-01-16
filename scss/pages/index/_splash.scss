@@ -1,4 +1,4 @@
-#index-2 {
+#index.index {
 	.splash {
 		position: relative;
 		top: 0;
@@ -63,7 +63,7 @@
 }
 
 @media #{$large} {
-	#index-2 {
+	#index.index {
 		.splash {
 			h1 {
 				font-size: $h1-cursive-large;

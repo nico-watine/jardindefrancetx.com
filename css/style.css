@@ -3102,7 +3102,7 @@ header {
   }
 }
 
-#index-2 .splash {
+#index.index .splash {
   position: relative;
   top: 0;
   left: 0;
@@ -3112,7 +3112,7 @@ header {
   overflow: hidden;
 }
 
-#index-2 .splash .prose {
+#index.index .splash .prose {
   z-index: 10;
   width: 100%;
   height: 100%;
@@ -3120,30 +3120,30 @@ header {
   flex-direction: column;
 }
 
-#index-2 .splash h1,
-#index-2 .splash h2,
-#index-2 .splash h3 {
+#index.index .splash h1,
+#index.index .splash h2,
+#index.index .splash h3 {
   text-shadow: 0 2px 4px #000;
 }
 
-#index-2 .splash h1 {
+#index.index .splash h1 {
   font-size: 70px;
   margin-bottom: 32px;
 }
 
-#index-2 .splash h2 {
+#index.index .splash h2 {
   max-width: 540px;
   width: 100%;
   margin: 0 auto 16px;
 }
 
-#index-2 .splash h3 {
+#index.index .splash h3 {
   max-width: 570px;
   width: 100%;
   margin: 0 auto 32px;
 }
 
-#index-2 .splash .bgScrim {
+#index.index .splash .bgScrim {
   background: rgba(105, 123, 153, 0.4);
   width: 100%;
   height: 100%;
@@ -3165,10 +3165,10 @@ header {
 }
 
 @media only screen and (min-width: 64em) {
-  #index-2 .splash h1 {
+  #index.index .splash h1 {
     font-size: 110px;
   }
-  #index-2 .splash .bgScrim {
+  #index.index .splash .bgScrim {
     background-image: radial-gradient(48% 195%, rgba(105, 123, 153, 0.4) 57%, rgba(0, 0, 0, 0.3) 100%);
   }
 }
@@ -3312,19 +3312,16 @@ header {
   border: 4px solid #fefefe;
 }
 
-#index-2 .gardensSection,
-#index .gardensSection {
+#index.index .gardensSection {
   border-top: 20px solid #fefefe;
 }
 
-#index-2 .gardensSection .header,
-#index .gardensSection .header {
+#index.index .gardensSection .header {
   padding: 60px 0;
   background: linear-gradient(rgba(105, 123, 153, 0.7), rgba(105, 123, 153, 0.7)), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center center/cover no-repeat;
 }
 
-#index-2 .gardensSection .gallery img,
-#index .gardensSection .gallery img {
+#index.index .gardensSection .gallery img {
   border-radius: 3px;
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
   border: 4px solid #fefefe;
@@ -3333,23 +3330,19 @@ header {
   width: 100%;
 }
 
-#index-2 .gardensSection .imageBanner,
-#index .gardensSection .imageBanner {
+#index.index .gardensSection .imageBanner {
   background: #697b99;
 }
 
-#index-2 .gardensSection .imageBanner img,
-#index .gardensSection .imageBanner img {
+#index.index .gardensSection .imageBanner img {
   border: 4px solid #fefefe;
 }
 
 @media only screen and (min-width: 40em) {
-  #index-2 .gardensSection .header,
-  #index .gardensSection .header {
+  #index.index .gardensSection .header {
     padding: 90px 0;
   }
-  #index-2 .gardensSection .imageBanner,
-  #index .gardensSection .imageBanner {
+  #index.index .gardensSection .imageBanner {
     padding-bottom: 20px;
   }
 }

@@ -48,7 +48,7 @@
 	}
 	</script>
 </head>
-<body id="index-2">
+<body id="index" class="index">
 
 <header>
 	<div class="row collapse">
