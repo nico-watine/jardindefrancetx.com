@@ -51,10 +51,10 @@
 <body id="index-2">
 
 <header>
-	<div class="row">
-		<div class="logo">
+	<div class="row collapse">
+		<div class="logo small-3 columns">
 			<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-			<a href="#welcome" data-scroll><h1 class="cursive">JdF</h1></a>
+			<a href="#welcome" data-scroll><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 		</div>
 		<nav class="nav-collapse">
 			<ul>

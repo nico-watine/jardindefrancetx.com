@@ -2828,6 +2828,7 @@ header {
 }
 
 .logo img {
+  position: absolute;
   max-width: 65px;
   height: auto;
   float: left;
@@ -2835,10 +2836,8 @@ header {
 }
 
 .logo h1 {
+  position: absolute;
   text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
-  margin: 0;
-  top: 0;
-  left: 28px;
   z-index: 55;
   color: #fefefe;
   font-size: 60px;

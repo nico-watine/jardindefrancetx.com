@@ -8,9 +8,8 @@ header {
 }
 
 .logo {
-	// @include span-columns(4 of 16);
-
 	img {
+		position: absolute;
 		max-width: 65px;
 		height: auto;
 		float: left;
@@ -18,10 +17,8 @@ header {
 	}
 
 	h1 {
+		position: absolute;
 		text-shadow: 0 6px 10px rgba(0,0,0,.30);
-		margin: 0;
-		top: 0;
-		left: 28px;
 		z-index: 55;
 		color: $white;
 		font-size: $h1-cursive;
