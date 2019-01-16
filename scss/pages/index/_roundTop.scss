@@ -10,7 +10,7 @@
 	}
 }
 
-@include breakpoint(medium) {
+@media #{$medium} {
 	.roundTop-section {
 		h2 {
 			font-size: $h1-cursive-medium;

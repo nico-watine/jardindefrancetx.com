@@ -1809,14 +1809,6 @@ html {
   }
 }
 
-html {
-  box-sizing: border-box;
-}
-
-*, *::after, *::before {
-  box-sizing: inherit;
-}
-
 @font-face {
   font-family: 'nav';
   src: url("/fonts/nav/nav.eot");
@@ -2084,18 +2076,6 @@ body {
   position: absolute;
 }
 
-.outer-container {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.outer-container::after {
-  clear: both;
-  content: "";
-  display: block;
-}
-
 a.button {
   border: none;
   cursor: pointer;
@@ -2117,13 +2097,6 @@ a.button:hover {
   color: #000;
   background: #fffe90;
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
-}
-
-@media screen and (max-width: 750px) {
-  a.button {
-    font-size: 16px;
-    padding: 13px 21px 16px;
-  }
 }
 
 /* Slider */
@@ -2854,18 +2827,8 @@ header {
   z-index: 100;
 }
 
-.logo {
-  float: left;
-  display: block;
-  margin-right: 1.7578778568%;
-  width: 23.6815916074%;
-}
-
-.logo:last-child {
-  margin-right: 0;
-}
-
 .logo img {
+  position: absolute;
   max-width: 65px;
   height: auto;
   float: left;
@@ -2873,10 +2836,8 @@ header {
 }
 
 .logo h1 {
+  position: absolute;
   text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
-  margin: 0;
-  top: 0;
-  left: 28px;
   z-index: 55;
   color: #fefefe;
   font-size: 60px;
@@ -3097,15 +3058,6 @@ header {
 }
 
 @media screen and (min-width: 1002px) {
-  .nav-collapse {
-    float: left;
-    display: block;
-    margin-right: 1.7578778568%;
-    width: 74.5605305358%;
-  }
-  .nav-collapse:last-child {
-    margin-right: 0;
-  }
   .nav-collapse a {
     padding: 0 10px;
     font-size: 18px;
@@ -3116,36 +3068,6 @@ header {
   .nav-collapse a {
     padding: 0 10px;
     font-size: 17px;
-  }
-}
-
-@media screen and (max-width: 1000px) {
-  .logo {
-    float: left;
-    display: block;
-    margin-right: 1.7578778568%;
-    width: -1.7578778568%;
-  }
-  .logo:last-child {
-    margin-right: 0;
-  }
-  .logo img {
-    position: absolute;
-    left: 5px;
-  }
-  .logo h1 {
-    position: absolute;
-    top: 5px;
-    left: 20px;
-  }
-  .nav-collapse {
-    float: left;
-    display: block;
-    margin-right: 1.7578778568%;
-    width: 100%;
-  }
-  .nav-collapse:last-child {
-    margin-right: 0;
   }
 }
 
@@ -3378,7 +3300,7 @@ header {
   padding: 50px 0;
 }
 
-@media screen and (max-width: medium) {
+@media only screen and (min-width: 40em) {
   .roundTop-section h2 {
     font-size: 70px;
   }
