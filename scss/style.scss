@@ -1,26 +1,27 @@
+// Variables
 @import '_var.scss';
 
-// NORMALIZE.CSS
+// Normalize
 @import '../bower_components/normalize-css/normalize';
+
+// Foundation 6 grid & basics
 @import 'foundation-6/_foundation-6.scss';
 
-// STYLE COMPONENTS
+// Style components
 @import 'components/_typography.scss';
 @import 'components/_resets.scss';
 @import 'components/_utility-classes.scss';
 @import 'components/_buttons.scss';
 @import 'components/slider/_slick.scss';
 @import 'components/slider/_slick-theme.scss';
-
 @import 'components/_metrics.scss';
 @import 'components/_padding-margin.scss';
 
-// STANDARD PAGE BLOCKS
+// Page blocks
 @import 'blocks/_body.scss';
 @import 'blocks/_footer.scss';
 @import 'blocks/_header.scss';
 @import 'blocks/_nav.scss';
 
-// INDIVIDUAL PAGE STYLES
-
+// Index page styles
 @import 'pages/index/_index.scss';
