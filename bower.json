@@ -21,6 +21,6 @@
   ],
   "dependencies": {
     "slick-carousel": "1.5.9",
-    "normalize-css": "^8.0.0"
+    "normalize-css": "^8.0.1"
   }
 }

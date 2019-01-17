@@ -1,4 +1,4 @@
-#index-2 {
+#index.index {
 	.splash {
 		position: relative;
 		top: 0;
@@ -63,15 +63,13 @@
 }
 
 @media #{$large} {
-	#index-2 {
+	#index.index {
 		.splash {
-
 			h1 {
 				font-size: $h1-cursive-large;
 			}
-			
+
 			.bgScrim {
-				background: none;
 				background-image: radial-gradient(48% 195%, rgba(105,123,153,.40) 57%, rgba(0,0,0,.30) 100%);
 			}
 		}

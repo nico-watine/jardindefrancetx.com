@@ -1,4 +1,4 @@
-<?php 
+<?php
 	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
@@ -12,7 +12,7 @@
 	<meta name="keywords" content="Antique Show Houston, French Antique Store Houston, European Antique Furniture, French Antiques Online, French Settees, Architectural Elements">
 	<link href="http://jardindefrancetx.com" rel="canonical">
 	<link href="/humans.txt" rel="author">
-	
+
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Jardin de France - featured in MILIEU-MAG.com">
@@ -42,33 +42,30 @@
 	  },
 	  "sameAs" : [
 	    "https://www.google.com/+JardindeFranceHouston",
-	    "https://www.facebook.com/jardindefrancetx/",
 	    "https://www.pinterest.com/lebasi68/jardin-de-france/",
-	    "https://www.instagram.com/gloria_jardindefrance/"
+	    "https://www.instagram.com/jardindefrancetx/"
 	  ]
 	}
 	</script>
 </head>
-<body id="index-2">
+<body id="index" class="index">
 
 <header>
-	<div class="outer-container">
-		<div class="row">
-			<div class="logo">
-				<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
-				<a href="#welcome" data-scroll><h1 class="cursive">JdF</h1></a>
-			</div>
-			<nav class="nav-collapse">
-				<ul>
-					<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
-					<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
-					<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
-					<li class="menu-item"><a href="#interior-gallery" data-scroll>The Interior Gallery</a></li>
-					<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
-					<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
-				</ul>
-			</nav>
+	<div class="row collapse">
+		<div class="logo small-3 columns">
+			<a href="#welcome" data-scroll><img src="/img/assets/logo/logo.png" class="pot" alt="Jardin de France Logo Icon"></a>
+			<a href="#welcome" data-scroll><h1 class="pt-8 pl-16 cursive">JdF</h1></a>
 		</div>
+		<nav class="nav-collapse">
+			<ul>
+				<li class="menu-item active" id="first"><a href="#welcome" data-scroll>Welcome</a></li>
+				<li class="menu-item"><a href="#gardens" data-scroll>The Gardens</a></li>
+				<li class="menu-item"><a href="#conservatory" data-scroll>The Conservatory</a></li>
+				<li class="menu-item"><a href="#interior-gallery" data-scroll>The Interior Gallery</a></li>
+				<li class="menu-item"><a href="#about" data-scroll>Our Story</a></li>
+				<li class="menu-item"><a href="#location" data-scroll>Location</a></li>
+			</ul>
+		</nav>
 	</div>
 </header>
 
@@ -100,8 +97,8 @@
 	<div class="row">
 		<div class="columns">
 			<div class="prose text-center" style="max-width: 670px; margin: 0 auto;">
-				<p class="h4">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
-			</div>	
+				<p class="h4">Find unique patio pieces and design inspiration for your own backyard. We can help you create a private retreat in the comfort of your home.</p>
+			</div>
 		</div>
 	</div>
 	<br>
@@ -121,7 +118,7 @@
 	</div>
 	<br>
 	<div class="imageBanner">
-		<div class="row collapse" style="max-width: 1440px;">
+		<div class="row collapse expanded">
 			<div class="small-10 small-push-1 medium-4 medium-push-0 large-3 columns">
 				<img src="/img/gardens/landscape/succulents-for-sale-shelf.jpg" alt="">
 			</div>
@@ -153,7 +150,7 @@
 				<p class="h3">There is an even larger selection of indoor plants available at our online plant shop.</p>
 				<br>
 				<a href="https://houstoninteriorplants.com" target="_blank" class="button"><strong>www.HoustonInteriorPlants.com</strong></a>
-			</div>	
+			</div>
 		</div>
 	</div>
 </section>
@@ -194,7 +191,7 @@
 <section class="roundTop-section">
 	<div class="row">
 		<div class="columns">
-			<div class="prose padding-X">
+			<div class="prose">
 				<h2 class="cursive white"><span class="h4 block"><strong>The</strong></span> Round Top Antique Show</h2>
 				<h3 class="white">Spring 2018 Booth | <strong>Marburger Farm</strong></h3>
 			</div>
@@ -235,33 +232,33 @@
 	</div>
 </section>
 
-<section class="about" style="padding: 40px 0;" id="about">
+<section class="about py-40" id="about">
 	<div class="row">
 		<div class="columns">
 			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
-				<h2 class="h1 cursive" style="margin-bottom: 32px;">Our Story</h2>
+				<h2 class="h1 cursive mb-32">Our Story</h2>
 				<p class="h4">Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing patrimoine.</p>
 			</div>
 			<br>
 			<div class="bioPhoto text-center">
-				<img class="margin-XY" src="/img/index-2/about/nicolas-watine.png" alt="Nicolas Watine">
-				<img class="margin-XY" src="/img/index-2/about/patrice-watine.png" alt="Patrice Watine">
+				<img class="m-16" src="/img/index-2/about/nicolas-watine.png" alt="Nicolas Watine">
+				<img class="m-16" src="/img/index-2/about/patrice-watine.png" alt="Patrice Watine">
 			</div>
 		</div>
 	</div>
 </section>
 
-<section class="locationBanner" style="padding: 90px 0;" id="location">
+<section class="location-banner" id="location">
 	<div class="row">
 		<div class="medium-11 columns medium-push-1">
 			<div class="prose white" style="max-width: 370px; width: 100%;">
 				<h2 class="h1 cursive">Location</h2>
-				<p class="h4" style="margin-bottom: 32px;">We are conveniently located 2 blocks south of Washington Ave at Durham Dr</p>
-				<div class="contactInfo" style="padding: 10px; border: 3px solid #fff;">
+				<p class="h4 mb-32">We are conveniently located 2 blocks south of Washington Ave at Durham Dr</p>
+				<div class="contact-info p-16">
 					<address class="h4"><strong><a href="https://goo.gl/maps/NtUtThFb2JA2" target="_blank">4819 Blossom St. <br>
 					Houston, TX <br>
 					77007</a></strong></address>
-					<span class="h4 block" style="margin-bottom: 8px;"><strong>Tue - Sat | 10 - 5</strong></span>
+					<span class="h4 block"><strong>Tue - Sat | 10 - 5</strong></span>
 					<p class="h4"><strong><a href="mailto:shop@jdftx.com">Shop@JDFTX.com</a></strong></p>
 					<span class="h4"><strong>832-651-3136</strong></span>
 				</div>
@@ -270,13 +267,12 @@
 	</div>
 </section>
 
-<footer style="padding: 40px 0;">
-	<div class="socialMediaLinks text-center margin-Y">
-		<!-- <a target="_blank" href="https://instagram.com/gloria_jardindefrance/"><img src="/img/sharing/instagram.png" alt=""></a> -->
-		<a class="margin-X" target="_blank" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a>
-		<a class="margin-X" target="_blank" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
+<footer class="py-40">
+	<div class="socialMediaLinks text-center my-16">
+		<a href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
+		<a class="mx-16" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
-	<div class="text-center padding-Y">
+	<div class="text-center py-16">
 		<a class="colophon h6" href="https://studioncreations.com">A <span>Studio N</span> Creation</a>
 	</div>
 </footer>

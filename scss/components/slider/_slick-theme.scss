@@ -1,11 +1,11 @@
-@charset "UTF-8";
+@charset 'UTF-8';
 
 /* Slider */
 
 .slick-list {
 	.slick-loading & {
 		background-color: #fff;
-		background-image: url("/img/assets/slick/ajax-loader.gif") no-repeat;
+		background-image: url('/img/assets/slick/ajax-loader.gif') no-repeat;
 		background-position: center center;
 	}
 }
@@ -18,8 +18,8 @@
 	position: absolute;
 	display: block;
 	height: 75px;
-	line-height: 0px;
-	font-size: 0px;
+	line-height: 0;
+	font-size: 0;
 	cursor: pointer;
 	background: transparent;
 	bottom: 30px;
@@ -64,5 +64,3 @@
 		}
 	}
 }
-
-
