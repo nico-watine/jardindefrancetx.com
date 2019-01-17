@@ -3182,16 +3182,21 @@ header {
   margin: 0 auto;
 }
 
-.locationBanner {
+.location-banner {
+  padding: 90px 0;
   background: linear-gradient(rgba(105, 123, 153, 0.5), rgba(105, 123, 153, 0.5)), url("/img/index-2/location/location.jpg") center center/cover no-repeat;
 }
 
-.locationBanner .contactInfo a {
+.location-banner .contact-info {
+  border: 3px solid #fff;
+}
+
+.location-banner .contact-info a {
   color: #fefefe;
   text-decoration: underline;
 }
 
-.locationBanner .contactInfo a:hover {
+.location-banner .contact-info a:hover {
   text-decoration: none;
 }
 

@@ -232,11 +232,11 @@
 	</div>
 </section>
 
-<section class="about" style="padding: 40px 0;" id="about">
+<section class="about py-40" id="about">
 	<div class="row">
 		<div class="columns">
 			<div class="prose text-center" style="max-width: 770px; margin: 0 auto;">
-				<h2 class="h1 cursive" style="margin-bottom: 32px;">Our Story</h2>
+				<h2 class="h1 cursive mb-32">Our Story</h2>
 				<p class="h4">Two brothers born in the small Picard village of Montrelet, Nicolas and Patrice Watine have partnered to select and bring to you a taste of their antique furnishing patrimoine.</p>
 			</div>
 			<br>
@@ -248,17 +248,17 @@
 	</div>
 </section>
 
-<section class="locationBanner" style="padding: 90px 0;" id="location">
+<section class="location-banner" id="location">
 	<div class="row">
 		<div class="medium-11 columns medium-push-1">
 			<div class="prose white" style="max-width: 370px; width: 100%;">
 				<h2 class="h1 cursive">Location</h2>
-				<p class="h4" style="margin-bottom: 32px;">We are conveniently located 2 blocks south of Washington Ave at Durham Dr</p>
-				<div class="contactInfo" style="padding: 10px; border: 3px solid #fff;">
+				<p class="h4 mb-32">We are conveniently located 2 blocks south of Washington Ave at Durham Dr</p>
+				<div class="contact-info p-16">
 					<address class="h4"><strong><a href="https://goo.gl/maps/NtUtThFb2JA2" target="_blank">4819 Blossom St. <br>
 					Houston, TX <br>
 					77007</a></strong></address>
-					<span class="h4 block" style="margin-bottom: 8px;"><strong>Tue - Sat | 10 - 5</strong></span>
+					<span class="h4 block"><strong>Tue - Sat | 10 - 5</strong></span>
 					<p class="h4"><strong><a href="mailto:shop@jdftx.com">Shop@JDFTX.com</a></strong></p>
 					<span class="h4"><strong>832-651-3136</strong></span>
 				</div>
@@ -267,10 +267,9 @@
 	</div>
 </section>
 
-<footer style="padding: 40px 0;">
+<footer class="py-40">
 	<div class="socialMediaLinks text-center my-16">
 		<a href="https://www.instagram.com/jardindefrancetx/"><img src="/img/sharing/instagram.png" alt=""></a>
-		<!-- <a class="mx-16" href="https://www.facebook.com/jardindefrancetx"><img src="/img/sharing/facebook.png" alt=""></a> -->
 		<a class="mx-16" href="https://www.pinterest.com/patglo68/"><img src="/img/sharing/pinterest.png" alt=""></a>
 	</div>
 	<div class="text-center py-16">
