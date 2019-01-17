@@ -74,8 +74,8 @@
 		<div class="row text-center">
 			<div class="columns">
 				<h1 class="cursive">Jardin de France</h1>
-				<h2 class="h3"><strong>French Antiques and Plants for the Home &amp; Patio</strong></h2>
-				<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design</h3>
+				<h2 class="h3"><strong>French Antiques and Plants for the Home&nbsp;&amp;&nbsp;Patio</strong></h2>
+				<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden&nbsp;design</h3>
 				<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
 			</div>
 		</div>
