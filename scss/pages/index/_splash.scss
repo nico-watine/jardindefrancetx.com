@@ -1,3 +1,6 @@
+$minWidth-600: 'only screen and (min-width : 600px)';
+$minWidth-800: "only screen and (min-width : 800px)";
+
 #index.index {
 	.splash {
 		position: relative;
@@ -24,7 +27,7 @@
 
 		h1 {
 			font-size: 70px;
-			margin-bottom: 32px;
+			// margin-bottom: 32px;
 		}
 
 		h2 {
@@ -62,11 +65,44 @@
 	        transform: translateX(-50%) translateY(-50%);
 }
 
+// @media #{$medium} {
+@media #{$minWidth-600} {
+	#index.index {
+		.splash {
+			h1 {
+				// font-size: $h1-cursive-large;
+				// font-size: 40px;
+				// font-size: 8vw;
+				font-size: 80px;
+				// font-size: 10vw;
+				// margin-bottom: 8px;
+			}
+		}
+	}
+}
+
+@media #{$minWidth-800} {
+	#index.index {
+		.splash {
+			h1 {
+				// font-size: $h1-cursive-large;
+				// font-size: 40px;
+				// font-size: 8vw;
+				// font-size: 80px;
+				font-size: 10vw;
+				// margin-bottom: 8px;
+			}
+		}
+	}
+}
+
 @media #{$large} {
 	#index.index {
 		.splash {
 			h1 {
-				font-size: $h1-cursive-large;
+				// font-size: $h1-cursive-large;
+				// font-size: 10vw;
+				// margin-bottom: 8px;
 			}
 
 			.bgScrim {

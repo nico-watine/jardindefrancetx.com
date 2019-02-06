@@ -71,9 +71,11 @@
 
 <section class="splash bgvid-container" id="welcome">
 	<div class="prose white flex absolute">
-		<div class="row text-center">
-			<div class="columns">
+		<div class="row expanded text-center">
+			<div class="px-32 mb-32">
 				<h1 class="cursive">Jardin de France</h1>
+			</div>
+			<div class="columns">
 				<h2 class="h3"><strong>French Antiques and Plants for the Home&nbsp;&amp;&nbsp;Patio</strong></h2>
 				<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden&nbsp;design</h3>
 				<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
