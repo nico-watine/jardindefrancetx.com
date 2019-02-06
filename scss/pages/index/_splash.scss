@@ -1,5 +1,5 @@
 $minWidth-600: 'only screen and (min-width : 600px)';
-$minWidth-800: "only screen and (min-width : 800px)";
+$minWidth-800: 'only screen and (min-width : 800px)';
 
 #index.index {
 	.splash {
@@ -27,7 +27,6 @@ $minWidth-800: "only screen and (min-width : 800px)";
 
 		h1 {
 			font-size: 70px;
-			// margin-bottom: 32px;
 		}
 
 		h2 {
@@ -65,17 +64,11 @@ $minWidth-800: "only screen and (min-width : 800px)";
 	        transform: translateX(-50%) translateY(-50%);
 }
 
-// @media #{$medium} {
 @media #{$minWidth-600} {
 	#index.index {
 		.splash {
 			h1 {
-				// font-size: $h1-cursive-large;
-				// font-size: 40px;
-				// font-size: 8vw;
 				font-size: 80px;
-				// font-size: 10vw;
-				// margin-bottom: 8px;
 			}
 		}
 	}
@@ -85,12 +78,7 @@ $minWidth-800: "only screen and (min-width : 800px)";
 	#index.index {
 		.splash {
 			h1 {
-				// font-size: $h1-cursive-large;
-				// font-size: 40px;
-				// font-size: 8vw;
-				// font-size: 80px;
 				font-size: 10vw;
-				// margin-bottom: 8px;
 			}
 		}
 	}
@@ -99,12 +87,6 @@ $minWidth-800: "only screen and (min-width : 800px)";
 @media #{$large} {
 	#index.index {
 		.splash {
-			h1 {
-				// font-size: $h1-cursive-large;
-				// font-size: 10vw;
-				// margin-bottom: 8px;
-			}
-
 			.bgScrim {
 				background-image: radial-gradient(48% 195%, rgba(105,123,153,.40) 57%, rgba(0,0,0,.30) 100%);
 			}
