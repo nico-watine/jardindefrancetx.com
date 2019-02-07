@@ -1,5 +1,7 @@
 $minWidth-600: 'only screen and (min-width : 600px)';
+$minWidth-760: 'only screen and (min-width : 760px)';
 $minWidth-800: 'only screen and (min-width : 800px)';
+$minWidth-900: 'only screen and (min-width : 900px)';
 
 #index.index {
 	.splash {
@@ -74,7 +76,17 @@ $minWidth-800: 'only screen and (min-width : 800px)';
 	}
 }
 
-@media #{$minWidth-800} {
+@media #{$minWidth-760} {
+	#index.index {
+		.splash {
+			h1 {
+				font-size: 90px;
+			}
+		}
+	}
+}
+
+@media #{$minWidth-900} {
 	#index.index {
 		.splash {
 			h1 {
