@@ -85,7 +85,7 @@
 
 	<div class="bgScrim">&nbsp;</div>
 
-	<video autoplay muted loop poster="/img/index/splash/poster.jpg" id="backgroundVideo">
+	<video autoplay playsinline muted loop poster="/img/index/splash/poster.jpg" id="backgroundVideo">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video>
