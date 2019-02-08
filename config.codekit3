@@ -2238,28 +2238,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/index/about/_ignores/nicolas.png": {
-		"ft": 32768,
-		"iS": 45574,
-		"oA": 0,
-		"oAP": "/img/index/about/_ignores/nicolas.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/index/about/_ignores/patrice.png": {
-		"ft": 32768,
-		"iS": 48154,
-		"oA": 0,
-		"oAP": "/img/index/about/_ignores/patrice.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/img/index/about/nicolas.png": {
 		"ft": 32768,
 		"iS": 15238,
