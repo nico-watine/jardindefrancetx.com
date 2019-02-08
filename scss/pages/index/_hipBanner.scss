@@ -1,8 +1,25 @@
+$minWidth-380: "only screen and (min-width : 380px)";
+$minWidth-420: "only screen and (min-width : 420px)";
+
 .hipBanner {
 	padding: 60px 0;
 
 	.prose {
 		max-width: 770px;
 		margin: 0 auto;
+
+		.button {
+			font-size: 16px;
+			padding: 12px 16px;
+
+			@media #{$minWidth-380} {
+				font-size: 18px;
+				padding: 16px 32px;
+			}
+
+			@media #{$minWidth-420} {
+				font-size: 20px;
+			}
+		}
 	}
 }
