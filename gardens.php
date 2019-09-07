@@ -13,7 +13,8 @@
 </head>
 <body>
 
-<section class="gardens-section" id="gardens" style="background: #697B99;">
+<section class="gardens-section overflow-hidden position-relative" id="gardens" style="background: #697B99;">
+	<img src="/img/gardens/dev/gazebo/gazebo.jpg" style="height: 768px;" alt="" class="position-absolute">
 	<div class="row">
 		<div class="large-7 large-push-5 columns" style="padding-top: 80px; padding-bottom: 56px;">
 			<h1 class="cursive white separator headline">The Gardens</h1>
