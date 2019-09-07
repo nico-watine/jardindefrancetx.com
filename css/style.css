@@ -4884,8 +4884,8 @@ header {
 
 .gardens-section .headline::after {
   position: relative !important;
-  width: 230px;
-  border-bottom: 4px solid #FFFEB3;
-  margin: 16px auto 0;
+  width: 14.375rem;
+  border-bottom: 0.25rem solid #FFFEB3;
+  margin: 1rem auto 0;
   margin-left: 0 !important;
 }

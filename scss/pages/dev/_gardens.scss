@@ -1,5 +1,5 @@
 .gardens-section {
 	.headline {
-		@include separator(left, 4px, 230px, #FFFEB3, 16px);
+		@include separator(left, rem-calc(4), rem-calc(230), #FFFEB3, rem-calc(16));
 	}
 }
