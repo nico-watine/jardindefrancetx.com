@@ -4868,6 +4868,7 @@ header {
 
 .gardens-section .headline {
   text-align: left !important;
+  margin-bottom: 4rem;
 }
 
 .gardens-section .headline::before, .gardens-section .headline::after {

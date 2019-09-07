@@ -17,6 +17,7 @@
 	<div class="row">
 		<div class="large-7 large-push-5 columns" style="padding-top: 80px; padding-bottom: 56px;">
 			<h1 class="cursive white separator headline">The Gardens</h1>
+			<p class="lead white" style="max-width: 470px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
 		</div>
 	</div>
 </section>
