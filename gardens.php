@@ -18,6 +18,7 @@
 		<div class="large-7 large-push-5 columns" style="padding-top: 80px; padding-bottom: 56px;">
 			<h1 class="cursive white separator headline">The Gardens</h1>
 			<p class="lead white article" style="max-width: 470px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
+			<img src="/img/gardens/dev/garden-entry.png" style="border: 2px solid #fff; float: right; width: 470px;" alt="" class="border-radius-4">
 		</div>
 	</div>
 </section>
