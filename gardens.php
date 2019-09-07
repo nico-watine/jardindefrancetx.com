@@ -16,7 +16,7 @@
 <section class="gardens-section" id="gardens" style="background: #697B99;">
 	<div class="row">
 		<div class="large-7 large-push-5 columns" style="padding-top: 80px; padding-bottom: 56px;">
-			<h1 class="cursive white">The Gardens</h1>
+			<h1 class="cursive white separator headline">The Gardens</h1>
 		</div>
 	</div>
 </section>
