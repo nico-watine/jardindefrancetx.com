@@ -4890,3 +4890,7 @@ header {
   margin: 1rem auto 0;
   margin-left: 0 !important;
 }
+
+.gardens-section .article {
+  margin-bottom: 4rem;
+}

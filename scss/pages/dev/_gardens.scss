@@ -3,4 +3,8 @@
 		@include separator(left, rem-calc(4), rem-calc(230), #FFFEB3, rem-calc(16));
 		margin-bottom: rem-calc(64);
 	}
+
+	.article {
+		margin-bottom: rem-calc(64);
+	}
 }

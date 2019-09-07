@@ -2177,34 +2177,45 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/gardens/gazebo/gazebo-640.png": {
+	"/img/gardens/dev/garden-entry.png": {
+		"ft": 32768,
+		"iS": 1276355,
+		"oA": 1,
+		"oAP": "/img/gardens/dev/garden-entry.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/gardens/dev/gazebo/gazebo-640.png": {
 		"ft": 32768,
 		"iS": 785129,
 		"oA": 1,
-		"oAP": "/img/gardens/gazebo/gazebo-640.png",
+		"oAP": "/img/gardens/dev/gazebo/gazebo-640.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/gardens/gazebo/gazebo-960.png": {
+	"/img/gardens/dev/gazebo/gazebo-960.png": {
 		"ft": 32768,
 		"iS": 1713608,
 		"oA": 1,
-		"oAP": "/img/gardens/gazebo/gazebo-960.png",
+		"oAP": "/img/gardens/dev/gazebo/gazebo-960.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/img/gardens/gazebo/gazebo.jpg": {
+	"/img/gardens/dev/gazebo/gazebo.jpg": {
 		"ft": 16384,
 		"iS": 10032837,
 		"jF": 0,
 		"oA": 1,
-		"oAP": "/img/gardens/gazebo/gazebo.jpg",
+		"oAP": "/img/gardens/dev/gazebo/gazebo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
