@@ -21,6 +21,15 @@
 			</div>
 		</div>
 	</div>
+	<div class="section-main pt-24">
+		<div class="row">
+			<div class="column">
+				<div class="prose">
+					<p class="paragraph white mb-24">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 
 <br>
