@@ -1,4 +1,15 @@
-.gardens-section {
+.gardens-section.v1 {
+	.section-heading {
+		background: #697B99 url("/img/gardens/dev/gazebo/gazebo-640.png") center/cover no-repeat;
+		height: 240px;
+
+		.headline {
+			@include separator(left, rem-calc(4), rem-calc(230), #FFFEB3, rem-calc(16));
+		}
+	}
+}
+
+.gardens-section.v2 {
 	.headline {
 		@include separator(left, rem-calc(4), rem-calc(230), #FFFEB3, rem-calc(16));
 		margin-bottom: rem-calc(64);

@@ -13,7 +13,19 @@
 </head>
 <body>
 
-<section class="gardens-section overflow-hidden position-relative" id="gardens" style="background: #697B99;">
+<section class="gardens-section v1 hide-for-large" id="gardens">
+	<div class="section-heading pt-24">
+		<div class="row">
+			<div class="column">
+				<h1 class="headline cursive white">The Gardens</h1>
+			</div>
+		</div>
+	</div>
+</section>
+
+<br>
+
+<section class="gardens-section v2 overflow-hidden position-relative show-for-large" id="gardens" style="background: #697B99;">
 	<img src="/img/gardens/dev/gazebo/gazebo.jpg" style="height: 768px;" alt="" class="position-absolute">
 	<div class="row">
 		<div class="large-7 large-push-5 columns" style="padding-left: 0; padding-top: 80px; padding-bottom: 56px;">

@@ -4866,12 +4866,16 @@ header {
   }
 }
 
-.gardens-section .headline {
-  text-align: left !important;
-  margin-bottom: 4rem;
+.gardens-section.v1 .section-heading {
+  background: #697B99 url("/img/gardens/dev/gazebo/gazebo-640.png") center/cover no-repeat;
+  height: 240px;
 }
 
-.gardens-section .headline::before, .gardens-section .headline::after {
+.gardens-section.v1 .section-heading .headline {
+  text-align: left !important;
+}
+
+.gardens-section.v1 .section-heading .headline::before, .gardens-section.v1 .section-heading .headline::after {
   display: table;
   content: ' ';
   flex-basis: 0;
@@ -4879,11 +4883,11 @@ header {
           order: 1;
 }
 
-.gardens-section .headline::after {
+.gardens-section.v1 .section-heading .headline::after {
   clear: both;
 }
 
-.gardens-section .headline::after {
+.gardens-section.v1 .section-heading .headline::after {
   position: relative !important;
   width: 14.375rem;
   border-bottom: 0.25rem solid #FFFEB3;
@@ -4891,6 +4895,31 @@ header {
   margin-left: 0 !important;
 }
 
-.gardens-section .article {
+.gardens-section.v2 .headline {
+  text-align: left !important;
+  margin-bottom: 4rem;
+}
+
+.gardens-section.v2 .headline::before, .gardens-section.v2 .headline::after {
+  display: table;
+  content: ' ';
+  flex-basis: 0;
+  -webkit-box-ordinal-group: 2;
+          order: 1;
+}
+
+.gardens-section.v2 .headline::after {
+  clear: both;
+}
+
+.gardens-section.v2 .headline::after {
+  position: relative !important;
+  width: 14.375rem;
+  border-bottom: 0.25rem solid #FFFEB3;
+  margin: 1rem auto 0;
+  margin-left: 0 !important;
+}
+
+.gardens-section.v2 .article {
   margin-bottom: 4rem;
 }
