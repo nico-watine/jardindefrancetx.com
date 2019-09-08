@@ -4899,6 +4899,12 @@ header {
   margin-left: 0 !important;
 }
 
+@media only screen and (min-width: 40em) {
+  .gardens-section.v1 .section-header .headline {
+    font-size: 110px;
+  }
+}
+
 .gardens-section.v2 .headline {
   text-align: left !important;
   margin-bottom: 4rem;

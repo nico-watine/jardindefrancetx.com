@@ -11,6 +11,16 @@
 	}
 }
 
+@media #{$medium} {
+	.gardens-section.v1 {
+		.section-header {
+			.headline {
+				font-size: $h1-cursive-large;
+			}
+		}
+	}
+}
+
 .gardens-section.v2 {
 	.headline {
 		@include separator(left, rem-calc(4), rem-calc(230), #FFFEB3, rem-calc(16));

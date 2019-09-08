@@ -24,11 +24,13 @@
 	<div class="section-main pt-24 pb-40">
 		<div class="row">
 			<div class="column">
-				<div class="prose">
-					<p class="paragraph white mb-24">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
-				</div>
-				<div class="graphic">
-					<img style="border: 2px solid #fff;" class="border-radius-4" src="/img/gardens/dev/garden-entry.png" alt="">
+				<div class="inner-content" style="max-width: 470px; margin: 0 auto;">
+					<div class="prose">
+						<p class="paragraph white mb-24">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
+					</div>
+					<div class="graphic">
+						<img style="border: 2px solid #fff;" class="border-radius-4" src="/img/gardens/dev/garden-entry.png" alt="">
+					</div>
 				</div>
 			</div>
 		</div>
