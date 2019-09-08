@@ -14,7 +14,7 @@
 <body>
 
 <section class="gardens-section v1 hide-for-large" id="gardens">
-	<div class="section-heading pt-24">
+	<div class="section-header pt-24">
 		<div class="row">
 			<div class="column">
 				<h1 class="headline cursive white">The Gardens</h1>

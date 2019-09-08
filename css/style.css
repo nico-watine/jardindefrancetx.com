@@ -4870,16 +4870,16 @@ header {
   background: #697B99;
 }
 
-.gardens-section.v1 .section-heading {
+.gardens-section.v1 .section-header {
   background: #697B99 url("/img/gardens/dev/gazebo/gazebo-640.png") center/cover no-repeat;
   height: 240px;
 }
 
-.gardens-section.v1 .section-heading .headline {
+.gardens-section.v1 .section-header .headline {
   text-align: left !important;
 }
 
-.gardens-section.v1 .section-heading .headline::before, .gardens-section.v1 .section-heading .headline::after {
+.gardens-section.v1 .section-header .headline::before, .gardens-section.v1 .section-header .headline::after {
   display: table;
   content: ' ';
   flex-basis: 0;
@@ -4887,11 +4887,11 @@ header {
           order: 1;
 }
 
-.gardens-section.v1 .section-heading .headline::after {
+.gardens-section.v1 .section-header .headline::after {
   clear: both;
 }
 
-.gardens-section.v1 .section-heading .headline::after {
+.gardens-section.v1 .section-header .headline::after {
   position: relative !important;
   width: 14.375rem;
   border-bottom: 0.25rem solid #FFFEB3;
