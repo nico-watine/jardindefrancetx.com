@@ -45,7 +45,7 @@
 			<div class="section-graphic gazebo-background-image height-100"></div>
 		</div>
 		<div class="large-6 columns position-relative height-100">
-			<div class="inner-content vertical-center" style="width: 670px; max-width: 100%; padding-right: 32px;">
+			<div class="inner-content vertical-center" style="width: 702px; max-width: 100%; padding-right: 32px;">
 				<h1 class="cursive white separator headline">The Gardens</h1>
 				<p class="lead white article" style="max-width: 470px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
 				<img src="/img/gardens/dev/garden-entry.png" style="border: 2px solid #fff; width: 470px;" alt="" class="float-right border-radius-4">
