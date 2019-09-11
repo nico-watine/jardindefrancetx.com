@@ -1,12 +1,12 @@
 .gardens-section.v1 {
-	background: #697B99;
+	background: #697b99;
 
 	.section-header {
-		background: #697B99 url("/img/gardens/dev/gazebo/gazebo-640.png") center/cover no-repeat;
+		background: #697b99 url('/img/gardens/dev/gazebo/gazebo-640.png') center/cover no-repeat;
 		height: 240px;
 
 		.headline {
-			@include separator(left, rem-calc(4), rem-calc(230), #FFFEB3, rem-calc(16));
+			@include separator(left, rem-calc(4), rem-calc(230), #fffeb3, rem-calc(16));
 		}
 	}
 }
@@ -23,11 +23,19 @@
 
 .gardens-section.v2 {
 	.headline {
-		@include separator(left, rem-calc(4), rem-calc(230), #FFFEB3, rem-calc(16));
+		@include separator(left, rem-calc(4), rem-calc(230), #fffeb3, rem-calc(16));
 		margin-bottom: rem-calc(64);
 	}
 
 	.article {
 		margin-bottom: rem-calc(64);
+	}
+}
+
+@media #{$large} {
+	.gardens-section.v2 {
+		.section-graphic.gazebo-background-image {
+			background: #697b99 url("/img/gardens/dev/gazebo/gazebo.jpg") center/cover no-repeat;
+		}
 	}
 }

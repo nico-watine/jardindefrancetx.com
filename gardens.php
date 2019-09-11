@@ -41,8 +41,9 @@
 
 <section class="gardens-section v2 show-for-large" id="gardens" style="background: #697B99;">
 	<div class="row position-relative" style="max-width: 1366px; height: 768px;">
-		<div class="large-5 columns overflow-hidden" style="height: 768px;">
-			<img src="/img/gardens/dev/gazebo/gazebo.jpg" style="width: 576px; left: 0;" alt="" class="position-absolute">
+		<div class="large-5 columns pl-0" style="height: 768px;">
+			<div class="section-graphic gazebo-background-image height-100"></div>
+			<!-- <img src="/img/gardens/dev/gazebo/gazebo.jpg" style="width: 576px; left: 0;" alt="" class="position-absolute"> -->
 		</div>
 		<div class="large-7 columns">
 			<div class="inner-content position-absolute" style="height: 100%; background: #697B99; width: 670px; max-width: 100%; right: 0; padding: 0 32px; padding-top: 80px;">

@@ -4867,11 +4867,11 @@ header {
 }
 
 .gardens-section.v1 {
-  background: #697B99;
+  background: #697b99;
 }
 
 .gardens-section.v1 .section-header {
-  background: #697B99 url("/img/gardens/dev/gazebo/gazebo-640.png") center/cover no-repeat;
+  background: #697b99 url("/img/gardens/dev/gazebo/gazebo-640.png") center/cover no-repeat;
   height: 240px;
 }
 
@@ -4894,7 +4894,7 @@ header {
 .gardens-section.v1 .section-header .headline::after {
   position: relative !important;
   width: 14.375rem;
-  border-bottom: 0.25rem solid #FFFEB3;
+  border-bottom: 0.25rem solid #fffeb3;
   margin: 1rem auto 0;
   margin-left: 0 !important;
 }
@@ -4925,11 +4925,17 @@ header {
 .gardens-section.v2 .headline::after {
   position: relative !important;
   width: 14.375rem;
-  border-bottom: 0.25rem solid #FFFEB3;
+  border-bottom: 0.25rem solid #fffeb3;
   margin: 1rem auto 0;
   margin-left: 0 !important;
 }
 
 .gardens-section.v2 .article {
   margin-bottom: 4rem;
+}
+
+@media only screen and (min-width: 64em) {
+  .gardens-section.v2 .section-graphic.gazebo-background-image {
+    background: #697b99 url("/img/gardens/dev/gazebo/gazebo.jpg") center/cover no-repeat;
+  }
 }
