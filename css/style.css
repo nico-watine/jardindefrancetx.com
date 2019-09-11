@@ -4919,6 +4919,14 @@ header {
     bottom: 48px;
     left: 64px;
   }
+  .gardens-section.hide-for-large .section-main .inner-content.hide-at-768 {
+    display: none;
+    visibility: hidden;
+  }
+  .gardens-section.hide-for-large .section-main .inner-content-show-at-768 {
+    display: block;
+    visibility: visible;
+  }
 }
 
 .gardens-section.v2 .headline {
