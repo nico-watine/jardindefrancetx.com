@@ -39,13 +39,17 @@
 
 <br>
 
-<section class="gardens-section v2 overflow-hidden position-relative show-for-large" id="gardens" style="background: #697B99;">
-	<img src="/img/gardens/dev/gazebo/gazebo.jpg" style="height: 768px;" alt="" class="position-absolute">
-	<div class="row">
-		<div class="large-7 large-push-5 columns" style="padding-left: 0; padding-top: 80px; padding-bottom: 56px;">
-			<h1 class="cursive white separator headline">The Gardens</h1>
-			<p class="lead white article" style="max-width: 470px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
-			<img src="/img/gardens/dev/garden-entry.png" style="border: 2px solid #fff; float: right; width: 470px;" alt="" class="border-radius-4">
+<section class="gardens-section v2 show-for-large" id="gardens" style="background: #697B99;">
+	<div class="row position-relative" style="max-width: 1366px; height: 768px;">
+		<div class="large-5 columns overflow-hidden" style="height: 768px;">
+			<img src="/img/gardens/dev/gazebo/gazebo.jpg" style="width: 576px; left: 0;" alt="" class="position-absolute">
+		</div>
+		<div class="large-7 columns">
+			<div class="inner-content position-absolute" style="height: 100%; background: #697B99; width: 670px; max-width: 100%; right: 0; padding: 0 32px; padding-top: 80px;">
+				<h1 class="cursive white separator headline">The Gardens</h1>
+				<p class="lead white article" style="max-width: 470px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
+				<img src="/img/gardens/dev/garden-entry.png" style="border: 2px solid #fff; float: right; width: 470px;" alt="" class="border-radius-4">
+			</div>
 		</div>
 	</div>
 </section>
