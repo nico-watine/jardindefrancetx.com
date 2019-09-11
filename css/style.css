@@ -4905,6 +4905,22 @@ header {
   }
 }
 
+@media only screen and (min-width: 768px) {
+  .gardens-section.hide-for-large .section-header {
+    position: relative;
+    height: 27.5rem;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 19, 20, 0.3)), to(rgba(17, 19, 20, 0.3))), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center/cover no-repeat;
+    background: -webkit-linear-gradient(rgba(17, 19, 20, 0.3), rgba(17, 19, 20, 0.3)), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(17, 19, 20, 0.3), rgba(17, 19, 20, 0.3)), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center/cover no-repeat;
+  }
+  .gardens-section.hide-for-large .section-header .headline {
+    font-size: 110px;
+    position: absolute;
+    bottom: 48px;
+    left: 64px;
+  }
+}
+
 .gardens-section.v2 .headline {
   text-align: left !important;
   margin-bottom: 3rem;
