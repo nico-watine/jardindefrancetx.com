@@ -41,15 +41,14 @@
 
 <section class="gardens-section v2 show-for-large" id="gardens" style="background: #697B99;">
 	<div class="row position-relative expanded" style="height: 768px;">
-		<div class="large-6 columns pl-0" style="height: 768px;">
+		<div class="large-6 columns pl-0 height-100">
 			<div class="section-graphic gazebo-background-image height-100"></div>
-			<!-- <img src="/img/gardens/dev/gazebo/gazebo.jpg" style="width: 576px; left: 0;" alt="" class="position-absolute"> -->
 		</div>
-		<div class="large-6 columns position-relative" style="height: 768px;">
-			<div class="inner-content vertical-center" style="background: #697B99; width: 670px; max-width: 100%; padding-right: 32px;">
+		<div class="large-6 columns position-relative height-100">
+			<div class="inner-content vertical-center" style="width: 702px; max-width: 100%; padding-right: 32px;">
 				<h1 class="cursive white separator headline">The Gardens</h1>
 				<p class="lead white article" style="max-width: 470px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
-				<img src="/img/gardens/dev/garden-entry.png" style="border: 2px solid #fff; float: right; width: 470px;" alt="" class="border-radius-4">
+				<img src="/img/gardens/dev/garden-entry.png" style="border: 2px solid #fff; width: 470px;" alt="" class="float-right border-radius-4">
 			</div>
 		</div>
 	</div>
