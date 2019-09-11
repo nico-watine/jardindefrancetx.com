@@ -1,4 +1,4 @@
-.gardens-section.v1 {
+.gardens-section.hide-for-large {
 	background: #697b99;
 
 	.section-header {
@@ -12,7 +12,7 @@
 }
 
 @media #{$medium} {
-	.gardens-section.v1 {
+	.gardens-section.hide-for-large {
 		.section-header {
 			.headline {
 				font-size: $h1-cursive-large;
