@@ -24,7 +24,7 @@
 .gardens-section.v2 {
 	.headline {
 		@include separator(left, rem-calc(4), rem-calc(230), #fffeb3, rem-calc(16));
-		margin-bottom: rem-calc(64);
+		margin-bottom: rem-calc(48);
 	}
 
 	.article {
@@ -34,8 +34,23 @@
 
 @media #{$large} {
 	.gardens-section.v2 {
+		.headline {
+			font-size: rem-calc(90);
+		}
+
 		.section-graphic.gazebo-background-image {
 			background: #697b99 url("/img/gardens/dev/gazebo/gazebo.jpg") center/cover no-repeat;
+		}
+	}
+}
+
+$minWidth-1200: "only screen and (min-width : 1200px)";
+
+@media #{$minWidth-1200} {
+	.gardens-section.v2 {
+		.headline {
+			font-size: $h1-cursive-large;
+			margin-bottom: rem-calc(64);
 		}
 	}
 }

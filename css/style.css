@@ -4907,7 +4907,7 @@ header {
 
 .gardens-section.v2 .headline {
   text-align: left !important;
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
 }
 
 .gardens-section.v2 .headline::before, .gardens-section.v2 .headline::after {
@@ -4935,7 +4935,17 @@ header {
 }
 
 @media only screen and (min-width: 64em) {
+  .gardens-section.v2 .headline {
+    font-size: 5.625rem;
+  }
   .gardens-section.v2 .section-graphic.gazebo-background-image {
     background: #697b99 url("/img/gardens/dev/gazebo/gazebo.jpg") center/cover no-repeat;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .gardens-section.v2 .headline {
+    font-size: 110px;
+    margin-bottom: 4rem;
   }
 }
