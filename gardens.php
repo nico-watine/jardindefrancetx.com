@@ -43,7 +43,6 @@
 	<div class="row position-relative expanded" style="height: 768px;">
 		<div class="large-6 columns pl-0" style="height: 768px;">
 			<div class="section-graphic gazebo-background-image height-100"></div>
-			<!-- <img src="/img/gardens/dev/gazebo/gazebo.jpg" style="width: 576px; left: 0;" alt="" class="position-absolute"> -->
 		</div>
 		<div class="large-6 columns position-relative" style="height: 768px;">
 			<div class="inner-content vertical-center" style="background: #697B99; width: 670px; max-width: 100%; padding-right: 32px;">
