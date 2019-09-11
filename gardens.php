@@ -46,7 +46,7 @@
 			<!-- <img src="/img/gardens/dev/gazebo/gazebo.jpg" style="width: 576px; left: 0;" alt="" class="position-absolute"> -->
 		</div>
 		<div class="large-6 columns position-relative" style="height: 768px;">
-			<div class="inner-content absolute-center" style="background: #697B99; width: 670px; max-width: 100%; right: 0; padding-right: 32px;">
+			<div class="inner-content vertical-center" style="background: #697B99; width: 670px; max-width: 100%; padding-right: 32px;">
 				<h1 class="cursive white separator headline">The Gardens</h1>
 				<p class="lead white article" style="max-width: 470px;">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
 				<img src="/img/gardens/dev/garden-entry.png" style="border: 2px solid #fff; float: right; width: 470px;" alt="" class="border-radius-4">
