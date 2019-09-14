@@ -1810,6 +1810,18 @@ html {
   }
 }
 
+@media screen and (min-width: 768px) {
+  .hide-at-768 {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .show-at-768 {
+    display: none !important;
+  }
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
 	 ========================================================================== */
@@ -4918,14 +4930,6 @@ header {
     position: absolute;
     bottom: 48px;
     left: 64px;
-  }
-  .gardens-section.hide-for-large .section-main .inner-content.hide-at-768 {
-    display: none;
-    visibility: hidden;
-  }
-  .gardens-section.hide-for-large .section-main .inner-content-show-at-768 {
-    display: block;
-    visibility: visible;
   }
 }
 

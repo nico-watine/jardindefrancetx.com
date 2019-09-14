@@ -32,6 +32,12 @@
 						<img style="border: 2px solid #fff;" class="border-radius-4" src="/img/gardens/dev/garden-entry.png" alt="">
 					</div>
 				</div>
+				<div class="inner-content show-at-768 position-relative" style="height: 400px;margin: 0 auto;">
+					<img src="/img/gardens/dev/gazebo/gazebo.jpg" style="border: 2px solid #fff; width: 300px;" alt="" class="mr-32 border-radius-4 display-inline-block">
+					<!-- <div class="vertical-center height-100"> -->
+						<p class="h4 white float-right">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
+					<!-- </div> -->
+				</div>
 			</div>
 		</div>
 	</div>
