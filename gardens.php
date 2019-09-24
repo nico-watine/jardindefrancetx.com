@@ -37,7 +37,9 @@
 						<img src="/img/gardens/dev/gazebo/gazebo.jpg" style="border: 2px solid #fff; width: 300px;" alt="" class="mr-24 border-radius-4">
 					</div>
 					<div class="height-100 width-50 text-left float-right">
-						<p class="h4 white">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
+						<div class="prose vertical-center" style="max-width: 370px;">
+							<p class="h4 white">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
+						</div>
 					</div>
 					<div class="cf"></div>
 				</div>
