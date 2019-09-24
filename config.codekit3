@@ -3215,58 +3215,6 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"/scss/blocks/_body.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_body.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/blocks/_footer.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_footer.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/blocks/_header.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_header.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/scss/blocks/_nav.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_nav.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/scss/components/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -3410,7 +3358,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/elements/blocks/_hr.scss": {
+	"/scss/elements/blocks/_body.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3418,7 +3366,46 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/elements/css/_hr.css",
+		"oAP": "/scss/elements/css/_body.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/blocks/_footer.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/css/_footer.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/blocks/_header.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/css/_header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/elements/blocks/_nav.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/css/_nav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
