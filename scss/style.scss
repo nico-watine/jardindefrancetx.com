@@ -1,14 +1,14 @@
 // Variables
 @import 'var/_var.scss';
 
+// Functions
+@import 'functions/_functions.scss';
+
 // Normalize
 @import '../bower_components/normalize-css/normalize';
 
 // Foundation 6 grid & basics
 @import 'foundation-6/_foundation-6.scss';
-
-// Functions
-@import 'functions/_functions.scss';
 
 // Elements
 @import 'elements/_elements.scss';
