@@ -24,13 +24,24 @@
 	<div class="section-main pt-24 pb-40">
 		<div class="row">
 			<div class="column">
-				<div class="inner-content" style="max-width: 470px; margin: 0 auto;">
+				<div class="inner-content hide-at-768" style="max-width: 470px; margin: 0 auto;">
 					<div class="prose">
 						<p class="paragraph white mb-24">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
 					</div>
 					<div class="graphic">
 						<img style="border: 2px solid #fff;" class="border-radius-4" src="/img/gardens/dev/garden-entry.png" alt="">
 					</div>
+				</div>
+				<div class="inner-content show-at-768 position-relative" style="margin: 0 auto;">
+					<div class="graphic text-right width-50 float-left">
+						<img src="/img/gardens/dev/gazebo/gazebo.jpg" style="border: 2px solid #fff; width: 300px;" alt="" class="mr-24 border-radius-4">
+					</div>
+					<div class="height-100 width-50 text-left float-right">
+						<div class="prose vertical-center" style="max-width: 370px;">
+							<p class="h4 white">Find unique patio pieces and design inspiration for you own backyard. We can help you create a private retreat in the comfort of your home.</p>
+						</div>
+					</div>
+					<div class="cf"></div>
 				</div>
 			</div>
 		</div>

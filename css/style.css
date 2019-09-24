@@ -1810,6 +1810,18 @@ html {
   }
 }
 
+@media screen and (min-width: 768px) {
+  .hide-at-768 {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .show-at-768 {
+    display: none !important;
+  }
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
 	 ========================================================================== */
@@ -4866,20 +4878,20 @@ header {
   }
 }
 
-.gardens-section.v1 {
+.gardens-section.hide-for-large {
   background: #697b99;
 }
 
-.gardens-section.v1 .section-header {
+.gardens-section.hide-for-large .section-header {
   background: #697b99 url("/img/gardens/dev/gazebo/gazebo-640.png") center/cover no-repeat;
   height: 240px;
 }
 
-.gardens-section.v1 .section-header .headline {
+.gardens-section.hide-for-large .section-header .headline {
   text-align: left !important;
 }
 
-.gardens-section.v1 .section-header .headline::before, .gardens-section.v1 .section-header .headline::after {
+.gardens-section.hide-for-large .section-header .headline::before, .gardens-section.hide-for-large .section-header .headline::after {
   display: table;
   content: ' ';
   flex-basis: 0;
@@ -4887,11 +4899,11 @@ header {
           order: 1;
 }
 
-.gardens-section.v1 .section-header .headline::after {
+.gardens-section.hide-for-large .section-header .headline::after {
   clear: both;
 }
 
-.gardens-section.v1 .section-header .headline::after {
+.gardens-section.hide-for-large .section-header .headline::after {
   position: relative !important;
   width: 14.375rem;
   border-bottom: 0.25rem solid #fffeb3;
@@ -4900,8 +4912,24 @@ header {
 }
 
 @media only screen and (min-width: 40em) {
-  .gardens-section.v1 .section-header .headline {
+  .gardens-section.hide-for-large .section-header .headline {
     font-size: 110px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .gardens-section.hide-for-large .section-header {
+    position: relative;
+    height: 27.5rem;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 19, 20, 0.3)), to(rgba(17, 19, 20, 0.3))), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center/cover no-repeat;
+    background: -webkit-linear-gradient(rgba(17, 19, 20, 0.3), rgba(17, 19, 20, 0.3)), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(17, 19, 20, 0.3), rgba(17, 19, 20, 0.3)), url("/img/gardens/jardin-de-france-gardens-entry.jpg") center/cover no-repeat;
+  }
+  .gardens-section.hide-for-large .section-header .headline {
+    font-size: 110px;
+    position: absolute;
+    bottom: 48px;
+    left: 64px;
   }
 }
 
