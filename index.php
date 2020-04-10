@@ -21,8 +21,8 @@
 	<meta property="og:site_name" content="Jardin de France">
 	<meta property="og:image" content="https://jardindefrancetx.com/img/social-media/milieu/og-image.png">
 
-	<link href="<?php autoVer('/css/opt/style.css'); ?>" rel="stylesheet">
-	<!-- <link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet"> -->
+	<!-- <link href="<?php autoVer('/css/opt/style.css'); ?>" rel="stylesheet"> -->
+	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
 
 	<script type="application/ld+json">
 	{
@@ -71,11 +71,13 @@
 
 <section class="splash bgvid-container" id="welcome">
 	<div class="prose white flex absolute">
-		<div class="row text-center">
-			<div class="columns">
+		<div class="row expanded text-center">
+			<div class="px-32 mb-32">
 				<h1 class="cursive">Jardin de France</h1>
-				<h2 class="h3"><strong>French Antiques and Plants for the Home &amp; Patio</strong></h2>
-				<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden design</h3>
+			</div>
+			<div class="columns">
+				<h2 class="h3"><strong>French Antiques and Plants for the Home&nbsp;&amp;&nbsp;Patio</strong></h2>
+				<h3 class="h4">Bringing to Houston the beauty of original French Country antiques &amp; quaint garden&nbsp;design</h3>
 				<a href="#gardens" class="button cursive h4" data-scroll>Come Visit Us!</a>
 			</div>
 		</div>
@@ -83,7 +85,7 @@
 
 	<div class="bgScrim">&nbsp;</div>
 
-	<video autoplay muted loop poster="/img/index/splash/poster.jpg" id="backgroundVideo">
+	<video autoplay playsinline muted loop poster="/img/index/splash/poster.jpg" id="backgroundVideo">
 		<source src="/img/index/splash/splash.webm" type="video/webm">
 		<source src="/img/index/splash/splash.mp4" type="video/mp4">
 	</video>
@@ -193,7 +195,7 @@
 		<div class="columns">
 			<div class="prose">
 				<h2 class="cursive white"><span class="h4 block"><strong>The</strong></span> Round Top Antique Show</h2>
-				<h3 class="white">Spring 2018 Booth | <strong>Marburger Farm</strong></h3>
+				<h3 class="white">Spring 2019 Booth | <strong>Marburger Farm</strong></h3>
 			</div>
 		</div>
 	</div>
