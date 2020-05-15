@@ -1,5 +1,12 @@
 @import 'colors/_var-colors.scss';
 
+// ----------------------------------------------
+// |            typography Variables            |
+// ----------------------------------------------
+$global-font-size: 100% !default;
+$p-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$h-font-family: $p-font-family;
+
 // ---------------------------------------
 // |            Media Queries            |
 // ---------------------------------------
@@ -78,11 +85,3 @@ $z-2: 0 2px 2px 0 rgba(0,0,0,.20), 0 6px 10px 0 rgba(0,0,0,.30);
 $z-3: 0 11px 7px 0 rgba(0,0,0,.19), 0 13px 25px 0 rgba(0,0,0,.30);
 $z-4: 0 14px 12px 0 rgba(0,0,0,.17), 0 20px 40px 0 rgba(0,0,0,.30);
 $z-5: 0 17px 17px 0 rgba(0,0,0,.15), 0 27px 55px 0 rgba(0,0,0,.30);
-
-
-// ----------------------------------------------
-// |            typography Variables            |
-// ----------------------------------------------
-$global-font-size: 100% !default;
-$body-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$header-font-family: $body-font-family;
