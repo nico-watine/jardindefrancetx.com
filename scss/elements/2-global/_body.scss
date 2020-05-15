@@ -1,11 +1,9 @@
 body {
-	margin: 0;
-	padding: 0;
-	background: #fefefe;
+	background: #fefefe url('/img/assets/backgrounds/linen.jpg') top left/auto repeat;
 	font-family: $body-font-family;
 	font-weight: normal;
 	line-height: 1.5;
-	color: #0a0a0a;
+	color: $p-color;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }

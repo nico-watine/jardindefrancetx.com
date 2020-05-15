@@ -1,3 +1,5 @@
+@import 'colors/_var-colors.scss';
+
 // ---------------------------------------
 // |            Media Queries            |
 // ---------------------------------------
@@ -28,19 +30,19 @@ $h4-medium: 21px;
 $h5-medium: 16px;
 $h6-medium: 14px;
 
-$h1-cursive: 60px;
-$h2-cursive: 50px;
-$h3-cursive: 38px;
-$h4-cursive: 28px;
+
 
 // ---------------------------------------------------------------------- //
 // .Cursive fonts
 
+$h1-cursive: 60px;
+$h2-cursive: 50px;
+$h3-cursive: 38px;
+$h4-cursive: 28px;
 $h1-cursive-medium: 70px;
 $h2-cursive-medium: 50px;
 $h3-cursive-medium: 38px;
 $h4-cursive-medium: 28px;
-
 $h1-cursive-large: 110px;
 $h2-cursive-large: 68px;
 $h3-cursive-large: 42px;
