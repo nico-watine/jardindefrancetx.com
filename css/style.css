@@ -1932,15 +1932,6 @@ hr {
   border-bottom: 1px solid #cacaca;
 }
 
-body {
-  background: #fefefe url("/img/assets/backgrounds/linen.jpg") top left/auto repeat;
-  font-weight: normal;
-  line-height: 1.5;
-  color: #0a0a0a;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 .button {
   display: inline-block;
   vertical-align: middle;
