@@ -8,10 +8,27 @@ $global-lineheight: 1.5 !default;
 
 
 // ---------------------------------------------------------------------- //
+// Global
+// ------
+
+$global-font-size: 100% !default;
+$global-width: rem-calc(1200);
+$global-lineheight: 1.5;
+$black: #0a0a0a;
+$white: #fefefe;
+$body-background: $white url('/img/assets/backgrounds/linen.jpg') top left/auto repeat;
+$body-font-color: $black;
+$body-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$global-weight: normal;
+$global-weight-bold: bold;
+
+
+
+
+// ---------------------------------------------------------------------- //
 // Base Typography
 // ---------------
 
-$global-font-size: 100% !default;
 $p-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $h-font-family: $p-font-family;
 

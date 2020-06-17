@@ -15,8 +15,16 @@ html {
 body {
 	margin: 0; // [normalize] Remove the margin in all browsers.
 	padding: 0;
-	background-color: #fff;
-	color: #000; // [Opinionated] necessary for <h> to have color:inherit
+
+	background: $body-background;
+
+	font-family: $body-font-family;
+	font-weight: $global-weight;
+	line-height: $global-lineheight;
+	color: $body-font-color;
+
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 h1,
@@ -39,11 +47,11 @@ p {
 	margin-top: 0; // [bootstrap-reboot]
 	margin-bottom: 1rem;
 	font-size: inherit;
-	line-height: 1.5; // [Opinionated] Because to inherit the 1.15 value set on <html> is too small
+	// line-height: $p-lineheight; // [Opinionated] Because to inherit the 1.15 value set on <html> is too small
 }
 
 a {
-	color: #0000ee; // Specify to use the default <a> color from Chrome/FF/Safari so that a:visited/a:hover/a:active do not have a different color
+	color: #00e; // Specify to use the default <a> color from Chrome/FF/Safari so that a:visited/a:hover/a:active do not have a different color
 	background-color: transparent; // [normalize] Remove the gray background on active links in IE 10.
 	line-height: inherit;
 }
@@ -104,68 +112,72 @@ hr {
 	border-bottom: 1px solid #cacaca; // [Opinionated]
 }
 
-sub,
-sup {
-	// [normalize] - Prevent `sub` and `sup` elements from affecting the line height in all browsers.
-	font-size: 75%;
-	line-height: 0;
-	position: relative;
-	vertical-align: baseline;
+@if ($include-sub-sup) {
+	sub,
+	sup {
+		// [normalize] - Prevent `sub` and `sup` elements from affecting the line height in all browsers.
+		font-size: 75%;
+		line-height: 0;
+		position: relative;
+		vertical-align: baseline;
+	}
+
+	sub {
+		// [normalize] - Prevent `sub` elements from affecting the line height in all browsers.
+		bottom: -.25em;
+	}
+
+	sup {
+		// [normalize] - Prevent `sup` elements from affecting the line height in all browsers.
+		top: -.5em;
+	}
 }
 
-sub {
-	// [normalize] - Prevent `sub` elements from affecting the line height in all browsers.
-	bottom: -.25em;
-}
+@if ($include-pre-code) {
+	pre {
+		margin-top: 0;
+		margin-bottom: 1rem; // [Opinionated]
+		clear: both;
+		display: block;
+		padding: 0;
+		font-family: monospace, monospace; // [normalize] Correct the inheritance and scaling of font size in all browsers
+		font-size: 1em; // [normalize] Correct the odd `em` font sizing in all browsers.
+		// `word-break` CSS property sets whether line breaks appear wherever the text would otherwise overflow its content box
+		word-break: normal;
+		// `tab-size` CSS property is used to customize the width of a tab (U+0009) character
+		tab-size: 4; // [Opinionated]
+		// 'hyphens` CSS property specifies how words should be hyphenated when text wraps across multiple lines.
+		hyphens: none; // [Opinionated] Words are not broken at line breaks, even if characters inside the words suggest line break points. Lines will only wrap at whitespace.
+		background: #f7f7f9; // [Opinionated]
+		color: #000; // [Opinionated]
+		border: 1px solid #dbe2f2; // [Opinionated]
+		border-radius: 4px; // [Opinionated]
+	}
 
-sup {
-	// [normalize] - Prevent `sup` elements from affecting the line height in all browsers.
-	top: -.5em;
-}
+	code {
+		font-family: monospace, monospace; // [normalize] Correct the inheritance and scaling of font size in all browsers.
+		font-size: 90%; // [Opinionated] Make `font-size` slightly smaller than root since <code> will have some padding
+		padding: .1rem .3rem .2rem; // [Opinionated]
+		// `word-break` CSS property sets whether line breaks appear wherever the text would otherwise overflow its content box
+		word-break: break-all; // [Opinionated] To prevent overflow, word breaks should be inserted between any two characters
+		// `white-space` CSS property sets how white space inside an element is handled
+		white-space: pre; // [Opinionated] Sequences of white space are preserved. Lines are only broken at newline characters in the source and at <br> elements.
+		background: #f7f7f9; // [Opinionated]
+		color: #000; // [Opinionated]
+	}
 
-pre {
-	margin-top: 0;
-	margin-bottom: 1rem; // [Opinionated]
-	clear: both;
-	display: block;
-	padding: 0;
-	font-family: monospace, monospace; // [normalize] Correct the inheritance and scaling of font size in all browsers
-	font-size: 1em; // [normalize] Correct the odd `em` font sizing in all browsers.
-	// `word-break` CSS property sets whether line breaks appear wherever the text would otherwise overflow its content box
-	word-break: normal;
-	// `tab-size` CSS property is used to customize the width of a tab (U+0009) character
-	tab-size: 4; // [Opinionated]
-	// 'hyphens` CSS property specifies how words should be hyphenated when text wraps across multiple lines.
-	hyphens: none; // [Opinionated] Words are not broken at line breaks, even if characters inside the words suggest line break points. Lines will only wrap at whitespace.
-	background: #f7f7f9; // [Opinionated]
-	color: #000; // [Opinionated]
-	border: 1px solid #dbe2f2; // [Opinionated]
-	border-radius: 4px; // [Opinionated]
-}
+	pre code {
+		// Per recommendation of CSS wizard Chris Coyier, wrap your <code> tag inside <pre>
+		// https://mediatemple.net/blog/tips/considerations-for-styling-the-pre-tag/
 
-code {
-	font-family: monospace, monospace; // [normalize] Correct the inheritance and scaling of font size in all browsers.
-	font-size: 90%; // [Opinionated] Make `font-size` slightly smaller than root since <code> will have some padding
-	padding: .1rem .3rem .2rem; // [Opinionated]
-	// `word-break` CSS property sets whether line breaks appear wherever the text would otherwise overflow its content box
-	word-break: break-all; // [Opinionated] To prevent overflow, word breaks should be inserted between any two characters
-	// `white-space` CSS property sets how white space inside an element is handled
-	white-space: pre; // [Opinionated] Sequences of white space are preserved. Lines are only broken at newline characters in the source and at <br> elements.
-	background: #f7f7f9; // [Opinionated]
-	color: #000; // [Opinionated]
-}
-
-pre code {
-	// Per recommendation of CSS wizard Chris Coyier, wrap your <code> tag inside <pre>
-	// https://mediatemple.net/blog/tips/considerations-for-styling-the-pre-tag/
-
-	display: block;
-	font-size: 16px; // [Opinionated] - Ensure `font-size` is 16px, regardless of root size
-	line-height: 1.5; // [Opinionated]
-	padding: 16px; // [Opinionated] - Match `font-size`
-	max-width: 100%; // So <code> doesn't expand outside its <pre> wrapper
-	min-width: 100px; // [Opinionated] - so <code> has at least 100px to display its content
-	// `white-space` CSS property sets how white space inside an element is handled
-	white-space: pre-wrap; // [Opinionated] Sequences of white space are preserved. Lines are broken at newline characters, at <br>, and as necessary to fill line boxes.
-	background: none; // [Opinionated] Since <code> will be wrapped in <pre>, and <pre> already has a `background` set
+		display: block;
+		font-size: 16px; // [Opinionated] - Ensure `font-size` is 16px, regardless of root size
+		line-height: 1.5; // [Opinionated]
+		padding: 16px; // [Opinionated] - Match `font-size`
+		max-width: 100%; // So <code> doesn't expand outside its <pre> wrapper
+		min-width: 100px; // [Opinionated] - so <code> has at least 100px to display its content
+		// `white-space` CSS property sets how white space inside an element is handled
+		white-space: pre-wrap; // [Opinionated] Sequences of white space are preserved. Lines are broken at newline characters, at <br>, and as necessary to fill line boxes.
+		background: none; // [Opinionated] Since <code> will be wrapped in <pre>, and <pre> already has a `background` set
+	}
 }
