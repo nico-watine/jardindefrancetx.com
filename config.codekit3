@@ -3993,6 +3993,19 @@
 		"oS": 0,
 		"sct": 1
 		},
+	"/scss/elements/utilities/_visibility.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/css/_visibility.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
 	"/scss/elements/utilities/_widths.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4212,19 +4225,6 @@
 		"oAP": "/scss/vendors/css/_grid.css",
 		"oF": 0,
 		"oS": 1,
-		"sct": 1
-		},
-	"/scss/vendors/foundation-6/_visibility.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/vendors/css/_visibility.css",
-		"oF": 0,
-		"oS": 0,
 		"sct": 1
 		},
 	"/sitemap.xml": {
