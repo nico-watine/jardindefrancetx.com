@@ -137,6 +137,16 @@ figure {
   margin: 0;
 }
 
+@font-face {
+  font-family: 'nav';
+  src: url("/fonts/nav/nav.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/nav/nav.eot?#iefix") format("embedded-opentype"), url("/fonts/nav/nav.woff") format("woff"), url("/fonts/nav/nav.ttf") format("truetype"), url("/fonts/nav/nav.svg#1da3456e837ae6ef244abd56d21c2bc6") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: 400;
+}
+
 .font-weight-100,
 .font-weight-ultralight {
   font-weight: 100 !important;
@@ -3016,16 +3026,6 @@ header {
 
 .min-width-25 {
   min-width: 25%;
-}
-
-@font-face {
-  font-family: 'nav';
-  src: url("/fonts/nav/nav.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/nav/nav.eot?#iefix") format("embedded-opentype"), url("/fonts/nav/nav.woff") format("woff"), url("/fonts/nav/nav.ttf") format("truetype"), url("/fonts/nav/nav.svg#1da3456e837ae6ef244abd56d21c2bc6") format("svg");
-  /* Legacy iOS */
-  font-style: normal;
-  font-weight: 400;
 }
 
 p {
