@@ -3421,6 +3421,19 @@
 		"oS": 0,
 		"sct": 1
 		},
+	"/scss/elements/site-components/_foundation-6-grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/elements/css/_foundation-6-grid.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
 	"/scss/elements/site-components/_site-components.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4184,45 +4197,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/style.css",
-		"oF": 0,
-		"oS": 1,
-		"sct": 1
-		},
-	"/scss/vendors/_vendors.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/css/_vendors.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
-	"/scss/vendors/foundation-6/_foundation-6.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/vendors/css/_foundation-6.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 1
-		},
-	"/scss/vendors/foundation-6/_grid.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/vendors/css/_grid.css",
 		"oF": 0,
 		"oS": 1,
 		"sct": 1
