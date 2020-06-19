@@ -3236,21 +3236,6 @@ a.colophon:hover {
   text-decoration: underline;
 }
 
-html,
-body {
-  height: 100%;
-}
-
-::-moz-selection {
-  background: #b3d4fc;
-  text-shadow: none;
-}
-
-::selection {
-  background: #b3d4fc;
-  text-shadow: none;
-}
-
 a.button {
   border: none;
   cursor: pointer;
@@ -3825,4 +3810,9 @@ a.button:hover {
     font-size: 110px;
     margin-bottom: 4rem;
   }
+}
+
+html,
+body {
+  height: 100%;
 }
