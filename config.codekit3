@@ -3252,32 +3252,6 @@
 		"oS": 1,
 		"sct": 1
 		},
-	"/scss/components/slider/_slick-theme.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/components/css/_slick-theme.css",
-		"oF": 0,
-		"oS": 1,
-		"sct": 1
-		},
-	"/scss/components/slider/_slick.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/scss/components/css/_slick.css",
-		"oF": 0,
-		"oS": 1,
-		"sct": 1
-		},
 	"/scss/elements/1-reset/_reset.scss": {
 		"aP": 0,
 		"bl": 0,
