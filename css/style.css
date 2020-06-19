@@ -204,29 +204,13 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0 0 8px;
+  line-height: 1.4;
   font-style: normal;
   font-weight: normal;
-  color: #0a0a0a;
-  line-height: 1.2;
-  margin-bottom: 0.5rem;
+  color: inherit;
   text-rendering: optimizeLegibility;
-}
-
-h1 small,
-.h1 small,
-h2 small,
-.h2 small,
-h3 small,
-.h3 small,
-h4 small,
-.h4 small,
-h5 small,
-.h5 small,
-h6 small,
-.h6 small {
-  line-height: 0;
-  color: #8a8a8a;
 }
 
 a {
@@ -359,6 +343,14 @@ ol.no-bullet {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
+.white {
+  color: #fefefe;
+}
+
+.black {
+  color: #0a0a0a;
+}
+
 .text-truncate {
   max-width: 100% !important;
   overflow: hidden !important;
@@ -416,6 +408,11 @@ ol.no-bullet {
   border: 0 !important;
 }
 
+p,
+.p {
+  font-size: 16px;
+}
+
 h1,
 .h1 {
   font-size: 2rem;
@@ -446,7 +443,15 @@ h6,
   font-size: 0.875rem;
 }
 
-@media only screen and (min-width : 40em) {
+h5,
+.h5,
+h6,
+.h6 {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+@media print, screen and (min-width: 40em) {
   h1,
 .h1 {
     font-size: 3.125rem;
@@ -462,6 +467,78 @@ h6,
   h4,
 .h4 {
     font-size: 1.3125rem;
+  }
+  h5,
+.h5 {
+    font-size: 16px;
+  }
+  h6,
+.h6 {
+    font-size: 14px;
+  }
+}
+
+.cursive {
+  font-family: "Parisienne", cursive;
+  line-height: 1;
+}
+
+h1.cursive,
+.h1.cursive {
+  font-size: 60px;
+  letter-spacing: -.2px;
+}
+
+h2.cursive,
+.h2.cursive {
+  font-size: 50px;
+}
+
+h3.cursive,
+.h3.cursive {
+  font-size: 38px;
+}
+
+h4.cursive,
+.h4.cursive {
+  font-size: 28px;
+}
+
+@media print, screen and (min-width: 40em) {
+  h1.cursive,
+.h1.cursive {
+    font-size: 70px;
+  }
+  h2.cursive,
+.h2.cursive {
+    font-size: 50px;
+  }
+  h3.cursive,
+.h3.cursive {
+    font-size: 38px;
+  }
+  h4.cursive,
+.h4.cursive {
+    font-size: 28px;
+  }
+}
+
+@media only screen and (min-width : 64em) {
+  h1.cursive,
+.h1.cursive {
+    font-size: 110px;
+  }
+  h2.cursive,
+.h2.cursive {
+    font-size: 68px;
+  }
+  h3.cursive,
+.h3.cursive {
+    font-size: 42px;
+  }
+  h4.cursive,
+.h4.cursive {
+    font-size: 26px;
   }
 }
 
@@ -502,7 +579,6 @@ header {
   text-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
   z-index: 55;
   color: #fefefe;
-  font-size: 60px;
 }
 
 @media screen and (min-width: 751px) {
@@ -516,12 +592,6 @@ header {
   .logo h1 {
     display: block;
     visibility: visible;
-  }
-}
-
-@media only screen and (min-width : 40em) {
-  .logo h1 {
-    font-size: 70px;
   }
 }
 
@@ -3051,176 +3121,6 @@ header {
 
 .min-width-25 {
   min-width: 25%;
-}
-
-p {
-  margin: 0 0 1rem;
-  font-size: 16px;
-  line-height: 1.6;
-  text-rendering: optimizeLegibility;
-}
-
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3,
-h4,
-.h4,
-h5,
-.h5,
-h6,
-.h6 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  margin: 0 0 8px;
-  line-height: 1.4;
-  font-style: normal;
-  font-weight: normal;
-  color: inherit;
-  text-rendering: optimizeLegibility;
-}
-
-p,
-.p {
-  font-size: 16px;
-}
-
-h1,
-.h1 {
-  font-size: 2rem;
-}
-
-h2,
-.h2 {
-  font-size: 1.625rem;
-}
-
-h3,
-.h3 {
-  font-size: 1.375rem;
-}
-
-h4,
-.h4 {
-  font-size: 1.125rem;
-}
-
-h5,
-.h5 {
-  font-size: 1rem;
-}
-
-h6,
-.h6 {
-  font-size: 0.875rem;
-}
-
-h5,
-.h5,
-h6,
-.h6 {
-  letter-spacing: 1px;
-  text-transform: uppercase;
-}
-
-@media print, screen and (min-width: 40em) {
-  h1,
-.h1 {
-    font-size: 3.125rem;
-  }
-  h2,
-.h2 {
-    font-size: 2.375rem;
-  }
-  h3,
-.h3 {
-    font-size: 1.75rem;
-  }
-  h4,
-.h4 {
-    font-size: 1.3125rem;
-  }
-  h5,
-.h5 {
-    font-size: 16px;
-  }
-  h6,
-.h6 {
-    font-size: 14px;
-  }
-}
-
-.cursive {
-  font-family: "Parisienne", cursive;
-  line-height: 1;
-}
-
-h1.cursive,
-.h1.cursive {
-  font-size: 60px;
-  letter-spacing: -.2px;
-}
-
-h2.cursive,
-.h2.cursive {
-  font-size: 50px;
-}
-
-h3.cursive,
-.h3.cursive {
-  font-size: 38px;
-}
-
-h4.cursive,
-.h4.cursive {
-  font-size: 28px;
-}
-
-@media print, screen and (min-width: 40em) {
-  h1.cursive,
-.h1.cursive {
-    font-size: 70px;
-  }
-  h2.cursive,
-.h2.cursive {
-    font-size: 50px;
-  }
-  h3.cursive,
-.h3.cursive {
-    font-size: 38px;
-  }
-  h4.cursive,
-.h4.cursive {
-    font-size: 28px;
-  }
-}
-
-@media only screen and (min-width : 64em) {
-  h1.cursive,
-.h1.cursive {
-    font-size: 110px;
-  }
-  h2.cursive,
-.h2.cursive {
-    font-size: 68px;
-  }
-  h3.cursive,
-.h3.cursive {
-    font-size: 42px;
-  }
-  h4.cursive,
-.h4.cursive {
-    font-size: 26px;
-  }
-}
-
-.white {
-  color: #fefefe;
-}
-
-.black {
-  color: #0a0a0a;
 }
 
 .bannerSection {
