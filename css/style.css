@@ -472,6 +472,14 @@ p {
   text-rendering: optimizeLegibility;
 }
 
+a.colophon span {
+  text-decoration: underline;
+}
+
+a.colophon:hover {
+  text-decoration: underline;
+}
+
 header {
   background: #697b99;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
@@ -3213,14 +3221,6 @@ h4.cursive,
 
 .black {
   color: #0a0a0a;
-}
-
-a.colophon span {
-  text-decoration: underline;
-}
-
-a.colophon:hover {
-  text-decoration: underline;
 }
 
 .bannerSection {
