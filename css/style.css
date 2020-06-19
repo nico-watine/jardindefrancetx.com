@@ -230,13 +230,13 @@ h6 small,
 }
 
 a {
-  color: #1779ba;
+  color: #2ba6cb;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #1468a0;
+  color: #258faf;
 }
 
 ul,
@@ -3213,18 +3213,6 @@ h4.cursive,
 
 .black {
   color: #0a0a0a;
-}
-
-a {
-  line-height: inherit;
-  color: #2ba6cb;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-a:hover,
-a:focus {
-  color: #258faf;
 }
 
 a.colophon span {
