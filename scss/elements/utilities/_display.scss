@@ -6,10 +6,12 @@
 	display: inline;
 }
 
+.inline-block,
 .display-inline-block {
 	display: inline-block;
 }
 
+.block,
 .display-block {
 	display: block;
 }
@@ -26,6 +28,7 @@
 	display: table-cell;
 }
 
+.flex,
 .display-flex {
 	display: flex;
 }
